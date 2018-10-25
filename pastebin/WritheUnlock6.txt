@@ -1,0 +1,1038 @@
+GameView Start
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_RedirectMany
+The Matriarch puts Mask of the Matriarch into play.
+The Matriarch shuffles their the villain deck.
+Went to The Matriarch's Start phase.
+Mask of the Matriarch tried to increase The Matriarch's HP, but they are already at their maximum HP.
+Went from The Matriarch's Start phase to PlayCard phase. 
+GameController plays Building of Rooks.
+The Matriarch plays Huginn.
+Mask of the Matriarch plays Horrid Cacophony.
+There are no Hero Ongoing cards in play for The Matriarch to destroy.
+The Matriarch initiates 2 Sonic damage to Dr. Medico.
+The Matriarch deals Dr. Medico 2 Sonic damage.
+Dr. Medico is now at 22 HP.
+The Matriarch initiates 2 Sonic damage to Writhe.
+The Matriarch deals Writhe 2 Sonic damage.
+Writhe is now at 17 HP.
+The Matriarch initiates 2 Sonic damage to Mainstay.
+The Matriarch deals Mainstay 2 Sonic damage.
+Mainstay is now at 26 HP.
+The Matriarch initiates 2 Sonic damage to The Idealist.
+The Matriarch deals The Idealist 2 Sonic damage.
+The Idealist is now at 22 HP.
+GameController moved Horrid Cacophony to the villain trash.
+Went from The Matriarch's PlayCard phase to End phase. 
+Went from The Matriarch's End phase to Void Guard Dr. Medico's Start phase. 
+Went from Void Guard Dr. Medico's Start phase to PlayCard phase. 
+GameController plays Positive Prognosis.
+Dr. Medico initiates 1 Energy damage to Dr. Medico.
+Dr. Medico deals Dr. Medico 1 Energy damage.
+Dr. Medico is now at 21 HP.
+Void Guard Dr. Medico draws Triage.
+Void Guard Writhe draws Umbral Siphon.
+Void Guard Mainstay draws Durasteel-Studded Vest.
+Void Guard The Idealist draws Bright Idea.
+Positive Prognosis caused Dr. Medico to regain 1 HP. HP is now 22.
+Positive Prognosis caused Writhe to regain 1 HP. HP is now 18.
+Positive Prognosis caused Mainstay to regain 1 HP. HP is now 27.
+Positive Prognosis caused The Idealist to regain 1 HP. HP is now 23.
+GameController moved Positive Prognosis to Void Guard Dr. Medico's trash.
+Went from Void Guard Dr. Medico's PlayCard phase to UsePower phase. 
+Void Guard Dr. Medico uses the power on Dr. Medico.
+Applying ongoing effect: Increase the next HP gain by Dr. Medico by 2.
+Went from Void Guard Dr. Medico's UsePower phase to DrawCard phase. 
+Void Guard Dr. Medico draws Regeneration.
+Went from Void Guard Dr. Medico's DrawCard phase to End phase. 
+Went from Void Guard Dr. Medico's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Grasping Shadow-Cloth.
+***** LOADED UNDO FILE: undo-10-VoidGuardWrithe-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 98.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 526.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Fight and Fade.
+Writhe initiates 2 Infernal damage to Mask of the Matriarch.
+Writhe deals Mask of the Matriarch 2 Infernal damage.
+Mask of the Matriarch is now at 7 HP.
+Fight and Fade puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Fight and Fade plays Umbral Siphon.
+GameController moved Fight and Fade to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Mask of the Matriarch.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Mask of the Matriarch 2 Melee damage.
+Mask of the Matriarch is now at 5 HP.
+Applying ongoing effect: Mask of the Matriarch cannot gain HP.
+Writhe initiates 1 Infernal damage to Mask of the Matriarch.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Mask of the Matriarch 2 Infernal damage.
+Mask of the Matriarch is now at 3 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Unnerving Target.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Void Guard Mainstay's Start phase. 
+Went from Void Guard Mainstay's Start phase to PlayCard phase. 
+GameController plays Void Belter.
+Went from Void Guard Mainstay's PlayCard phase to UsePower phase. 
+Void Guard Mainstay uses the power on Void Belter.
+Mainstay initiates 3 Melee damage to Mask of the Matriarch.
+Mainstay deals Mask of the Matriarch 3 Melee damage.
+Mask of the Matriarch is now at 0 HP.
+Mainstay's Beatdown destroys Mask of the Matriarch!
+GameController moved Mask of the Matriarch to the villain trash.
+Went from Void Guard Mainstay's UsePower phase to DrawCard phase. 
+Void Guard Mainstay draws Kick the Tires.
+Went from Void Guard Mainstay's DrawCard phase to End phase. 
+Went from Void Guard Mainstay's End phase to Void Guard The Idealist's Start phase. 
+Went from Void Guard The Idealist's Start phase to PlayCard phase. 
+GameController plays Vivid Thoughts.
+Revealed card: Sound Beating
+Revealed card: Making Things Up
+Revealed card: Sound Beating
+Vivid Thoughts puts Sound Beating into play.
+The Idealist initiates 3 Sonic damage to Huginn.
+The Idealist deals Huginn 3 Sonic damage.
+Huginn is now at 4 HP.
+GameController moved Sound Beating to Void Guard The Idealist's trash.
+Vivid Thoughts puts Sound Beating into play.
+The Idealist initiates 3 Sonic damage to Huginn.
+The Idealist deals Huginn 3 Sonic damage.
+Huginn is now at 1 HP.
+GameController moved Sound Beating to Void Guard The Idealist's trash.
+Vivid Thoughts moved Making Things Up from Void Guard The Idealist's revealed cards to Void Guard The Idealist's hand.
+GameController moved Vivid Thoughts to Void Guard The Idealist's trash.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase. 
+Void Guard The Idealist uses the power on The Idealist.
+Void Guard The Idealist draws Bored Now.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase. 
+Void Guard The Idealist draws Strained Superego.
+Went from Void Guard The Idealist's DrawCard phase to End phase. 
+Went from Void Guard The Idealist's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Found Wanting.
+GameController moved Found Wanting from the environment deck next to The Matriarch.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to The Matriarch's Start phase. 
+Building of Rooks initiates 2 Projectile damage to Mainstay.
+Building of Rooks deals Mainstay 2 Projectile damage.
+Mainstay is now at 25 HP.
+Huginn will destroy 1 hero ongoing or equipment cards.
+Huginn destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Went from The Matriarch's Start phase to PlayCard phase. 
+GameController plays Clattering of Jackdaws.
+The Matriarch plays Murder of Crows.
+The Matriarch plays Carrion Fields.
+Went from The Matriarch's PlayCard phase to End phase. 
+Went from The Matriarch's End phase to Void Guard Dr. Medico's Start phase. 
+Went from Void Guard Dr. Medico's Start phase to PlayCard phase. 
+GameController plays Lifeforce of Will.
+Dr. Medico initiates 2 Energy damage to Dr. Medico.
+Dr. Medico deals Dr. Medico 2 Energy damage.
+Dr. Medico is now at 20 HP.
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Void Guard Mainstay uses the power on Void Belter.
+Mainstay initiates 3 Melee damage to Carrion Fields.
+Mainstay deals Carrion Fields 3 Melee damage.
+Carrion Fields is now at 12 HP.
+Void Guard The Idealist uses the power on The Idealist.
+Void Guard The Idealist draws Making Things Up.
+GameController moved Lifeforce of Will to Void Guard Dr. Medico's trash.
+Went from Void Guard Dr. Medico's PlayCard phase to UsePower phase. 
+Void Guard Dr. Medico uses the power on Dr. Medico.
+Applying ongoing effect: Increase the next HP gain by Mainstay by 2.
+Went from Void Guard Dr. Medico's UsePower phase to DrawCard phase. 
+Void Guard Dr. Medico draws Healing Pulse.
+Went from Void Guard Dr. Medico's DrawCard phase to End phase. 
+Went from Void Guard Dr. Medico's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Grasping Shadow-Cloth.
+Grasping Shadow-Cloth moved Mask of the Matriarch from the villain trash to the bottom of the villain deck.
+Grasping Shadow-Cloth destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Applying ongoing effect: The Matriarch cannot play cards.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Fight and Fade.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Void Guard Mainstay's Start phase. 
+Went from Void Guard Mainstay's Start phase to PlayCard phase. 
+GameController plays Durasteel-Studded Vest.
+Went from Void Guard Mainstay's PlayCard phase to UsePower phase. 
+Void Guard Mainstay uses the power on Mainstay.
+Mainstay initiates 1 Melee damage to Huginn.
+Mainstay deals Huginn 1 Melee damage.
+Huginn is now at 0 HP.
+Mainstay's Beatdown destroys Huginn!
+GameController moved Huginn to the villain trash.
+Mainstay initiates 1 Melee damage to Clattering of Jackdaws.
+Mainstay deals Clattering of Jackdaws 1 Melee damage.
+Clattering of Jackdaws is now at 0 HP.
+Mainstay's Beatdown destroys Clattering of Jackdaws!
+***** LOADED UNDO FILE: undo-42-VoidGuardMainstay-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 98.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 526.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Void Guard Mainstay uses the power on Mainstay.
+Mainstay initiates 1 Melee damage to Huginn.
+Mainstay deals Huginn 1 Melee damage.
+Huginn is now at 0 HP.
+Mainstay's Beatdown destroys Huginn!
+GameController moved Huginn to the villain trash.
+Mainstay initiates 1 Melee damage to Carrion Fields.
+Mainstay deals Carrion Fields 1 Melee damage.
+Carrion Fields is now at 11 HP.
+Went from Void Guard Mainstay's UsePower phase to DrawCard phase. 
+Void Guard Mainstay draws Leader of the Pack.
+Went from Void Guard Mainstay's DrawCard phase to End phase. 
+Went from Void Guard Mainstay's End phase to Void Guard The Idealist's Start phase. 
+Went from Void Guard The Idealist's Start phase to PlayCard phase. 
+GameController plays Conceptualize.
+Conceptualize puts Flying Stabby Knives into play.
+Void Guard The Idealist shuffles their Void Guard The Idealist's deck.
+Conceptualize moves 3 cards to the top of Void Guard The Idealist's Deck.
+Void Guard The Idealist shuffles their Void Guard The Idealist's deck.
+Conceptualize was moved under Flying Stabby Knives.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase. 
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Conceptualize!
+GameController moved Conceptualize from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to Carrion Fields.
+The Idealist deals Carrion Fields 2 Psychic damage.
+Carrion Fields is now at 9 HP.
+The Idealist initiates 2 Psychic damage to The Matriarch.
+The Idealist deals The Matriarch 2 Psychic damage.
+The Matriarch is now at 68 HP.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase. 
+Void Guard The Idealist draws Giant Floaty Head.
+Went from Void Guard The Idealist's DrawCard phase to End phase. 
+Went from Void Guard The Idealist's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Paragon of Sentience.
+GameController moved Paragon of Sentience from the environment deck next to Mainstay.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to The Matriarch's Start phase. 
+Building of Rooks initiates 2 Projectile damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Building of Rooks by 1.
+Building of Rooks deals Mainstay 1 Projectile damage.
+Mainstay is now at 24 HP.
+Clattering of Jackdaws initiates 1 Projectile damage to Dr. Medico.
+Clattering of Jackdaws deals Dr. Medico 1 Projectile damage.
+Dr. Medico is now at 19 HP.
+Clattering of Jackdaws initiates 1 Projectile damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to The Idealist.
+Clattering of Jackdaws deals The Idealist 1 Projectile damage.
+The Idealist is now at 22 HP.
+Murder of Crows initiates 1 Projectile damage to Dr. Medico.
+Murder of Crows deals Dr. Medico 1 Projectile damage.
+Dr. Medico is now at 18 HP.
+Murder of Crows initiates 1 Projectile damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to The Idealist.
+Murder of Crows deals The Idealist 1 Projectile damage.
+The Idealist is now at 21 HP.
+Went from The Matriarch's Start phase to PlayCard phase. 
+Went from The Matriarch's PlayCard phase to End phase. 
+Went from The Matriarch's End phase to Void Guard Dr. Medico's Start phase. 
+Went from Void Guard Dr. Medico's Start phase to PlayCard phase. 
+GameController plays Healing Pulse.
+Went from Void Guard Dr. Medico's PlayCard phase to UsePower phase. 
+Void Guard Dr. Medico uses the power on Dr. Medico.
+Applying ongoing effect: Increase the next HP gain by Dr. Medico by 2.
+Went from Void Guard Dr. Medico's UsePower phase to DrawCard phase. 
+Void Guard Dr. Medico draws Preventative Care.
+Went from Void Guard Dr. Medico's DrawCard phase to End phase. 
+Dr. Medico's Clinical Consult increases the HP gained by Dr. Medico by 2.
+Dr. Medico's Clinical Consult increases the HP gained by Dr. Medico by 2.
+Healing Pulse caused Dr. Medico to regain 5 HP. HP is now 23.
+Dr. Medico's Clinical Consult increases the HP gained by Mainstay by 2.
+Healing Pulse caused Mainstay to regain 3 HP. HP is now 27.
+Healing Pulse caused The Idealist to regain 1 HP. HP is now 22.
+Went from Void Guard Dr. Medico's End phase to Void Guard Writhe's Start phase. 
+Grasping Shadow-Cloth was moved to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Fight and Fade from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Unnerving Target.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to The Matriarch.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Matriarch 2 Melee damage.
+The Matriarch is now at 66 HP.
+Applying ongoing effect: The Matriarch cannot gain HP.
+Writhe initiates 1 Infernal damage to The Matriarch.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Matriarch 2 Infernal damage.
+The Matriarch is now at 64 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Distorted Perception.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Void Guard Mainstay's Start phase. 
+Went from Void Guard Mainstay's Start phase to PlayCard phase. 
+GameController plays Leader of the Pack.
+Went from Void Guard Mainstay's PlayCard phase to UsePower phase. 
+Void Guard Mainstay uses the power on Void Belter.
+Mainstay initiates 3 Melee damage to The Matriarch.
+Mainstay deals The Matriarch 3 Melee damage.
+The Matriarch is now at 61 HP.
+Went from Void Guard Mainstay's UsePower phase to DrawCard phase. 
+Void Guard Mainstay draws Mano a Mano.
+Went from Void Guard Mainstay's DrawCard phase to End phase. 
+Went from Void Guard Mainstay's End phase to Void Guard The Idealist's Start phase. 
+Went from Void Guard The Idealist's Start phase to PlayCard phase. 
+GameController plays Focusing Tiara.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase. 
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+The Idealist initiates 2 Psychic damage to The Matriarch.
+The Idealist deals The Matriarch 2 Psychic damage.
+The Matriarch is now at 59 HP.
+Focusing Tiara moved Conceptualize from Void Guard The Idealist's trash under Flying Stabby Knives.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase. 
+Void Guard The Idealist draws Vivid Thoughts.
+Went from Void Guard The Idealist's DrawCard phase to End phase. 
+Went from Void Guard The Idealist's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Paragon of Sentience.
+GameController moved Paragon of Sentience from the environment deck next to Writhe.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to The Matriarch's Start phase. 
+Building of Rooks initiates 2 Projectile damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Building of Rooks by 1.
+Building of Rooks deals Mainstay 1 Projectile damage.
+Mainstay is now at 26 HP.
+Clattering of Jackdaws initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Went from The Matriarch's Start phase to PlayCard phase. 
+GameController plays Clattering of Jackdaws.
+The Matriarch plays Unkindness of Ravens.
+The Matriarch plays Darken the Sky.
+There are no fowl cards in the villain trash to put into play.
+GameController moved Darken the Sky to the villain trash.
+Went from The Matriarch's PlayCard phase to End phase. 
+Went from The Matriarch's End phase to Void Guard Dr. Medico's Start phase. 
+Went from Void Guard Dr. Medico's Start phase to PlayCard phase. 
+GameController plays Second Opinion.
+Went from Void Guard Dr. Medico's PlayCard phase to UsePower phase. 
+Void Guard Dr. Medico uses the power on Dr. Medico.
+Applying ongoing effect: Increase the next HP gain by Mainstay by 2.
+Went from Void Guard Dr. Medico's UsePower phase to DrawCard phase. 
+Void Guard Dr. Medico draws Doctor's Orders.
+Went from Void Guard Dr. Medico's DrawCard phase to End phase. 
+Healing Pulse caused Dr. Medico to regain 1 HP, up to their maximum HP. HP is now 24.
+Healing Pulse caused Writhe to regain 1 HP, up to their maximum HP. HP is now 19.
+Healing Pulse caused The Idealist to regain 1 HP. HP is now 23.
+Went from Void Guard Dr. Medico's End phase to Void Guard Writhe's Start phase. 
+Notice: an ongoing effect just expired: The Matriarch cannot gain HP.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Cloak Projector.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Cloak Projector.
+Applying ongoing effect: Reduce damage dealt by The Matriarch by 1.
+Cloak Projector destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Writhe initiates 3 Infernal damage to The Matriarch.
+Writhe deals The Matriarch 3 Infernal damage.
+The Matriarch is now at 56 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Grasping Shadow-Cloth.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Void Guard Mainstay's Start phase. 
+Went from Void Guard Mainstay's Start phase to PlayCard phase. 
+GameController plays Shard-Strength.
+Went from Void Guard Mainstay's PlayCard phase to UsePower phase. 
+Void Guard Mainstay uses the power on Mainstay.
+Mainstay initiates 1 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 2 Melee damage.
+The Matriarch is now at 54 HP.
+Mainstay initiates 1 Melee damage to Building of Rooks.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals Building of Rooks 2 Melee damage.
+Building of Rooks is now at -1 HP.
+Mainstay's Beatdown destroys Building of Rooks!
+The Matriarch initiates 2 Psychic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+Cloak Projector reduces the damage dealt to Mainstay by The Matriarch by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+Leader of the Pack redirects the damage dealt from Writhe to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Building of Rooks to the villain trash.
+Went from Void Guard Mainstay's UsePower phase to DrawCard phase. 
+Void Guard Mainstay draws Void Belter.
+Went from Void Guard Mainstay's DrawCard phase to End phase. 
+Went from Void Guard Mainstay's End phase to Void Guard The Idealist's Start phase. 
+Focusing Tiara moved Bored Now from Void Guard The Idealist's hand under Flying Stabby Knives.
+Went from Void Guard The Idealist's Start phase to PlayCard phase. 
+GameController plays Strained Superego.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase. 
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Conceptualize!
+GameController moved Conceptualize from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Bored Now!
+GameController moved Bored Now from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to The Matriarch.
+The Idealist deals The Matriarch 2 Psychic damage.
+The Matriarch is now at 52 HP.
+The Idealist initiates 2 Psychic damage to Carrion Fields.
+The Idealist deals Carrion Fields 2 Psychic damage.
+Carrion Fields is now at 7 HP.
+The Idealist initiates 2 Psychic damage to Clattering of Jackdaws.
+The Idealist deals Clattering of Jackdaws 2 Psychic damage.
+Clattering of Jackdaws is now at -1 HP.
+The Idealist's Wild Imagination destroys Clattering of Jackdaws!
+The Matriarch initiates 2 Psychic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+Cloak Projector reduces the damage dealt to Mainstay by The Matriarch by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+Leader of the Pack redirects the damage dealt from Writhe to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Clattering of Jackdaws to the villain trash.
+Focusing Tiara moved Bored Now from Void Guard The Idealist's trash under Flying Stabby Knives.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase. 
+Void Guard The Idealist draws Bright Idea.
+Went from Void Guard The Idealist's DrawCard phase to End phase. 
+***** LOADED UNDO FILE: undo-98-VoidGuardTheIdealist-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 98.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 532.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+***** LOADED UNDO FILE: undo-97-VoidGuardTheIdealist-Start *****
+Possible achievement: Base_CumulativeDamage, progress: 98.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 532.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Went from Void Guard Mainstay's End phase to Void Guard The Idealist's Start phase. 
+Focusing Tiara moved Giant Floaty Head from Void Guard The Idealist's hand under Flying Stabby Knives.
+Went from Void Guard The Idealist's Start phase to PlayCard phase. 
+GameController plays Strained Superego.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase. 
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Conceptualize!
+GameController moved Conceptualize from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Giant Floaty Head!
+GameController moved Giant Floaty Head from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to The Matriarch.
+The Idealist deals The Matriarch 2 Psychic damage.
+The Matriarch is now at 52 HP.
+The Idealist initiates 2 Psychic damage to Carrion Fields.
+The Idealist deals Carrion Fields 2 Psychic damage.
+Carrion Fields is now at 7 HP.
+The Idealist initiates 2 Psychic damage to Clattering of Jackdaws.
+The Idealist deals Clattering of Jackdaws 2 Psychic damage.
+Clattering of Jackdaws is now at -1 HP.
+The Idealist's Wild Imagination destroys Clattering of Jackdaws!
+The Matriarch initiates 2 Psychic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+Cloak Projector reduces the damage dealt to Mainstay by The Matriarch by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+Leader of the Pack redirects the damage dealt from Writhe to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Clattering of Jackdaws to the villain trash.
+Focusing Tiara moved Conceptualize from Void Guard The Idealist's trash under Flying Stabby Knives.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase. 
+Void Guard The Idealist draws Bright Idea.
+Went from Void Guard The Idealist's DrawCard phase to End phase. 
+Void Guard The Idealist uses the power on Strained Superego.
+Strained Superego plays Bright Idea.
+Void Guard The Idealist draws Hedgy Hogs.
+Bright Idea puts Giant Floaty Head into play.
+Bright Idea moved Giant Floaty Head from Void Guard The Idealist's deck under Giant Floaty Head.
+Bright Idea was moved under Giant Floaty Head.
+Went from Void Guard The Idealist's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays The Celestial Chamber.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to The Matriarch's Start phase. 
+Murder of Crows initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to Writhe.
+Leader of the Pack redirects the damage dealt from Writhe to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to Writhe.
+Leader of the Pack redirects the damage dealt from Writhe to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Clattering of Jackdaws initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Clattering of Jackdaws by 1.
+Damage amount was 0, so no damage was dealt.
+Unkindness of Ravens initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Unkindness of Ravens by 1.
+Damage amount was 0, so no damage was dealt.
+Unkindness of Ravens initiates 1 Projectile damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Unkindness of Ravens by 1.
+Damage amount was 0, so no damage was dealt.
+Unkindness of Ravens initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Unkindness of Ravens by 1.
+Damage amount was 0, so no damage was dealt.
+Went from The Matriarch's Start phase to PlayCard phase. 
+GameController plays Murder of Crows.
+The Matriarch plays Darken the Sky.
+Darken the Sky takes all of the fowl cards from the villain trash and puts them into play!
+Darken the Sky puts Clattering of Jackdaws into play.
+Darken the Sky puts Building of Rooks into play.
+GameController moved Darken the Sky to the villain trash.
+Went from The Matriarch's PlayCard phase to End phase. 
+Went from The Matriarch's End phase to Void Guard Dr. Medico's Start phase. 
+Went from Void Guard Dr. Medico's Start phase to PlayCard phase. 
+Went from Void Guard Dr. Medico's PlayCard phase to UsePower phase. 
+Void Guard Dr. Medico did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Void Guard Dr. Medico's UsePower phase to DrawCard phase. (Count: 2)
+Void Guard Dr. Medico draws Doctor's Orders.
+***** LOADED UNDO FILE: undo-110-VoidGuardDrMedico-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 98.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 532.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Void Guard Dr. Medico uses the power on Dr. Medico.
+Applying ongoing effect: Increase the next HP gain by The Idealist by 2.
+Went from Void Guard Dr. Medico's UsePower phase to DrawCard phase. 
+Void Guard Dr. Medico draws Doctor's Orders.
+Went from Void Guard Dr. Medico's DrawCard phase to End phase. 
+Went from Void Guard Dr. Medico's End phase to Void Guard Writhe's Start phase. 
+Notice: an ongoing effect just expired: Reduce damage dealt by The Matriarch by 1.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Fight and Fade.
+Writhe initiates 2 Infernal damage to The Matriarch.
+Writhe deals The Matriarch 2 Infernal damage.
+The Matriarch is now at 50 HP.
+Fight and Fade puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Fight and Fade plays Grasping Shadow-Cloth.
+Grasping Shadow-Cloth moved Huginn from the villain trash to the bottom of the villain deck.
+Grasping Shadow-Cloth destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Applying ongoing effect: The Matriarch cannot play cards.
+GameController moved Fight and Fade to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Penultimate Penumbra.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Void Guard Mainstay's Start phase. 
+Mainstay initiates 2 Toxic damage to Mainstay.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Mainstay by 1.
+Shard-Strength reduces the damage dealt to Mainstay by Mainstay by 1.
+Mainstay deals Mainstay 1 Toxic damage.
+Mainstay is now at 25 HP.
+Went from Void Guard Mainstay's Start phase to PlayCard phase. 
+GameController plays Mano a Mano.
+GameController moved Mano a Mano from Void Guard Mainstay's hand next to The Matriarch.
+Went from Void Guard Mainstay's PlayCard phase to UsePower phase. 
+Void Guard Mainstay uses the power on Mainstay.
+Mainstay initiates 1 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 2 Melee damage.
+The Matriarch is now at 48 HP.
+Mainstay initiates 1 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 2 Melee damage.
+The Matriarch is now at 46 HP.
+Went from Void Guard Mainstay's UsePower phase to DrawCard phase. 
+Void Guard Mainstay draws Whiplash.
+Went from Void Guard Mainstay's DrawCard phase to End phase. 
+Mainstay initiates 2 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 3 Melee damage.
+The Matriarch is now at 43 HP.
+The Matriarch initiates 2 Melee damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+The Matriarch deals Mainstay 1 Melee damage.
+Mainstay is now at 24 HP.
+Went from Void Guard Mainstay's End phase to Void Guard The Idealist's Start phase. 
+Focusing Tiara moved Bright Idea from Void Guard The Idealist's hand under Flying Stabby Knives.
+Went from Void Guard The Idealist's Start phase to PlayCard phase. 
+GameController plays Hedgy Hogs.
+The Idealist initiates 2 Melee damage to The Matriarch.
+The Idealist deals The Matriarch 2 Melee damage.
+The Matriarch is now at 41 HP.
+The Idealist initiates 2 Melee damage to Building of Rooks.
+The Idealist deals Building of Rooks 2 Melee damage.
+Building of Rooks is now at -1 HP.
+The Idealist's Wild Imagination destroys Building of Rooks!
+The Matriarch initiates 2 Psychic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+Shard-Strength reduces the damage dealt to Mainstay by The Matriarch by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Building of Rooks to the villain trash.
+Hedgy Hogs was moved under Flying Stabby Knives.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase. 
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Bright Idea!
+GameController moved Bright Idea from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Conceptualize!
+GameController moved Conceptualize from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Hedgy Hogs!
+GameController moved Hedgy Hogs from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to The Matriarch.
+The Idealist deals The Matriarch 2 Psychic damage.
+The Matriarch is now at 39 HP.
+The Idealist initiates 2 Psychic damage to Carrion Fields.
+The Idealist deals Carrion Fields 2 Psychic damage.
+Carrion Fields is now at 5 HP.
+The Idealist initiates 2 Psychic damage to Clattering of Jackdaws.
+The Idealist deals Clattering of Jackdaws 2 Psychic damage.
+Clattering of Jackdaws is now at -1 HP.
+The Idealist's Wild Imagination destroys Clattering of Jackdaws!
+The Matriarch initiates 2 Psychic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+The Matriarch deals Mainstay 1 Psychic damage.
+Mainstay is now at 23 HP.
+***** LOADED UNDO FILE: undo-125-VoidGuardTheIdealist-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 98.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 532.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Bright Idea!
+GameController moved Bright Idea from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Conceptualize!
+GameController moved Conceptualize from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Hedgy Hogs!
+GameController moved Hedgy Hogs from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to The Matriarch.
+The Idealist deals The Matriarch 2 Psychic damage.
+The Matriarch is now at 39 HP.
+The Idealist initiates 2 Psychic damage to Carrion Fields.
+The Idealist deals Carrion Fields 2 Psychic damage.
+Carrion Fields is now at 5 HP.
+The Idealist initiates 2 Psychic damage to Clattering of Jackdaws.
+The Idealist deals Clattering of Jackdaws 2 Psychic damage.
+Clattering of Jackdaws is now at -1 HP.
+The Idealist's Wild Imagination destroys Clattering of Jackdaws!
+The Matriarch initiates 2 Psychic damage to Dr. Medico.
+The Matriarch deals Dr. Medico 2 Psychic damage.
+Dr. Medico is now at 22 HP.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Clattering of Jackdaws to the villain trash.
+The Idealist initiates 2 Psychic damage to Clattering of Jackdaws.
+The Idealist deals Clattering of Jackdaws 2 Psychic damage.
+Clattering of Jackdaws is now at -1 HP.
+The Idealist's Wild Imagination destroys Clattering of Jackdaws!
+The Matriarch initiates 2 Psychic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+The Matriarch deals Mainstay 1 Psychic damage.
+Mainstay is now at 23 HP.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Clattering of Jackdaws to the villain trash.
+Focusing Tiara moved Hedgy Hogs from Void Guard The Idealist's trash under Flying Stabby Knives.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase. 
+Void Guard The Idealist draws Conceptualize.
+Went from Void Guard The Idealist's DrawCard phase to End phase. 
+Strained Superego moved Bright Idea from under Giant Floaty Head under Flying Stabby Knives.
+Void Guard The Idealist uses the power on The Idealist.
+Void Guard The Idealist draws Karate Robot.
+The Idealist moved Conceptualize from Void Guard The Idealist's hand under Giant Floaty Head.
+Focusing Tiara moved Bright Idea from Void Guard The Idealist's trash under Flying Stabby Knives.
+Went from Void Guard The Idealist's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Paragon of Sentience.
+GameController moved Paragon of Sentience from the environment deck next to The Idealist.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to The Matriarch's Start phase. 
+Murder of Crows initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Unkindness of Ravens initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Unkindness of Ravens by 1.
+Damage amount was 0, so no damage was dealt.
+Unkindness of Ravens initiates 1 Projectile damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Unkindness of Ravens by 1.
+Damage amount was 0, so no damage was dealt.
+Unkindness of Ravens initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Unkindness of Ravens by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Murder of Crows initiates 1 Projectile damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Murder of Crows by 1.
+Damage amount was 0, so no damage was dealt.
+Went from The Matriarch's Start phase to PlayCard phase. 
+Went from The Matriarch's PlayCard phase to End phase. 
+Went from The Matriarch's End phase to Void Guard Dr. Medico's Start phase. 
+Went from Void Guard Dr. Medico's Start phase to PlayCard phase. 
+GameController plays Doctor's Orders.
+Dr. Medico initiates 1 Energy damage to Dr. Medico.
+Dr. Medico deals Dr. Medico 1 Energy damage.
+Dr. Medico is now at 21 HP.
+Dr. Medico's Clinical Consult increases the HP gained by Mainstay by 2.
+Second Opinion prevented Mainstay from regaining HP.
+Void Guard Mainstay uses the power on Mainstay.
+Mainstay initiates 1 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 2 Melee damage.
+The Matriarch is now at 37 HP.
+Mainstay initiates 1 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 2 Melee damage.
+The Matriarch is now at 35 HP.
+Void Guard Mainstay uses the power on Void Belter.
+Mainstay initiates 3 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 4 Melee damage.
+The Matriarch is now at 31 HP.
+GameController moved Doctor's Orders to Void Guard Dr. Medico's trash.
+Went from Void Guard Dr. Medico's PlayCard phase to UsePower phase. 
+Void Guard Dr. Medico uses the power on Dr. Medico.
+Applying ongoing effect: Increase the next HP gain by Mainstay by 2.
+Went from Void Guard Dr. Medico's UsePower phase to DrawCard phase. 
+Void Guard Dr. Medico draws Flare Up.
+Went from Void Guard Dr. Medico's DrawCard phase to End phase. 
+Went from Void Guard Dr. Medico's End phase to Void Guard Writhe's Start phase. 
+Grasping Shadow-Cloth was moved to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Fight and Fade from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Penultimate Penumbra.
+Penultimate Penumbra will destroy 6 equipment cards.
+Writhe initiates 3 Infernal damage to The Matriarch.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Matriarch 4 Infernal damage.
+The Matriarch is now at 27 HP.
+GameController moved Penultimate Penumbra to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to The Matriarch.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Matriarch 2 Melee damage.
+The Matriarch is now at 25 HP.
+Applying ongoing effect: The Matriarch cannot gain HP.
+Writhe initiates 1 Infernal damage to The Matriarch.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Matriarch 2 Infernal damage.
+The Matriarch is now at 23 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Erratic Form.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Void Guard Mainstay's Start phase. 
+Mainstay initiates 2 Toxic damage to Mainstay.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Mainstay by 1.
+Shard-Strength reduces the damage dealt to Mainstay by Mainstay by 1.
+Mainstay deals Mainstay 1 Toxic damage.
+Mainstay is now at 22 HP.
+Mainstay initiates 2 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 3 Melee damage.
+The Matriarch is now at 20 HP.
+The Matriarch initiates 2 Melee damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+The Matriarch deals Mainstay 1 Melee damage.
+Mainstay is now at 21 HP.
+Went from Void Guard Mainstay's Start phase to PlayCard phase. 
+GameController plays Kick the Tires.
+Void Guard Mainstay draws Headlock.
+Dr. Medico's Clinical Consult increases the HP gained by Mainstay by 2.
+Second Opinion prevented Mainstay from regaining HP.
+Void Guard Mainstay uses the power on Mainstay.
+Mainstay initiates 1 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 2 Melee damage.
+The Matriarch is now at 18 HP.
+Mainstay initiates 1 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 2 Melee damage.
+The Matriarch is now at 16 HP.
+Kick the Tires destroys Mano a Mano!
+GameController moved Mano a Mano to Void Guard Mainstay's trash.
+Kick the Tires plays Whiplash.
+Mainstay initiates 2 Melee damage to Unkindness of Ravens.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals Unkindness of Ravens 3 Melee damage.
+Unkindness of Ravens is now at -2 HP.
+Mainstay's Beatdown destroys Unkindness of Ravens!
+The Matriarch initiates 2 Psychic damage to The Idealist.
+The Matriarch deals The Idealist 2 Psychic damage.
+The Idealist is now at 21 HP.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Unkindness of Ravens to the villain trash.
+Mainstay initiates 3 Projectile damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 4 Projectile damage.
+The Matriarch is now at 12 HP.
+GameController moved Whiplash to Void Guard Mainstay's trash.
+GameController moved Kick the Tires to Void Guard Mainstay's trash.
+Went from Void Guard Mainstay's PlayCard phase to UsePower phase. 
+Void Guard Mainstay uses the power on Void Belter.
+Mainstay initiates 3 Melee damage to The Matriarch.
+Shard-Strength increases the damage dealt by Mainstay by 1.
+Mainstay deals The Matriarch 4 Melee damage.
+The Matriarch is now at 8 HP.
+Went from Void Guard Mainstay's UsePower phase to DrawCard phase. 
+Void Guard Mainstay draws Drop the Hammer.
+Went from Void Guard Mainstay's DrawCard phase to End phase. 
+Went from Void Guard Mainstay's End phase to Void Guard The Idealist's Start phase. 
+Focusing Tiara moved Strained Superego from Void Guard The Idealist's hand under Flying Stabby Knives.
+Went from Void Guard The Idealist's Start phase to PlayCard phase. 
+GameController plays Making Things Up.
+Void Guard The Idealist draws Spark of Inspiration.
+Void Guard The Idealist draws Strained Superego.
+Void Guard The Idealist draws Monster of Id.
+Monster of Id puts Monster of Id into play.
+Void Guard The Idealist discards Strained Superego.
+Making Things Up moved Strained Superego from Void Guard The Idealist's hand to Void Guard The Idealist's trash.
+Void Guard The Idealist discards Making Things Up.
+Making Things Up moved Making Things Up from Void Guard The Idealist's hand to Void Guard The Idealist's trash.
+Making Things Up plays Karate Robot.
+Making Things Up plays Spark of Inspiration.
+Dr. Medico's Clinical Consult increases the HP gained by The Idealist by 2.
+Second Opinion prevented The Idealist from regaining HP.
+Void Guard The Idealist uses the power on Giant Floaty Head.
+Giant Floaty Head destroys Conceptualize!
+GameController moved Conceptualize from under Giant Floaty Head to Void Guard The Idealist's trash.
+Giant Floaty Head destroys Giant Floaty Head!
+GameController moved Giant Floaty Head from under Giant Floaty Head to Void Guard The Idealist's trash.
+Void Guard The Idealist draws Hedgy Hogs.
+Void Guard The Idealist draws Better Punching!.
+Void Guard The Idealist draws Sound Beating.
+Focusing Tiara moved Making Things Up from Void Guard The Idealist's trash under Karate Robot.
+The Idealist initiates 1 Psychic damage to The Matriarch.
+Monster of Id increases the damage dealt by The Idealist by 1.
+The Idealist deals The Matriarch 2 Psychic damage.
+The Matriarch is now at 6 HP.
+The Idealist initiates 1 Psychic damage to Carrion Fields.
+Monster of Id increases the damage dealt by The Idealist by 1.
+The Idealist deals Carrion Fields 2 Psychic damage.
+Carrion Fields is now at 3 HP.
+The Idealist initiates 1 Psychic damage to Murder of Crows.
+Monster of Id increases the damage dealt by The Idealist by 1.
+The Idealist deals Murder of Crows 2 Psychic damage.
+Murder of Crows is now at -1 HP.
+The Idealist's Wild Imagination destroys Murder of Crows!
+The Matriarch initiates 2 Psychic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+Shard-Strength reduces the damage dealt to Mainstay by The Matriarch by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to The Idealist.
+Leader of the Pack redirects the damage dealt from The Idealist to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Murder of Crows to the villain trash.
+The Idealist initiates 1 Psychic damage to Murder of Crows.
+Monster of Id increases the damage dealt by The Idealist by 1.
+The Idealist deals Murder of Crows 2 Psychic damage.
+Murder of Crows is now at -1 HP.
+The Idealist's Wild Imagination destroys Murder of Crows!
+The Matriarch initiates 2 Psychic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by The Matriarch by 1.
+The Matriarch deals Mainstay 1 Psychic damage.
+Mainstay is now at 20 HP.
+Carrion Fields initiates 1 Toxic damage to Dr. Medico.
+Leader of the Pack redirects the damage dealt from Dr. Medico to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+Carrion Fields initiates 1 Toxic damage to Mainstay.
+Durasteel-Studded Vest reduces the damage dealt to Mainstay by Carrion Fields by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Murder of Crows to the villain trash.
+Void Guard The Idealist draws Making Things Up.
+Spark of Inspiration was moved under Karate Robot.
+GameController moved Making Things Up to Void Guard The Idealist's trash.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase. 
+Void Guard The Idealist uses the power on Karate Robot.
+Karate Robot destroys Making Things Up!
+GameController moved Making Things Up from under Karate Robot to Void Guard The Idealist's trash.
+Karate Robot destroys Spark of Inspiration!
+GameController moved Spark of Inspiration from under Karate Robot to Void Guard The Idealist's trash.
+The Idealist initiates 3 Melee damage to The Matriarch.
+Monster of Id increases the damage dealt by The Idealist by 1.
+The Idealist deals The Matriarch 4 Melee damage.
+The Matriarch is now at 2 HP.
+The Idealist initiates 3 Psychic damage to The Matriarch.
+Monster of Id increases the damage dealt by The Idealist by 1.
+The Idealist deals The Matriarch 4 Psychic damage.
+The Matriarch is now at -2 HP.
+Dr. Medico, Writhe, Mainstay and The Idealist all defeated The Matriarch! Congratulations!
+You just unlocked the promo card: Writhe: Cosmic Inventor!

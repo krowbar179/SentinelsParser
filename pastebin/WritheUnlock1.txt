@@ -1,0 +1,2087 @@
+GameView Start
+Kismet puts The Talisman into play.
+Kismet shuffles their the villain deck.
+Went to Kismet's Start phase.
+Kismet initiates 1 Psychic damage to Benchmark: Supply and Demand.
+Kismet deals Benchmark: Supply and Demand 1 Psychic damage.
+Benchmark: Supply and Demand is now at 28 HP.
+Kismet initiates 1 Psychic damage to Freedom Five Absolute Zero.
+Kismet deals Freedom Five Absolute Zero 1 Psychic damage.
+Freedom Five Absolute Zero is now at 27 HP.
+Kismet initiates 1 Psychic damage to Writhe.
+Kismet deals Writhe 1 Psychic damage.
+Writhe is now at 18 HP.
+Kismet initiates 1 Psychic damage to Mainstay.
+Kismet deals Mainstay 1 Psychic damage.
+Mainstay is now at 13 HP.
+Kismet initiates 1 Psychic damage to Writhe.
+Kismet deals Writhe 1 Psychic damage.
+Writhe is now at 13 HP.
+Kismet initiates 1 Psychic damage to Adamant The Idealist.
+Kismet deals Adamant The Idealist 1 Psychic damage.
+Adamant The Idealist is now at 11 HP.
+Kismet initiates 1 Psychic damage to Adamant Dr. Medico.
+Kismet deals Adamant Dr. Medico 1 Psychic damage.
+Adamant Dr. Medico is now at 13 HP.
+Went from Kismet's Start phase to PlayCard phase.
+GameController plays Unlucky Break.
+GameController moved Unlucky Break to the villain trash.
+Went from Kismet's PlayCard phase to End phase.
+Revealed card: Two Left Feet
+Kismet moved Two Left Feet from Kismet's revealed cards to the villain deck.
+Kismet shuffles their the villain deck.
+Went from Kismet's End phase to Benchmark's Start phase.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Onboard Cooling Systems.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP, up to their maximum HP. HP is now 29.
+Benchmark: Supply and Demand's Desperate Measures plays Threat Neutralizer.
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 68 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Talisman.
+Benchmark: Supply and Demand deals The Talisman 2 Cold damage.
+The Talisman is now at 5 HP.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Load on Initialization.
+Went from Benchmark's DrawCard phase to End phase.
+Went from Benchmark's End phase to Absolute Zero's Start phase.
+Went from Absolute Zero's Start phase to PlayCard phase.
+GameController plays Isothermic Transducer.
+Went from Absolute Zero's PlayCard phase to UsePower phase.
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 25 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 66 HP.
+Freedom Five Absolute Zero's Pilot Light puts Impale into play.
+GameController moved Impale from Absolute Zero's deck next to Kismet.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase.
+Absolute Zero draws Null-Point Calibration Unit.
+Went from Absolute Zero's DrawCard phase to End phase.
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Somber Tinker.
+Void Guard Writhe draws Nowhere to Hide.
+Somber Tinker plays Portable Dark-Lab.
+GameController moved Somber Tinker to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Portable Dark-Lab.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Caliginous Form.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Adamant The Idealist.
+Adamant The Idealist initiates 1 Psychic damage to Kismet.
+Adamant The Idealist deals Kismet 1 Psychic damage.
+Kismet is now at 65 HP.
+Applying ongoing effect: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Horrifying Dichotomy.
+Went from The Sentinels's DrawCard phase to End phase.
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase.
+Went from Tomb of Anubis's Start phase to PlayCard phase.
+GameController plays Swinging Blades.
+Went from Tomb of Anubis's PlayCard phase to End phase.
+Swinging Blades initiates 3 Melee damage to Kismet.
+Swinging Blades deals Kismet 3 Melee damage.
+Kismet is now at 62 HP.
+Swinging Blades initiates 3 Melee damage to The Talisman.
+Swinging Blades deals The Talisman 3 Melee damage.
+The Talisman is now at 2 HP.
+Swinging Blades initiates 3 Melee damage to Benchmark: Supply and Demand.
+Swinging Blades deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 26 HP.
+Swinging Blades initiates 3 Melee damage to Freedom Five Absolute Zero.
+Swinging Blades deals Freedom Five Absolute Zero 3 Melee damage.
+Freedom Five Absolute Zero is now at 22 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Swinging Blades by 1.
+Swinging Blades deals Writhe 2 Melee damage.
+Writhe is now at 16 HP.
+Swinging Blades initiates 3 Melee damage to Mainstay.
+Swinging Blades deals Mainstay 3 Melee damage.
+Mainstay is now at 10 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+Caliginous Form redirects the damage dealt from Writhe to Kismet.
+Caliginous Form reduces the damage dealt to Kismet by Swinging Blades by 2.
+Swinging Blades deals Kismet 1 Melee damage.
+Kismet is now at 61 HP.
+Swinging Blades initiates 3 Melee damage to Adamant The Idealist.
+Swinging Blades deals Adamant The Idealist 3 Melee damage.
+Adamant The Idealist is now at 8 HP.
+Swinging Blades initiates 3 Melee damage to Adamant Dr. Medico.
+Swinging Blades deals Adamant Dr. Medico 3 Melee damage.
+Adamant Dr. Medico is now at 10 HP.
+Went from Tomb of Anubis's End phase to Kismet's Start phase.
+Kismet initiates 1 Psychic damage to Benchmark: Supply and Demand.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Freedom Five Absolute Zero.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Freedom Five Absolute Zero by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Writhe.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Writhe by Kismet by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Mainstay.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Mainstay by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Writhe.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Writhe by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Adamant The Idealist.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Adamant The Idealist by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Adamant Dr. Medico.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Adamant Dr. Medico by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Kismet's Start phase to PlayCard phase.
+GameController plays Lady Luck.
+Went from Kismet's PlayCard phase to End phase.
+Revealed card: Imminent Destruction
+Kismet moved Imminent Destruction from Kismet's revealed cards to the villain deck.
+Kismet shuffles their the villain deck.
+Went from Kismet's End phase to Benchmark's Start phase.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Reinforced Chassis.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 27.
+Benchmark: Supply and Demand's Desperate Measures plays Overhaul Loadout.
+Benchmark draws Fly-by.
+Benchmark draws Micro Fabricator.
+Benchmark draws Fly-by.
+GameController moved Overhaul Loadout to Benchmark's trash.
+Benchmark uses the power on Threat Neutralizer.
+Revealed card: Inconceivable Obstruction
+Lady Luck puts Inconceivable Obstruction into play.
+Threat Neutralizer destroys Lady Luck!
+GameController moved Lady Luck to the villain trash.
+Threat Neutralizer destroys itself!
+GameController moved Threat Neutralizer to Benchmark's trash.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Fly-by.
+Went from Benchmark's DrawCard phase to End phase.
+Went from Benchmark's End phase to Absolute Zero's Start phase.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Rod of Anubis
+Inconceivable Obstruction moved Rod of Anubis from Tomb of Anubis's revealed cards to the environment trash.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 59 HP.
+Went from Absolute Zero's Start phase to PlayCard phase.
+GameController plays Null-Point Calibration Unit.
+Went from Absolute Zero's PlayCard phase to UsePower phase.
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 20 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 57 HP.
+Freedom Five Absolute Zero's Pilot Light puts Cold Snap into play.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase.
+Absolute Zero draws Coolant Blast.
+Went from Absolute Zero's DrawCard phase to End phase.
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Portable Dark-Lab.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Portable Dark-Lab.
+Revealed card: Concealed Assailant
+Revealed card: Penultimate Penumbra
+Revealed card: Swallowed by Shadow
+Portable Dark-Lab moved Penultimate Penumbra from Void Guard Writhe's revealed cards to Void Guard Writhe's hand.
+Portable Dark-Lab moved Swallowed by Shadow from Void Guard Writhe's revealed cards to Void Guard Writhe's trash.
+Portable Dark-Lab moved Concealed Assailant from Void Guard Writhe's revealed cards to the bottom of Void Guard Writhe's deck.
+Portable Dark-Lab plays Concealed Assailant.
+Portable Dark-Lab destroys itself!
+GameController moved Portable Dark-Lab to Void Guard Writhe's trash.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Umbral Siphon.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Positive Energy.
+Positive Energy caused Benchmark: Supply and Demand to regain 1 HP. HP is now 28.
+Positive Energy caused Freedom Five Absolute Zero to regain 1 HP. HP is now 21.
+Positive Energy caused Writhe to regain 1 HP. HP is now 17.
+Positive Energy caused Mainstay to regain 1 HP. HP is now 11.
+Positive Energy caused Writhe to regain 1 HP, up to their maximum HP. HP is now 14.
+Positive Energy caused Adamant The Idealist to regain 1 HP. HP is now 9.
+Positive Energy caused Adamant Dr. Medico to regain 1 HP. HP is now 11.
+Adamant The Idealist initiates 2 Psychic damage to Kismet.
+Revealed card: Akana
+Inconceivable Obstruction puts Akana into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Akana.
+Adamant The Idealist deals Akana 2 Psychic damage.
+Akana is now at 6 HP.
+Adamant The Idealist initiates 2 Psychic damage to The Talisman.
+Adamant The Idealist deals The Talisman 2 Psychic damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its back side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Benchmark's play area.
+GameController moved Positive Energy to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Adamant The Idealist.
+Adamant The Idealist initiates 1 Psychic damage to Kismet.
+Adamant The Idealist deals Kismet 1 Psychic damage.
+Kismet is now at 56 HP.
+Applying ongoing effect: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Fling Into Darkness.
+Went from The Sentinels's DrawCard phase to End phase.
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase.
+Swinging Blades initiates 2 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Swinging Blades by 1.
+Swinging Blades deals Benchmark: Supply and Demand 1 Melee damage.
+Benchmark: Supply and Demand is now at 27 HP.
+Swinging Blades destroys itself!
+GameController moved Swinging Blades to the environment trash.
+Went from Tomb of Anubis's Start phase to PlayCard phase.
+GameController plays Judgement of Anubis.
+Judgement of Anubis puts Anubis into play.
+Tomb of Anubis shuffles their the environment deck.
+Went from Tomb of Anubis's PlayCard phase to End phase.
+Anubis initiates 2 Infernal damage to Kismet.
+Revealed card: Spike Trap
+Inconceivable Obstruction moved Spike Trap from Tomb of Anubis's revealed cards to the environment trash.
+Anubis deals Kismet 2 Infernal damage.
+Kismet is now at 54 HP.
+Anubis initiates 2 Infernal damage to The Talisman.
+Anubis deals The Talisman 2 Infernal damage.
+The Talisman is now at 5 HP.
+Anubis initiates 2 Infernal damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Anubis by 1.
+Anubis deals Benchmark: Supply and Demand 1 Infernal damage.
+Benchmark: Supply and Demand is now at 26 HP.
+Anubis initiates 2 Infernal damage to Freedom Five Absolute Zero.
+Anubis deals Freedom Five Absolute Zero 2 Infernal damage.
+Freedom Five Absolute Zero is now at 19 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Anubis by 1.
+Anubis deals Writhe 1 Infernal damage.
+Writhe is now at 16 HP.
+Anubis initiates 2 Infernal damage to Mainstay.
+Anubis deals Mainstay 2 Infernal damage.
+Mainstay is now at 9 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+Caliginous Form reduces the damage dealt to Writhe by Anubis by 2.
+Damage amount was 0, so no damage was dealt.
+Anubis initiates 2 Infernal damage to Adamant The Idealist.
+Anubis deals Adamant The Idealist 2 Infernal damage.
+Adamant The Idealist is now at 7 HP.
+Anubis initiates 2 Infernal damage to Adamant Dr. Medico.
+Anubis deals Adamant Dr. Medico 2 Infernal damage.
+Adamant Dr. Medico is now at 9 HP.
+Anubis initiates 2 Infernal damage to Akana.
+Anubis deals Akana 2 Infernal damage.
+Akana is now at 4 HP.
+Anubis initiates 2 Infernal damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+Judgement of Anubis destroys itself!
+GameController moved Judgement of Anubis to the environment trash.
+Went from Tomb of Anubis's End phase to Kismet's Start phase.
+Kismet was flipped to its back side.
+Went from Kismet's Start phase to PlayCard phase.
+GameController plays Two Left Feet.
+GameController moved Two Left Feet from the villain deck next to Benchmark: Supply and Demand.
+Went from Kismet's PlayCard phase to End phase.
+Kismet caused Kismet to regain 1 HP. HP is now 55.
+Kismet initiates 4 Psychic damage to Benchmark: Supply and Demand.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 2 Psychic damage.
+Benchmark: Supply and Demand is now at 24 HP.
+Went from Kismet's End phase to Benchmark's Start phase.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark: Supply and Demand initiates 2 Energy damage to Kismet.
+Revealed card: Nomti
+Inconceivable Obstruction puts Nomti into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 7 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Anubis.
+Benchmark: Supply and Demand deals Anubis 2 Energy damage.
+Anubis is now at 18 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 5 HP.
+Fly-by plays Fly-by.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark: Supply and Demand initiates 2 Energy damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Energy damage.
+Kismet is now at 53 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Anubis.
+Benchmark: Supply and Demand deals Anubis 2 Energy damage.
+Anubis is now at 16 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 3 HP.
+Fly-by plays Fly-by.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark: Supply and Demand initiates 2 Energy damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Energy damage.
+Kismet is now at 51 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Anubis.
+Benchmark: Supply and Demand deals Anubis 2 Energy damage.
+Anubis is now at 14 HP.
+Fly-by plays Micro Fabricator.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Fly-by to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 25.
+Benchmark: Supply and Demand's Desperate Measures plays Multi-Point H.U.D..
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 49 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Cold damage.
+Nomti is now at -1 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Nomti!
+GameController moved Nomti to the environment trash.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark uses the power on The Talisman.
+Revealed card: Unlucky Break
+Revealed card: Scattered Mind
+Revealed card: Fortune's Smile
+The Talisman moved Scattered Mind from Kismet's revealed cards to the villain deck.
+The Talisman moved Unlucky Break from Kismet's revealed cards to the villain deck.
+The Talisman moved Fortune's Smile from Kismet's revealed cards to the villain deck.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Intervening Path Calculator.
+Went from Benchmark's DrawCard phase to End phase.
+Benchmark draws Fly-by.
+Went from Benchmark's End phase to Absolute Zero's Start phase.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Cast Into The Underworld
+Inconceivable Obstruction moved Cast Into The Underworld from Tomb of Anubis's revealed cards to the environment trash.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 47 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 1 Cold damage.
+Kismet is now at 46 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to The Talisman.
+Freedom Five Absolute Zero deals The Talisman 1 Cold damage.
+The Talisman is now at 4 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Akana.
+Freedom Five Absolute Zero deals Akana 1 Cold damage.
+Akana is now at 3 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Anubis.
+Freedom Five Absolute Zero deals Anubis 1 Cold damage.
+Anubis is now at 13 HP.
+Went from Absolute Zero's Start phase to PlayCard phase.
+GameController plays Impale.
+GameController moved Impale from Absolute Zero's hand next to Kismet.
+Went from Absolute Zero's PlayCard phase to UsePower phase.
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 17 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 44 HP.
+Freedom Five Absolute Zero's Pilot Light puts Glacial Structure into play.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase.
+Absolute Zero draws Isothermic Transducer.
+Went from Absolute Zero's DrawCard phase to End phase.
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Umbral Siphon.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Kismet.
+Revealed card: Urshe
+Inconceivable Obstruction puts Urshe into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Urshe.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Urshe 2 Melee damage.
+Urshe is now at 4 HP.
+Applying ongoing effect: Urshe cannot gain HP.
+Writhe initiates 1 Infernal damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at 42 HP.
+Applying ongoing effect: Kismet cannot gain HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Unnerving Target.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Telekinetic Wallop.
+Adamant The Idealist initiates 1 Melee damage to Kismet.
+Revealed card: Shamise
+Inconceivable Obstruction puts Shamise into play.
+Shamise puts Rod of Anubis into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Shamise.
+Telekinetic Wallop changes the damage type to Psychic.
+Telekinetic Wallop increases the damage dealt by Adamant The Idealist by 2.
+Adamant The Idealist deals Shamise 3 Psychic damage.
+Shamise is now at 4 HP.
+Adamant The Idealist initiates 1 Melee damage to Urshe.
+Telekinetic Wallop changes the damage type to Psychic.
+Telekinetic Wallop increases the damage dealt by Adamant The Idealist by 2.
+Adamant The Idealist deals Urshe 3 Psychic damage.
+Urshe is now at 1 HP.
+Adamant The Idealist initiates 1 Melee damage to Shamise.
+Telekinetic Wallop changes the damage type to Psychic.
+Telekinetic Wallop increases the damage dealt by Adamant The Idealist by 2.
+Adamant The Idealist deals Shamise 3 Psychic damage.
+Shamise is now at 1 HP.
+GameController moved Telekinetic Wallop to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Adamant The Idealist.
+Adamant The Idealist initiates 1 Psychic damage to Urshe.
+Adamant The Idealist deals Urshe 1 Psychic damage.
+Urshe is now at 0 HP.
+Applying ongoing effect: Reduce damage dealt by Urshe by 1.
+Adamant The Idealist's T.K. Thump destroys Urshe!
+GameController moved Urshe to the environment trash.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Dark Delusions.
+Went from The Sentinels's DrawCard phase to End phase.
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase.
+Went from Tomb of Anubis's Start phase to PlayCard phase.
+GameController plays Judgement of Anubis.
+Went from Tomb of Anubis's PlayCard phase to End phase.
+Shamise initiates 2 Infernal damage to Adamant The Idealist.
+Shamise deals Adamant The Idealist 2 Infernal damage.
+Adamant The Idealist is now at 5 HP.
+Anubis initiates 2 Infernal damage to Kismet.
+Revealed card: Swarm of Scarabs
+Inconceivable Obstruction puts Swarm of Scarabs into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Anubis by 1.
+Anubis deals Swarm of Scarabs 1 Infernal damage.
+Swarm of Scarabs is now at 4 HP.
+Anubis initiates 2 Infernal damage to The Talisman.
+Anubis deals The Talisman 2 Infernal damage.
+The Talisman is now at 2 HP.
+Anubis initiates 2 Infernal damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Anubis by 1.
+Anubis deals Benchmark: Supply and Demand 1 Infernal damage.
+Benchmark: Supply and Demand is now at 24 HP.
+Anubis initiates 2 Infernal damage to Freedom Five Absolute Zero.
+Anubis deals Freedom Five Absolute Zero 2 Infernal damage.
+Freedom Five Absolute Zero is now at 15 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Anubis by 1.
+Anubis deals Writhe 1 Infernal damage.
+Writhe is now at 15 HP.
+Anubis initiates 2 Infernal damage to Mainstay.
+Anubis deals Mainstay 2 Infernal damage.
+Mainstay is now at 7 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+Caliginous Form reduces the damage dealt to Writhe by Anubis by 2.
+Damage amount was 0, so no damage was dealt.
+Anubis initiates 2 Infernal damage to Adamant The Idealist.
+Anubis deals Adamant The Idealist 2 Infernal damage.
+Adamant The Idealist is now at 3 HP.
+Anubis initiates 2 Infernal damage to Adamant Dr. Medico.
+Anubis deals Adamant Dr. Medico 2 Infernal damage.
+Adamant Dr. Medico is now at 7 HP.
+Anubis initiates 2 Infernal damage to Akana.
+Anubis deals Akana 2 Infernal damage.
+Akana is now at 1 HP.
+Anubis initiates 2 Infernal damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+Anubis initiates 2 Infernal damage to Shamise.
+Anubis deals Shamise 2 Infernal damage.
+Shamise is now at -1 HP.
+Anubis destroys Shamise!
+Rod of Anubis was moved to Void Guard Writhe's play area.
+GameController moved Shamise to the environment trash.
+Anubis initiates 2 Infernal damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Anubis by 1.
+Anubis deals Swarm of Scarabs 1 Infernal damage.
+Swarm of Scarabs is now at 3 HP.
+Judgement of Anubis destroys itself!
+GameController moved Judgement of Anubis to the environment trash.
+Went from Tomb of Anubis's End phase to Kismet's Start phase.
+Kismet initiates 2 Psychic damage to The Talisman.
+Kismet deals The Talisman 2 Psychic damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its front side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Kismet's play area.
+Went from Kismet's Start phase to PlayCard phase.
+GameController plays Scattered Mind.
+GameController moved Scattered Mind from the villain deck next to Benchmark: Supply and Demand.
+Went from Kismet's PlayCard phase to End phase.
+Umbral Siphon prevented Kismet from regaining HP.
+Kismet initiates 2 Psychic damage to Benchmark: Supply and Demand.
+The Talisman increases the damage dealt by Kismet by 2.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 3 Psychic damage.
+Benchmark: Supply and Demand is now at 21 HP.
+Went from Kismet's End phase to Benchmark's Start phase.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Load on Initialization.
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Revealed card: The Challenge of Fire
+Inconceivable Obstruction moved The Challenge of Fire from Tomb of Anubis's revealed cards to the environment trash.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 40 HP.
+Benchmark discards Intervening Path Calculator.
+Scattered Mind moved Intervening Path Calculator from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 2 Cold damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Swarm of Scarabs 1 Cold damage.
+Swarm of Scarabs is now at 2 HP.
+Benchmark discards Ally Matrix.
+Scattered Mind moved Ally Matrix from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 22.
+Benchmark: Supply and Demand's Desperate Measures plays "Inferno" Missile Pod.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Swarm of Scarabs prevented the phase action of Benchmark's DrawCard phase.
+Went from Benchmark's DrawCard phase to End phase.
+Went from Benchmark's End phase to Absolute Zero's Start phase.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Mdjai
+Inconceivable Obstruction puts Mdjai into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Freedom Five Absolute Zero by 1.
+Freedom Five Absolute Zero deals Mdjai 1 Cold damage.
+Mdjai is now at 9 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 1 Cold damage.
+Kismet is now at 39 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to The Talisman.
+Freedom Five Absolute Zero deals The Talisman 1 Cold damage.
+The Talisman is now at 6 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Akana.
+Mdjai reduces the damage dealt to Akana by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Anubis.
+Mdjai reduces the damage dealt to Anubis by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 37 HP.
+Went from Absolute Zero's Start phase to PlayCard phase.
+GameController plays Coolant Blast.
+Went from Absolute Zero's PlayCard phase to UsePower phase.
+Absolute Zero uses the power on Glacial Structure.
+Swarm of Scarabs prevented Absolute Zero from drawing cards.
+Swarm of Scarabs prevented Absolute Zero from drawing cards.
+Swarm of Scarabs prevented Absolute Zero from drawing cards.
+***** LOADED UNDO FILE: undo-89-AbsoluteZero-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 7062
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 13 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+***** LOADED UNDO FILE: undo-89-AbsoluteZero-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 7062
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 13 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Freedom Five Absolute Zero.
+Action of Isothermic Transducer was prevented by Null-Point Calibration Unit.
+Null-Point Calibration Unit caused Freedom Five Absolute Zero to regain 2 HP. HP is now 15.
+Freedom Five Absolute Zero's Pilot Light puts Glacial Structure into play.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase.
+Swarm of Scarabs prevented the phase action of Absolute Zero's DrawCard phase.
+Went from Absolute Zero's DrawCard phase to End phase.
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Kismet cannot gain HP.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Nowhere to Hide.
+Writhe initiates 3 Infernal damage to Swarm of Scarabs.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Swarm of Scarabs cannot reduce the damage, because it is irreducible.
+Mdjai cannot reduce the damage, because it is irreducible.
+Writhe deals Swarm of Scarabs 4 Infernal damage.
+Swarm of Scarabs is now at -2 HP.
+Writhe's Sink into Shadow destroys Swarm of Scarabs!
+Rod of Anubis was moved to Void Guard Writhe's play area.
+GameController moved Swarm of Scarabs to the environment trash.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Kismet.
+Revealed card: Idol of Anput
+Inconceivable Obstruction moved Idol of Anput from Tomb of Anubis's revealed cards to the environment trash.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Melee damage.
+Kismet is now at 35 HP.
+Applying ongoing effect: Kismet cannot gain HP.
+Writhe initiates 1 Infernal damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at 33 HP.
+GameController moved Nowhere to Hide to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Concealed Assailant.
+Writhe initiates 1 Melee damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Melee damage.
+Kismet is now at 31 HP.
+Writhe initiates 1 Infernal damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at 29 HP.
+Writhe initiates 1 Psychic damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Psychic damage.
+Kismet is now at 27 HP.
+Concealed Assailant destroys The Shadow Cloak!
+Anubis initiates 2 Infernal damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Anubis by 1.
+Anubis deals Benchmark: Supply and Demand 1 Infernal damage.
+Benchmark: Supply and Demand is now at 21 HP.
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Umbral Siphon.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Horrifying Dichotomy.
+Adamant Dr. Medico initiates 3 Energy damage to Kismet.
+Adamant Dr. Medico deals Kismet 3 Energy damage.
+Kismet is now at 24 HP.
+Writhe initiates 3 Infernal damage to Kismet.
+Writhe deals Kismet 3 Infernal damage.
+Kismet is now at 21 HP.
+GameController moved Horrifying Dichotomy to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Mainstay.
+Applying ongoing effect: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Unique Capabilities.
+Went from The Sentinels's DrawCard phase to End phase.
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase.
+Went from Tomb of Anubis's Start phase to PlayCard phase.
+GameController moves 11 cards to the top of Tomb of Anubis's Deck.
+Tomb of Anubis shuffles their the environment deck.
+GameController plays Urshe.
+Went from Tomb of Anubis's PlayCard phase to End phase.
+Mdjai initiates 1 Melee damage to Kismet.
+Revealed card: Shamise
+Inconceivable Obstruction puts Shamise into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Shamise.
+Mdjai reduces the damage dealt to Shamise by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to The Talisman.
+Mdjai deals The Talisman 1 Melee damage.
+The Talisman is now at 5 HP.
+Mdjai initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Freedom Five Absolute Zero.
+Mdjai deals Freedom Five Absolute Zero 1 Melee damage.
+Freedom Five Absolute Zero is now at 14 HP.
+Mdjai initiates 1 Melee damage to Writhe.
+Mdjai deals Writhe 1 Melee damage.
+Writhe is now at 14 HP.
+Mdjai initiates 1 Melee damage to Mainstay.
+Mainstay's Block reduces the damage dealt to Mainstay by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Writhe.
+Mainstay's Block reduces the damage dealt to Writhe by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Adamant The Idealist.
+Mainstay's Block reduces the damage dealt to Adamant The Idealist by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Adamant Dr. Medico.
+Mainstay's Block reduces the damage dealt to Adamant Dr. Medico by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Revealed card: Swinging Blades
+Revealed card: Swarm of Scarabs
+Revealed card: The Challenge of Fire
+Revealed card: Cast Into The Underworld
+Urshe puts Swinging Blades into play.
+Urshe puts Swarm of Scarabs into play.
+Urshe puts The Challenge of Fire into play.
+Urshe moved Cast Into The Underworld from Tomb of Anubis's revealed cards to the environment trash.
+Shamise initiates 2 Infernal damage to The Talisman.
+Shamise deals The Talisman 2 Infernal damage.
+The Talisman is now at 3 HP.
+Swinging Blades initiates 3 Melee damage to Kismet.
+Swinging Blades deals Kismet 3 Melee damage.
+Kismet is now at 18 HP.
+Swinging Blades initiates 3 Melee damage to The Talisman.
+Swinging Blades deals The Talisman 3 Melee damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its back side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Benchmark's play area.
+Swinging Blades initiates 3 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Swinging Blades by 1.
+Swinging Blades deals Benchmark: Supply and Demand 2 Melee damage.
+Benchmark: Supply and Demand is now at 19 HP.
+Swinging Blades initiates 3 Melee damage to Freedom Five Absolute Zero.
+Swinging Blades deals Freedom Five Absolute Zero 3 Melee damage.
+Freedom Five Absolute Zero is now at 11 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+Swinging Blades deals Writhe 3 Melee damage.
+Writhe is now at 11 HP.
+Swinging Blades initiates 3 Melee damage to Mainstay.
+Mainstay's Block reduces the damage dealt to Mainstay by Swinging Blades by 1.
+Swinging Blades deals Mainstay 2 Melee damage.
+Mainstay is now at 5 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+Mainstay's Block reduces the damage dealt to Writhe by Swinging Blades by 1.
+Caliginous Form reduces the damage dealt to Writhe by Swinging Blades by 2.
+Damage amount was 0, so no damage was dealt.
+Swinging Blades initiates 3 Melee damage to Adamant The Idealist.
+Mainstay's Block reduces the damage dealt to Adamant The Idealist by Swinging Blades by 1.
+Swinging Blades deals Adamant The Idealist 2 Melee damage.
+Adamant The Idealist is now at 1 HP.
+Swinging Blades initiates 3 Melee damage to Adamant Dr. Medico.
+Mainstay's Block reduces the damage dealt to Adamant Dr. Medico by Swinging Blades by 1.
+Swinging Blades deals Adamant Dr. Medico 2 Melee damage.
+Adamant Dr. Medico is now at 5 HP.
+Swinging Blades initiates 3 Melee damage to Akana.
+Mdjai reduces the damage dealt to Akana by Swinging Blades by 1.
+Swinging Blades deals Akana 2 Melee damage.
+Akana is now at -1 HP.
+Swinging Blades destroys Akana!
+Rod of Anubis was moved to Void Guard Writhe's play area.
+GameController moved Akana to the environment trash.
+Swinging Blades initiates 3 Melee damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+Swinging Blades initiates 3 Melee damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Swinging Blades by 1.
+Swinging Blades deals Mdjai 2 Melee damage.
+Mdjai is now at 7 HP.
+Swinging Blades initiates 3 Melee damage to Shamise.
+Mdjai reduces the damage dealt to Shamise by Swinging Blades by 1.
+Swinging Blades deals Shamise 2 Melee damage.
+Shamise is now at 5 HP.
+Swinging Blades initiates 3 Melee damage to Swarm of Scarabs.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Swinging Blades by 1.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Swinging Blades by 1.
+Swinging Blades deals Swarm of Scarabs 1 Melee damage.
+Swarm of Scarabs is now at 4 HP.
+Swinging Blades initiates 3 Melee damage to Urshe.
+Mdjai reduces the damage dealt to Urshe by Swinging Blades by 1.
+Swinging Blades deals Urshe 2 Melee damage.
+Urshe is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Kismet.
+The Challenge of Fire deals Kismet 2 Fire damage.
+Kismet is now at 16 HP.
+The Challenge of Fire initiates 2 Fire damage to The Talisman.
+The Challenge of Fire deals The Talisman 2 Fire damage.
+The Talisman is now at 5 HP.
+The Challenge of Fire initiates 2 Fire damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Challenge of Fire by 1.
+The Challenge of Fire deals Benchmark: Supply and Demand 1 Fire damage.
+Benchmark: Supply and Demand is now at 18 HP.
+The Challenge of Fire initiates 2 Fire damage to Freedom Five Absolute Zero.
+The Challenge of Fire deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 9 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Freedom Five Absolute Zero.
+Action of Isothermic Transducer was prevented by Null-Point Calibration Unit.
+Null-Point Calibration Unit caused Freedom Five Absolute Zero to regain 2 HP. HP is now 11.
+The Challenge of Fire initiates 2 Fire damage to Writhe.
+The Challenge of Fire deals Writhe 2 Fire damage.
+Writhe is now at 9 HP.
+The Challenge of Fire initiates 2 Fire damage to Mainstay.
+Mainstay's Block reduces the damage dealt to Mainstay by The Challenge of Fire by 1.
+The Challenge of Fire deals Mainstay 1 Fire damage.
+Mainstay is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Writhe.
+Mainstay's Block reduces the damage dealt to Writhe by The Challenge of Fire by 1.
+The Challenge of Fire deals Writhe 1 Fire damage.
+Writhe is now at 13 HP.
+The Challenge of Fire initiates 2 Fire damage to Adamant The Idealist.
+Mainstay's Block reduces the damage dealt to Adamant The Idealist by The Challenge of Fire by 1.
+The Challenge of Fire deals Adamant The Idealist 1 Fire damage.
+Adamant The Idealist is now at 0 HP.
+Adamant The Idealist is no longer a target.
+Adamant The Idealist was flipped to its back side.
+The Challenge of Fire initiates 2 Fire damage to Adamant Dr. Medico.
+Mainstay's Block reduces the damage dealt to Adamant Dr. Medico by The Challenge of Fire by 1.
+The Challenge of Fire deals Adamant Dr. Medico 1 Fire damage.
+Adamant Dr. Medico is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+The Challenge of Fire initiates 2 Fire damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by The Challenge of Fire by 1.
+The Challenge of Fire deals Mdjai 1 Fire damage.
+Mdjai is now at 6 HP.
+The Challenge of Fire initiates 2 Fire damage to Shamise.
+Mdjai reduces the damage dealt to Shamise by The Challenge of Fire by 1.
+The Challenge of Fire deals Shamise 1 Fire damage.
+Shamise is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Swarm of Scarabs.
+Mdjai reduces the damage dealt to Swarm of Scarabs by The Challenge of Fire by 1.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by The Challenge of Fire by 1.
+Damage amount was 0, so no damage was dealt.
+The Challenge of Fire initiates 2 Fire damage to Urshe.
+Mdjai reduces the damage dealt to Urshe by The Challenge of Fire by 1.
+The Challenge of Fire deals Urshe 1 Fire damage.
+Urshe is now at 3 HP.
+Went from Tomb of Anubis's End phase to Kismet's Start phase.
+Kismet initiates 2 Psychic damage to The Talisman.
+Kismet deals The Talisman 2 Psychic damage.
+The Talisman is now at 3 HP.
+Went from Kismet's Start phase to PlayCard phase.
+GameController plays Unlucky Break.
+Unlucky Break will destroy 4 hero ongoing or equipment cards.
+Unlucky Break destroys Coolant Blast!
+Anubis initiates 2 Infernal damage to Kismet.
+Revealed card: Judgement of Anubis
+Inconceivable Obstruction moved Judgement of Anubis from Tomb of Anubis's revealed cards to the environment trash.
+Anubis deals Kismet 2 Infernal damage.
+Kismet is now at 14 HP.
+GameController moved Coolant Blast to Absolute Zero's trash.
+Unlucky Break destroys Glacial Structure!
+GameController moved Glacial Structure to Absolute Zero's trash.
+Unlucky Break destroys Glacial Structure!
+GameController moved Glacial Structure to Absolute Zero's trash.
+Unlucky Break destroys Concealed Assailant!
+GameController moved Concealed Assailant to Void Guard Writhe's trash.
+Kismet initiates 2 Psychic damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 1 Psychic damage.
+Benchmark: Supply and Demand is now at 17 HP.
+Kismet initiates 2 Psychic damage to The Talisman.
+Kismet deals The Talisman 2 Psychic damage.
+The Talisman is now at 1 HP.
+GameController moved Unlucky Break to the villain trash.
+Went from Kismet's PlayCard phase to End phase.
+Umbral Siphon prevented Kismet from regaining HP.
+Kismet initiates 8 Psychic damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 7 Psychic damage.
+Benchmark: Supply and Demand is now at 10 HP.
+Went from Kismet's End phase to Benchmark's Start phase.
+Load on Initialization plays Tactical Communicator.
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Revealed card: Idol of Anput
+Inconceivable Obstruction moved Idol of Anput from Tomb of Anubis's revealed cards to the environment trash.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 12 HP.
+Benchmark discards Fly-by.
+Scattered Mind moved Fly-by from Benchmark's hand under "Inferno" Missile Pod.
+Benchmark: Supply and Demand initiates 2 Cold damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Mdjai 1 Cold damage.
+Mdjai is now at 5 HP.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's Start phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Multi-Point H.U.D..
+Applying ongoing effect: Increase damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 11.
+Benchmark: Supply and Demand's Desperate Measures plays Legion-core Processor.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Multi-Point H.U.D. increases the damage dealt by Benchmark: Supply and Demand by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Benchmark: Supply and Demand 1 Melee damage.
+Benchmark: Supply and Demand is now at 10 HP.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Swarm of Scarabs prevented the phase action of Benchmark's DrawCard phase.
+Went from Benchmark's DrawCard phase to End phase.
+"Inferno" Missile Pod destroys Fly-by!
+Anubis initiates 2 Infernal damage to Kismet.
+Anubis deals Kismet 2 Infernal damage.
+Kismet is now at 10 HP.
+GameController moved Fly-by from under "Inferno" Missile Pod to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Fire damage to Kismet.
+Multi-Point H.U.D. increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Kismet 2 Fire damage.
+Kismet is now at 8 HP.
+Went from Benchmark's End phase to Absolute Zero's Start phase.
+Notice: an ongoing effect just expired: Increase damage dealt by Benchmark: Supply and Demand by 1.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Spike Trap
+Inconceivable Obstruction moved Spike Trap from Tomb of Anubis's revealed cards to the environment trash.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 6 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 1 Cold damage.
+Kismet is now at 5 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to The Talisman.
+Freedom Five Absolute Zero deals The Talisman 1 Cold damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its front side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Kismet's play area.
+Freedom Five Absolute Zero initiates 1 Cold damage to Anubis.
+Mdjai reduces the damage dealt to Anubis by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Shamise.
+Mdjai reduces the damage dealt to Shamise by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Swarm of Scarabs.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Urshe.
+Mdjai reduces the damage dealt to Urshe by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 3 HP.
+Went from Absolute Zero's Start phase to PlayCard phase.
+GameController plays Coolant Blast.
+Went from Absolute Zero's PlayCard phase to UsePower phase.
+Absolute Zero uses the power on Coolant Blast.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 1 HP.
+Went from Absolute Zero's UsePower phase to DrawCard phase.
+Swarm of Scarabs prevented the phase action of Absolute Zero's DrawCard phase.
+Went from Absolute Zero's DrawCard phase to End phase.
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Kismet cannot gain HP.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Unnerving Target.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Rod of Anubis.
+Writhe initiates 2 Infernal damage to Kismet.
+Revealed card: Nomti
+Inconceivable Obstruction puts Nomti into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Nomti.
+Mdjai reduces the damage dealt to Nomti by Writhe by 1.
+Writhe deals Nomti 1 Infernal damage.
+Nomti is now at 8 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Swarm of Scarabs prevented the phase action of Void Guard Writhe's DrawCard phase.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Unique Capabilities.
+Unique Capabilities puts Durasteel Chains into play.
+The Sentinels shuffles their The Sentinels' deck.
+Swarm of Scarabs prevented The Sentinels from drawing cards.
+Unique Capabilities plays Dark Delusions.
+Writhe initiates 2 Infernal damage to Kismet.
+Revealed card: Judgement of Anubis
+Inconceivable Obstruction moved Judgement of Anubis from Tomb of Anubis's revealed cards to the environment trash.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at -1 HP.
+Benchmark: Supply and Demand, Freedom Five Absolute Zero, Writhe, Mainstay, Writhe, Adamant The Idealist and Adamant Dr. Medico all defeated Kismet! Congratulations!
+You just unlocked the promo card: Writhe: Cosmic Inventor!
+RAW Paste Data
+
+GameView Start
+Kismet puts The Talisman into play.
+Kismet shuffles their the villain deck.
+Went to Kismet's Start phase.
+Kismet initiates 1 Psychic damage to Benchmark: Supply and Demand.
+Kismet deals Benchmark: Supply and Demand 1 Psychic damage.
+Benchmark: Supply and Demand is now at 28 HP.
+Kismet initiates 1 Psychic damage to Freedom Five Absolute Zero.
+Kismet deals Freedom Five Absolute Zero 1 Psychic damage.
+Freedom Five Absolute Zero is now at 27 HP.
+Kismet initiates 1 Psychic damage to Writhe.
+Kismet deals Writhe 1 Psychic damage.
+Writhe is now at 18 HP.
+Kismet initiates 1 Psychic damage to Mainstay.
+Kismet deals Mainstay 1 Psychic damage.
+Mainstay is now at 13 HP.
+Kismet initiates 1 Psychic damage to Writhe.
+Kismet deals Writhe 1 Psychic damage.
+Writhe is now at 13 HP.
+Kismet initiates 1 Psychic damage to Adamant The Idealist.
+Kismet deals Adamant The Idealist 1 Psychic damage.
+Adamant The Idealist is now at 11 HP.
+Kismet initiates 1 Psychic damage to Adamant Dr. Medico.
+Kismet deals Adamant Dr. Medico 1 Psychic damage.
+Adamant Dr. Medico is now at 13 HP.
+Went from Kismet's Start phase to PlayCard phase. 
+GameController plays Unlucky Break.
+GameController moved Unlucky Break to the villain trash.
+Went from Kismet's PlayCard phase to End phase. 
+Revealed card: Two Left Feet
+Kismet moved Two Left Feet from Kismet's revealed cards to the villain deck.
+Kismet shuffles their the villain deck.
+Went from Kismet's End phase to Benchmark's Start phase. 
+Went from Benchmark's Start phase to PlayCard phase. 
+GameController plays Onboard Cooling Systems.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP, up to their maximum HP. HP is now 29.
+Benchmark: Supply and Demand's Desperate Measures plays Threat Neutralizer.
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 68 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Talisman.
+Benchmark: Supply and Demand deals The Talisman 2 Cold damage.
+The Talisman is now at 5 HP.
+Went from Benchmark's UsePower phase to DrawCard phase. 
+Benchmark draws Load on Initialization.
+Went from Benchmark's DrawCard phase to End phase. 
+Went from Benchmark's End phase to Absolute Zero's Start phase. 
+Went from Absolute Zero's Start phase to PlayCard phase. 
+GameController plays Isothermic Transducer.
+Went from Absolute Zero's PlayCard phase to UsePower phase. 
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 25 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 66 HP.
+Freedom Five Absolute Zero's Pilot Light puts Impale into play.
+GameController moved Impale from Absolute Zero's deck next to Kismet.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase. 
+Absolute Zero draws Null-Point Calibration Unit.
+Went from Absolute Zero's DrawCard phase to End phase. 
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Somber Tinker.
+Void Guard Writhe draws Nowhere to Hide.
+Somber Tinker plays Portable Dark-Lab.
+GameController moved Somber Tinker to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Portable Dark-Lab.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase. 
+Went from The Sentinels's Start phase to PlayCard phase. 
+GameController plays Caliginous Form.
+Went from The Sentinels's PlayCard phase to UsePower phase. 
+The Sentinels uses the power on Adamant The Idealist.
+Adamant The Idealist initiates 1 Psychic damage to Kismet.
+Adamant The Idealist deals Kismet 1 Psychic damage.
+Kismet is now at 65 HP.
+Applying ongoing effect: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase. 
+The Sentinels draws Horrifying Dichotomy.
+Went from The Sentinels's DrawCard phase to End phase. 
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase. 
+Went from Tomb of Anubis's Start phase to PlayCard phase. 
+GameController plays Swinging Blades.
+Went from Tomb of Anubis's PlayCard phase to End phase. 
+Swinging Blades initiates 3 Melee damage to Kismet.
+Swinging Blades deals Kismet 3 Melee damage.
+Kismet is now at 62 HP.
+Swinging Blades initiates 3 Melee damage to The Talisman.
+Swinging Blades deals The Talisman 3 Melee damage.
+The Talisman is now at 2 HP.
+Swinging Blades initiates 3 Melee damage to Benchmark: Supply and Demand.
+Swinging Blades deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 26 HP.
+Swinging Blades initiates 3 Melee damage to Freedom Five Absolute Zero.
+Swinging Blades deals Freedom Five Absolute Zero 3 Melee damage.
+Freedom Five Absolute Zero is now at 22 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Swinging Blades by 1.
+Swinging Blades deals Writhe 2 Melee damage.
+Writhe is now at 16 HP.
+Swinging Blades initiates 3 Melee damage to Mainstay.
+Swinging Blades deals Mainstay 3 Melee damage.
+Mainstay is now at 10 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+Caliginous Form redirects the damage dealt from Writhe to Kismet.
+Caliginous Form reduces the damage dealt to Kismet by Swinging Blades by 2.
+Swinging Blades deals Kismet 1 Melee damage.
+Kismet is now at 61 HP.
+Swinging Blades initiates 3 Melee damage to Adamant The Idealist.
+Swinging Blades deals Adamant The Idealist 3 Melee damage.
+Adamant The Idealist is now at 8 HP.
+Swinging Blades initiates 3 Melee damage to Adamant Dr. Medico.
+Swinging Blades deals Adamant Dr. Medico 3 Melee damage.
+Adamant Dr. Medico is now at 10 HP.
+Went from Tomb of Anubis's End phase to Kismet's Start phase. 
+Kismet initiates 1 Psychic damage to Benchmark: Supply and Demand.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Freedom Five Absolute Zero.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Freedom Five Absolute Zero by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Writhe.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Writhe by Kismet by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Mainstay.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Mainstay by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Writhe.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Writhe by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Adamant The Idealist.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Adamant The Idealist by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Kismet initiates 1 Psychic damage to Adamant Dr. Medico.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Adamant Dr. Medico by Kismet by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Kismet's Start phase to PlayCard phase. 
+GameController plays Lady Luck.
+Went from Kismet's PlayCard phase to End phase. 
+Revealed card: Imminent Destruction
+Kismet moved Imminent Destruction from Kismet's revealed cards to the villain deck.
+Kismet shuffles their the villain deck.
+Went from Kismet's End phase to Benchmark's Start phase. 
+Went from Benchmark's Start phase to PlayCard phase. 
+GameController plays Reinforced Chassis.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 27.
+Benchmark: Supply and Demand's Desperate Measures plays Overhaul Loadout.
+Benchmark draws Fly-by.
+Benchmark draws Micro Fabricator.
+Benchmark draws Fly-by.
+GameController moved Overhaul Loadout to Benchmark's trash.
+Benchmark uses the power on Threat Neutralizer.
+Revealed card: Inconceivable Obstruction
+Lady Luck puts Inconceivable Obstruction into play.
+Threat Neutralizer destroys Lady Luck!
+GameController moved Lady Luck to the villain trash.
+Threat Neutralizer destroys itself!
+GameController moved Threat Neutralizer to Benchmark's trash.
+Went from Benchmark's UsePower phase to DrawCard phase. 
+Benchmark draws Fly-by.
+Went from Benchmark's DrawCard phase to End phase. 
+Went from Benchmark's End phase to Absolute Zero's Start phase. 
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Rod of Anubis
+Inconceivable Obstruction moved Rod of Anubis from Tomb of Anubis's revealed cards to the environment trash.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 59 HP.
+Went from Absolute Zero's Start phase to PlayCard phase. 
+GameController plays Null-Point Calibration Unit.
+Went from Absolute Zero's PlayCard phase to UsePower phase. 
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 20 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 57 HP.
+Freedom Five Absolute Zero's Pilot Light puts Cold Snap into play.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase. 
+Absolute Zero draws Coolant Blast.
+Went from Absolute Zero's DrawCard phase to End phase. 
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Portable Dark-Lab.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Portable Dark-Lab.
+Revealed card: Concealed Assailant
+Revealed card: Penultimate Penumbra
+Revealed card: Swallowed by Shadow
+Portable Dark-Lab moved Penultimate Penumbra from Void Guard Writhe's revealed cards to Void Guard Writhe's hand.
+Portable Dark-Lab moved Swallowed by Shadow from Void Guard Writhe's revealed cards to Void Guard Writhe's trash.
+Portable Dark-Lab moved Concealed Assailant from Void Guard Writhe's revealed cards to the bottom of Void Guard Writhe's deck.
+Portable Dark-Lab plays Concealed Assailant.
+Portable Dark-Lab destroys itself!
+GameController moved Portable Dark-Lab to Void Guard Writhe's trash.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Umbral Siphon.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase. 
+Notice: an ongoing effect just expired: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's Start phase to PlayCard phase. 
+GameController plays Positive Energy.
+Positive Energy caused Benchmark: Supply and Demand to regain 1 HP. HP is now 28.
+Positive Energy caused Freedom Five Absolute Zero to regain 1 HP. HP is now 21.
+Positive Energy caused Writhe to regain 1 HP. HP is now 17.
+Positive Energy caused Mainstay to regain 1 HP. HP is now 11.
+Positive Energy caused Writhe to regain 1 HP, up to their maximum HP. HP is now 14.
+Positive Energy caused Adamant The Idealist to regain 1 HP. HP is now 9.
+Positive Energy caused Adamant Dr. Medico to regain 1 HP. HP is now 11.
+Adamant The Idealist initiates 2 Psychic damage to Kismet.
+Revealed card: Akana
+Inconceivable Obstruction puts Akana into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Akana.
+Adamant The Idealist deals Akana 2 Psychic damage.
+Akana is now at 6 HP.
+Adamant The Idealist initiates 2 Psychic damage to The Talisman.
+Adamant The Idealist deals The Talisman 2 Psychic damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its back side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Benchmark's play area.
+GameController moved Positive Energy to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase. 
+The Sentinels uses the power on Adamant The Idealist.
+Adamant The Idealist initiates 1 Psychic damage to Kismet.
+Adamant The Idealist deals Kismet 1 Psychic damage.
+Kismet is now at 56 HP.
+Applying ongoing effect: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase. 
+The Sentinels draws Fling Into Darkness.
+Went from The Sentinels's DrawCard phase to End phase. 
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase. 
+Swinging Blades initiates 2 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Swinging Blades by 1.
+Swinging Blades deals Benchmark: Supply and Demand 1 Melee damage.
+Benchmark: Supply and Demand is now at 27 HP.
+Swinging Blades destroys itself!
+GameController moved Swinging Blades to the environment trash.
+Went from Tomb of Anubis's Start phase to PlayCard phase. 
+GameController plays Judgement of Anubis.
+Judgement of Anubis puts Anubis into play.
+Tomb of Anubis shuffles their the environment deck.
+Went from Tomb of Anubis's PlayCard phase to End phase. 
+Anubis initiates 2 Infernal damage to Kismet.
+Revealed card: Spike Trap
+Inconceivable Obstruction moved Spike Trap from Tomb of Anubis's revealed cards to the environment trash.
+Anubis deals Kismet 2 Infernal damage.
+Kismet is now at 54 HP.
+Anubis initiates 2 Infernal damage to The Talisman.
+Anubis deals The Talisman 2 Infernal damage.
+The Talisman is now at 5 HP.
+Anubis initiates 2 Infernal damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Anubis by 1.
+Anubis deals Benchmark: Supply and Demand 1 Infernal damage.
+Benchmark: Supply and Demand is now at 26 HP.
+Anubis initiates 2 Infernal damage to Freedom Five Absolute Zero.
+Anubis deals Freedom Five Absolute Zero 2 Infernal damage.
+Freedom Five Absolute Zero is now at 19 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Anubis by 1.
+Anubis deals Writhe 1 Infernal damage.
+Writhe is now at 16 HP.
+Anubis initiates 2 Infernal damage to Mainstay.
+Anubis deals Mainstay 2 Infernal damage.
+Mainstay is now at 9 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+Caliginous Form reduces the damage dealt to Writhe by Anubis by 2.
+Damage amount was 0, so no damage was dealt.
+Anubis initiates 2 Infernal damage to Adamant The Idealist.
+Anubis deals Adamant The Idealist 2 Infernal damage.
+Adamant The Idealist is now at 7 HP.
+Anubis initiates 2 Infernal damage to Adamant Dr. Medico.
+Anubis deals Adamant Dr. Medico 2 Infernal damage.
+Adamant Dr. Medico is now at 9 HP.
+Anubis initiates 2 Infernal damage to Akana.
+Anubis deals Akana 2 Infernal damage.
+Akana is now at 4 HP.
+Anubis initiates 2 Infernal damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+Judgement of Anubis destroys itself!
+GameController moved Judgement of Anubis to the environment trash.
+Went from Tomb of Anubis's End phase to Kismet's Start phase. 
+Kismet was flipped to its back side.
+Went from Kismet's Start phase to PlayCard phase. 
+GameController plays Two Left Feet.
+GameController moved Two Left Feet from the villain deck next to Benchmark: Supply and Demand.
+Went from Kismet's PlayCard phase to End phase. 
+Kismet caused Kismet to regain 1 HP. HP is now 55.
+Kismet initiates 4 Psychic damage to Benchmark: Supply and Demand.
+Adamant The Idealist's T.K. Thump reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 2 Psychic damage.
+Benchmark: Supply and Demand is now at 24 HP.
+Went from Kismet's End phase to Benchmark's Start phase. 
+Went from Benchmark's Start phase to PlayCard phase. 
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark: Supply and Demand initiates 2 Energy damage to Kismet.
+Revealed card: Nomti
+Inconceivable Obstruction puts Nomti into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 7 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Anubis.
+Benchmark: Supply and Demand deals Anubis 2 Energy damage.
+Anubis is now at 18 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 5 HP.
+Fly-by plays Fly-by.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark: Supply and Demand initiates 2 Energy damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Energy damage.
+Kismet is now at 53 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Anubis.
+Benchmark: Supply and Demand deals Anubis 2 Energy damage.
+Anubis is now at 16 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 3 HP.
+Fly-by plays Fly-by.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark: Supply and Demand initiates 2 Energy damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Energy damage.
+Kismet is now at 51 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Energy damage.
+Nomti is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Anubis.
+Benchmark: Supply and Demand deals Anubis 2 Energy damage.
+Anubis is now at 14 HP.
+Fly-by plays Micro Fabricator.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+GameController moved Fly-by to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 25.
+Benchmark: Supply and Demand's Desperate Measures plays Multi-Point H.U.D..
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 49 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to Nomti.
+Benchmark: Supply and Demand deals Nomti 2 Cold damage.
+Nomti is now at -1 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Nomti!
+GameController moved Nomti to the environment trash.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Benchmark uses the power on The Talisman.
+Revealed card: Unlucky Break
+Revealed card: Scattered Mind
+Revealed card: Fortune's Smile
+The Talisman moved Scattered Mind from Kismet's revealed cards to the villain deck.
+The Talisman moved Unlucky Break from Kismet's revealed cards to the villain deck.
+The Talisman moved Fortune's Smile from Kismet's revealed cards to the villain deck.
+Went from Benchmark's UsePower phase to DrawCard phase. 
+Benchmark draws Intervening Path Calculator.
+Went from Benchmark's DrawCard phase to End phase. 
+Benchmark draws Fly-by.
+Went from Benchmark's End phase to Absolute Zero's Start phase. 
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Cast Into The Underworld
+Inconceivable Obstruction moved Cast Into The Underworld from Tomb of Anubis's revealed cards to the environment trash.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 47 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 1 Cold damage.
+Kismet is now at 46 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to The Talisman.
+Freedom Five Absolute Zero deals The Talisman 1 Cold damage.
+The Talisman is now at 4 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Akana.
+Freedom Five Absolute Zero deals Akana 1 Cold damage.
+Akana is now at 3 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Anubis.
+Freedom Five Absolute Zero deals Anubis 1 Cold damage.
+Anubis is now at 13 HP.
+Went from Absolute Zero's Start phase to PlayCard phase. 
+GameController plays Impale.
+GameController moved Impale from Absolute Zero's hand next to Kismet.
+Went from Absolute Zero's PlayCard phase to UsePower phase. 
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 17 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 44 HP.
+Freedom Five Absolute Zero's Pilot Light puts Glacial Structure into play.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase. 
+Absolute Zero draws Isothermic Transducer.
+Went from Absolute Zero's DrawCard phase to End phase. 
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Umbral Siphon.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Kismet.
+Revealed card: Urshe
+Inconceivable Obstruction puts Urshe into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Urshe.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Urshe 2 Melee damage.
+Urshe is now at 4 HP.
+Applying ongoing effect: Urshe cannot gain HP.
+Writhe initiates 1 Infernal damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at 42 HP.
+Applying ongoing effect: Kismet cannot gain HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Unnerving Target.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase. 
+Notice: an ongoing effect just expired: Reduce damage dealt by Kismet by 1.
+Went from The Sentinels's Start phase to PlayCard phase. 
+GameController plays Telekinetic Wallop.
+Adamant The Idealist initiates 1 Melee damage to Kismet.
+Revealed card: Shamise
+Inconceivable Obstruction puts Shamise into play.
+Shamise puts Rod of Anubis into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Shamise.
+Telekinetic Wallop changes the damage type to Psychic.
+Telekinetic Wallop increases the damage dealt by Adamant The Idealist by 2.
+Adamant The Idealist deals Shamise 3 Psychic damage.
+Shamise is now at 4 HP.
+Adamant The Idealist initiates 1 Melee damage to Urshe.
+Telekinetic Wallop changes the damage type to Psychic.
+Telekinetic Wallop increases the damage dealt by Adamant The Idealist by 2.
+Adamant The Idealist deals Urshe 3 Psychic damage.
+Urshe is now at 1 HP.
+Adamant The Idealist initiates 1 Melee damage to Shamise.
+Telekinetic Wallop changes the damage type to Psychic.
+Telekinetic Wallop increases the damage dealt by Adamant The Idealist by 2.
+Adamant The Idealist deals Shamise 3 Psychic damage.
+Shamise is now at 1 HP.
+GameController moved Telekinetic Wallop to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase. 
+The Sentinels uses the power on Adamant The Idealist.
+Adamant The Idealist initiates 1 Psychic damage to Urshe.
+Adamant The Idealist deals Urshe 1 Psychic damage.
+Urshe is now at 0 HP.
+Applying ongoing effect: Reduce damage dealt by Urshe by 1.
+Adamant The Idealist's T.K. Thump destroys Urshe!
+GameController moved Urshe to the environment trash.
+Went from The Sentinels's UsePower phase to DrawCard phase. 
+The Sentinels draws Dark Delusions.
+Went from The Sentinels's DrawCard phase to End phase. 
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase. 
+Went from Tomb of Anubis's Start phase to PlayCard phase. 
+GameController plays Judgement of Anubis.
+Went from Tomb of Anubis's PlayCard phase to End phase. 
+Shamise initiates 2 Infernal damage to Adamant The Idealist.
+Shamise deals Adamant The Idealist 2 Infernal damage.
+Adamant The Idealist is now at 5 HP.
+Anubis initiates 2 Infernal damage to Kismet.
+Revealed card: Swarm of Scarabs
+Inconceivable Obstruction puts Swarm of Scarabs into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Anubis by 1.
+Anubis deals Swarm of Scarabs 1 Infernal damage.
+Swarm of Scarabs is now at 4 HP.
+Anubis initiates 2 Infernal damage to The Talisman.
+Anubis deals The Talisman 2 Infernal damage.
+The Talisman is now at 2 HP.
+Anubis initiates 2 Infernal damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Anubis by 1.
+Anubis deals Benchmark: Supply and Demand 1 Infernal damage.
+Benchmark: Supply and Demand is now at 24 HP.
+Anubis initiates 2 Infernal damage to Freedom Five Absolute Zero.
+Anubis deals Freedom Five Absolute Zero 2 Infernal damage.
+Freedom Five Absolute Zero is now at 15 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Anubis by 1.
+Anubis deals Writhe 1 Infernal damage.
+Writhe is now at 15 HP.
+Anubis initiates 2 Infernal damage to Mainstay.
+Anubis deals Mainstay 2 Infernal damage.
+Mainstay is now at 7 HP.
+Anubis initiates 2 Infernal damage to Writhe.
+Caliginous Form reduces the damage dealt to Writhe by Anubis by 2.
+Damage amount was 0, so no damage was dealt.
+Anubis initiates 2 Infernal damage to Adamant The Idealist.
+Anubis deals Adamant The Idealist 2 Infernal damage.
+Adamant The Idealist is now at 3 HP.
+Anubis initiates 2 Infernal damage to Adamant Dr. Medico.
+Anubis deals Adamant Dr. Medico 2 Infernal damage.
+Adamant Dr. Medico is now at 7 HP.
+Anubis initiates 2 Infernal damage to Akana.
+Anubis deals Akana 2 Infernal damage.
+Akana is now at 1 HP.
+Anubis initiates 2 Infernal damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+Anubis initiates 2 Infernal damage to Shamise.
+Anubis deals Shamise 2 Infernal damage.
+Shamise is now at -1 HP.
+Anubis destroys Shamise!
+Rod of Anubis was moved to Void Guard Writhe's play area.
+GameController moved Shamise to the environment trash.
+Anubis initiates 2 Infernal damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Anubis by 1.
+Anubis deals Swarm of Scarabs 1 Infernal damage.
+Swarm of Scarabs is now at 3 HP.
+Judgement of Anubis destroys itself!
+GameController moved Judgement of Anubis to the environment trash.
+Went from Tomb of Anubis's End phase to Kismet's Start phase. 
+Kismet initiates 2 Psychic damage to The Talisman.
+Kismet deals The Talisman 2 Psychic damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its front side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Kismet's play area.
+Went from Kismet's Start phase to PlayCard phase. 
+GameController plays Scattered Mind.
+GameController moved Scattered Mind from the villain deck next to Benchmark: Supply and Demand.
+Went from Kismet's PlayCard phase to End phase. 
+Umbral Siphon prevented Kismet from regaining HP.
+Kismet initiates 2 Psychic damage to Benchmark: Supply and Demand.
+The Talisman increases the damage dealt by Kismet by 2.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 3 Psychic damage.
+Benchmark: Supply and Demand is now at 21 HP.
+Went from Kismet's End phase to Benchmark's Start phase. 
+Went from Benchmark's Start phase to PlayCard phase. 
+GameController plays Load on Initialization.
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Revealed card: The Challenge of Fire
+Inconceivable Obstruction moved The Challenge of Fire from Tomb of Anubis's revealed cards to the environment trash.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 40 HP.
+Benchmark discards Intervening Path Calculator.
+Scattered Mind moved Intervening Path Calculator from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 2 Cold damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Swarm of Scarabs 1 Cold damage.
+Swarm of Scarabs is now at 2 HP.
+Benchmark discards Ally Matrix.
+Scattered Mind moved Ally Matrix from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 22.
+Benchmark: Supply and Demand's Desperate Measures plays "Inferno" Missile Pod.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Benchmark's UsePower phase to DrawCard phase. 
+Swarm of Scarabs prevented the phase action of Benchmark's DrawCard phase.
+Went from Benchmark's DrawCard phase to End phase. 
+Went from Benchmark's End phase to Absolute Zero's Start phase. 
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Mdjai
+Inconceivable Obstruction puts Mdjai into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Freedom Five Absolute Zero by 1.
+Freedom Five Absolute Zero deals Mdjai 1 Cold damage.
+Mdjai is now at 9 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 1 Cold damage.
+Kismet is now at 39 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to The Talisman.
+Freedom Five Absolute Zero deals The Talisman 1 Cold damage.
+The Talisman is now at 6 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Akana.
+Mdjai reduces the damage dealt to Akana by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Anubis.
+Mdjai reduces the damage dealt to Anubis by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 37 HP.
+Went from Absolute Zero's Start phase to PlayCard phase. 
+GameController plays Coolant Blast.
+Went from Absolute Zero's PlayCard phase to UsePower phase. 
+Absolute Zero uses the power on Glacial Structure.
+Swarm of Scarabs prevented Absolute Zero from drawing cards.
+Swarm of Scarabs prevented Absolute Zero from drawing cards.
+Swarm of Scarabs prevented Absolute Zero from drawing cards.
+***** LOADED UNDO FILE: undo-89-AbsoluteZero-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 7062
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 13 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Swarm of Scarabs.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+***** LOADED UNDO FILE: undo-89-AbsoluteZero-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 7062
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Absolute Zero uses the power on Freedom Five Absolute Zero.
+Freedom Five Absolute Zero initiates 2 Fire damage to Freedom Five Absolute Zero.
+Freedom Five Absolute Zero deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 13 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Freedom Five Absolute Zero.
+Action of Isothermic Transducer was prevented by Null-Point Calibration Unit.
+Null-Point Calibration Unit caused Freedom Five Absolute Zero to regain 2 HP. HP is now 15.
+Freedom Five Absolute Zero's Pilot Light puts Glacial Structure into play.
+Absolute Zero shuffles their Absolute Zero's deck.
+Went from Absolute Zero's UsePower phase to DrawCard phase. 
+Swarm of Scarabs prevented the phase action of Absolute Zero's DrawCard phase.
+Went from Absolute Zero's DrawCard phase to End phase. 
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase. 
+Notice: an ongoing effect just expired: Kismet cannot gain HP.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Nowhere to Hide.
+Writhe initiates 3 Infernal damage to Swarm of Scarabs.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Swarm of Scarabs cannot reduce the damage, because it is irreducible.
+Mdjai cannot reduce the damage, because it is irreducible.
+Writhe deals Swarm of Scarabs 4 Infernal damage.
+Swarm of Scarabs is now at -2 HP.
+Writhe's Sink into Shadow destroys Swarm of Scarabs!
+Rod of Anubis was moved to Void Guard Writhe's play area.
+GameController moved Swarm of Scarabs to the environment trash.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Kismet.
+Revealed card: Idol of Anput
+Inconceivable Obstruction moved Idol of Anput from Tomb of Anubis's revealed cards to the environment trash.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Melee damage.
+Kismet is now at 35 HP.
+Applying ongoing effect: Kismet cannot gain HP.
+Writhe initiates 1 Infernal damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at 33 HP.
+GameController moved Nowhere to Hide to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Concealed Assailant.
+Writhe initiates 1 Melee damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Melee damage.
+Kismet is now at 31 HP.
+Writhe initiates 1 Infernal damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at 29 HP.
+Writhe initiates 1 Psychic damage to Kismet.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Kismet 2 Psychic damage.
+Kismet is now at 27 HP.
+Concealed Assailant destroys The Shadow Cloak!
+Anubis initiates 2 Infernal damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Anubis by 1.
+Anubis deals Benchmark: Supply and Demand 1 Infernal damage.
+Benchmark: Supply and Demand is now at 21 HP.
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Umbral Siphon.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase. 
+Went from The Sentinels's Start phase to PlayCard phase. 
+GameController plays Horrifying Dichotomy.
+Adamant Dr. Medico initiates 3 Energy damage to Kismet.
+Adamant Dr. Medico deals Kismet 3 Energy damage.
+Kismet is now at 24 HP.
+Writhe initiates 3 Infernal damage to Kismet.
+Writhe deals Kismet 3 Infernal damage.
+Kismet is now at 21 HP.
+GameController moved Horrifying Dichotomy to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase. 
+The Sentinels uses the power on Mainstay.
+Applying ongoing effect: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase. 
+The Sentinels draws Unique Capabilities.
+Went from The Sentinels's DrawCard phase to End phase. 
+Went from The Sentinels's End phase to Tomb of Anubis's Start phase. 
+Went from Tomb of Anubis's Start phase to PlayCard phase. 
+GameController moves 11 cards to the top of Tomb of Anubis's Deck.
+Tomb of Anubis shuffles their the environment deck.
+GameController plays Urshe.
+Went from Tomb of Anubis's PlayCard phase to End phase. 
+Mdjai initiates 1 Melee damage to Kismet.
+Revealed card: Shamise
+Inconceivable Obstruction puts Shamise into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Shamise.
+Mdjai reduces the damage dealt to Shamise by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to The Talisman.
+Mdjai deals The Talisman 1 Melee damage.
+The Talisman is now at 5 HP.
+Mdjai initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Freedom Five Absolute Zero.
+Mdjai deals Freedom Five Absolute Zero 1 Melee damage.
+Freedom Five Absolute Zero is now at 14 HP.
+Mdjai initiates 1 Melee damage to Writhe.
+Mdjai deals Writhe 1 Melee damage.
+Writhe is now at 14 HP.
+Mdjai initiates 1 Melee damage to Mainstay.
+Mainstay's Block reduces the damage dealt to Mainstay by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Writhe.
+Mainstay's Block reduces the damage dealt to Writhe by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Adamant The Idealist.
+Mainstay's Block reduces the damage dealt to Adamant The Idealist by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Mdjai initiates 1 Melee damage to Adamant Dr. Medico.
+Mainstay's Block reduces the damage dealt to Adamant Dr. Medico by Mdjai by 1.
+Damage amount was 0, so no damage was dealt.
+Revealed card: Swinging Blades
+Revealed card: Swarm of Scarabs
+Revealed card: The Challenge of Fire
+Revealed card: Cast Into The Underworld
+Urshe puts Swinging Blades into play.
+Urshe puts Swarm of Scarabs into play.
+Urshe puts The Challenge of Fire into play.
+Urshe moved Cast Into The Underworld from Tomb of Anubis's revealed cards to the environment trash.
+Shamise initiates 2 Infernal damage to The Talisman.
+Shamise deals The Talisman 2 Infernal damage.
+The Talisman is now at 3 HP.
+Swinging Blades initiates 3 Melee damage to Kismet.
+Swinging Blades deals Kismet 3 Melee damage.
+Kismet is now at 18 HP.
+Swinging Blades initiates 3 Melee damage to The Talisman.
+Swinging Blades deals The Talisman 3 Melee damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its back side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Benchmark's play area.
+Swinging Blades initiates 3 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Swinging Blades by 1.
+Swinging Blades deals Benchmark: Supply and Demand 2 Melee damage.
+Benchmark: Supply and Demand is now at 19 HP.
+Swinging Blades initiates 3 Melee damage to Freedom Five Absolute Zero.
+Swinging Blades deals Freedom Five Absolute Zero 3 Melee damage.
+Freedom Five Absolute Zero is now at 11 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+Swinging Blades deals Writhe 3 Melee damage.
+Writhe is now at 11 HP.
+Swinging Blades initiates 3 Melee damage to Mainstay.
+Mainstay's Block reduces the damage dealt to Mainstay by Swinging Blades by 1.
+Swinging Blades deals Mainstay 2 Melee damage.
+Mainstay is now at 5 HP.
+Swinging Blades initiates 3 Melee damage to Writhe.
+Mainstay's Block reduces the damage dealt to Writhe by Swinging Blades by 1.
+Caliginous Form reduces the damage dealt to Writhe by Swinging Blades by 2.
+Damage amount was 0, so no damage was dealt.
+Swinging Blades initiates 3 Melee damage to Adamant The Idealist.
+Mainstay's Block reduces the damage dealt to Adamant The Idealist by Swinging Blades by 1.
+Swinging Blades deals Adamant The Idealist 2 Melee damage.
+Adamant The Idealist is now at 1 HP.
+Swinging Blades initiates 3 Melee damage to Adamant Dr. Medico.
+Mainstay's Block reduces the damage dealt to Adamant Dr. Medico by Swinging Blades by 1.
+Swinging Blades deals Adamant Dr. Medico 2 Melee damage.
+Adamant Dr. Medico is now at 5 HP.
+Swinging Blades initiates 3 Melee damage to Akana.
+Mdjai reduces the damage dealt to Akana by Swinging Blades by 1.
+Swinging Blades deals Akana 2 Melee damage.
+Akana is now at -1 HP.
+Swinging Blades destroys Akana!
+Rod of Anubis was moved to Void Guard Writhe's play area.
+GameController moved Akana to the environment trash.
+Swinging Blades initiates 3 Melee damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+Swinging Blades initiates 3 Melee damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Swinging Blades by 1.
+Swinging Blades deals Mdjai 2 Melee damage.
+Mdjai is now at 7 HP.
+Swinging Blades initiates 3 Melee damage to Shamise.
+Mdjai reduces the damage dealt to Shamise by Swinging Blades by 1.
+Swinging Blades deals Shamise 2 Melee damage.
+Shamise is now at 5 HP.
+Swinging Blades initiates 3 Melee damage to Swarm of Scarabs.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Swinging Blades by 1.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Swinging Blades by 1.
+Swinging Blades deals Swarm of Scarabs 1 Melee damage.
+Swarm of Scarabs is now at 4 HP.
+Swinging Blades initiates 3 Melee damage to Urshe.
+Mdjai reduces the damage dealt to Urshe by Swinging Blades by 1.
+Swinging Blades deals Urshe 2 Melee damage.
+Urshe is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Kismet.
+The Challenge of Fire deals Kismet 2 Fire damage.
+Kismet is now at 16 HP.
+The Challenge of Fire initiates 2 Fire damage to The Talisman.
+The Challenge of Fire deals The Talisman 2 Fire damage.
+The Talisman is now at 5 HP.
+The Challenge of Fire initiates 2 Fire damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Challenge of Fire by 1.
+The Challenge of Fire deals Benchmark: Supply and Demand 1 Fire damage.
+Benchmark: Supply and Demand is now at 18 HP.
+The Challenge of Fire initiates 2 Fire damage to Freedom Five Absolute Zero.
+The Challenge of Fire deals Freedom Five Absolute Zero 2 Fire damage.
+Freedom Five Absolute Zero is now at 9 HP.
+Freedom Five Absolute Zero initiates 2 Cold damage to Freedom Five Absolute Zero.
+Action of Isothermic Transducer was prevented by Null-Point Calibration Unit.
+Null-Point Calibration Unit caused Freedom Five Absolute Zero to regain 2 HP. HP is now 11.
+The Challenge of Fire initiates 2 Fire damage to Writhe.
+The Challenge of Fire deals Writhe 2 Fire damage.
+Writhe is now at 9 HP.
+The Challenge of Fire initiates 2 Fire damage to Mainstay.
+Mainstay's Block reduces the damage dealt to Mainstay by The Challenge of Fire by 1.
+The Challenge of Fire deals Mainstay 1 Fire damage.
+Mainstay is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Writhe.
+Mainstay's Block reduces the damage dealt to Writhe by The Challenge of Fire by 1.
+The Challenge of Fire deals Writhe 1 Fire damage.
+Writhe is now at 13 HP.
+The Challenge of Fire initiates 2 Fire damage to Adamant The Idealist.
+Mainstay's Block reduces the damage dealt to Adamant The Idealist by The Challenge of Fire by 1.
+The Challenge of Fire deals Adamant The Idealist 1 Fire damage.
+Adamant The Idealist is now at 0 HP.
+Adamant The Idealist is no longer a target.
+Adamant The Idealist was flipped to its back side.
+The Challenge of Fire initiates 2 Fire damage to Adamant Dr. Medico.
+Mainstay's Block reduces the damage dealt to Adamant Dr. Medico by The Challenge of Fire by 1.
+The Challenge of Fire deals Adamant Dr. Medico 1 Fire damage.
+Adamant Dr. Medico is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Anubis.
+Anubis made Anubis immune to damage.
+Damage amount was 0, so no damage was dealt.
+The Challenge of Fire initiates 2 Fire damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by The Challenge of Fire by 1.
+The Challenge of Fire deals Mdjai 1 Fire damage.
+Mdjai is now at 6 HP.
+The Challenge of Fire initiates 2 Fire damage to Shamise.
+Mdjai reduces the damage dealt to Shamise by The Challenge of Fire by 1.
+The Challenge of Fire deals Shamise 1 Fire damage.
+Shamise is now at 4 HP.
+The Challenge of Fire initiates 2 Fire damage to Swarm of Scarabs.
+Mdjai reduces the damage dealt to Swarm of Scarabs by The Challenge of Fire by 1.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by The Challenge of Fire by 1.
+Damage amount was 0, so no damage was dealt.
+The Challenge of Fire initiates 2 Fire damage to Urshe.
+Mdjai reduces the damage dealt to Urshe by The Challenge of Fire by 1.
+The Challenge of Fire deals Urshe 1 Fire damage.
+Urshe is now at 3 HP.
+Went from Tomb of Anubis's End phase to Kismet's Start phase. 
+Kismet initiates 2 Psychic damage to The Talisman.
+Kismet deals The Talisman 2 Psychic damage.
+The Talisman is now at 3 HP.
+Went from Kismet's Start phase to PlayCard phase. 
+GameController plays Unlucky Break.
+Unlucky Break will destroy 4 hero ongoing or equipment cards.
+Unlucky Break destroys Coolant Blast!
+Anubis initiates 2 Infernal damage to Kismet.
+Revealed card: Judgement of Anubis
+Inconceivable Obstruction moved Judgement of Anubis from Tomb of Anubis's revealed cards to the environment trash.
+Anubis deals Kismet 2 Infernal damage.
+Kismet is now at 14 HP.
+GameController moved Coolant Blast to Absolute Zero's trash.
+Unlucky Break destroys Glacial Structure!
+GameController moved Glacial Structure to Absolute Zero's trash.
+Unlucky Break destroys Glacial Structure!
+GameController moved Glacial Structure to Absolute Zero's trash.
+Unlucky Break destroys Concealed Assailant!
+GameController moved Concealed Assailant to Void Guard Writhe's trash.
+Kismet initiates 2 Psychic damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 1 Psychic damage.
+Benchmark: Supply and Demand is now at 17 HP.
+Kismet initiates 2 Psychic damage to The Talisman.
+Kismet deals The Talisman 2 Psychic damage.
+The Talisman is now at 1 HP.
+GameController moved Unlucky Break to the villain trash.
+Went from Kismet's PlayCard phase to End phase. 
+Umbral Siphon prevented Kismet from regaining HP.
+Kismet initiates 8 Psychic damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Kismet by 1.
+Kismet deals Benchmark: Supply and Demand 7 Psychic damage.
+Benchmark: Supply and Demand is now at 10 HP.
+Went from Kismet's End phase to Benchmark's Start phase. 
+Load on Initialization plays Tactical Communicator.
+Benchmark: Supply and Demand initiates 2 Cold damage to Kismet.
+Revealed card: Idol of Anput
+Inconceivable Obstruction moved Idol of Anput from Tomb of Anubis's revealed cards to the environment trash.
+Benchmark: Supply and Demand deals Kismet 2 Cold damage.
+Kismet is now at 12 HP.
+Benchmark discards Fly-by.
+Scattered Mind moved Fly-by from Benchmark's hand under "Inferno" Missile Pod.
+Benchmark: Supply and Demand initiates 2 Cold damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Mdjai 1 Cold damage.
+Mdjai is now at 5 HP.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Damage amount was 0, so no damage was dealt.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's Start phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Multi-Point H.U.D..
+Applying ongoing effect: Increase damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 11.
+Benchmark: Supply and Demand's Desperate Measures plays Legion-core Processor.
+Benchmark: Supply and Demand initiates 1 Melee damage to Benchmark: Supply and Demand.
+Multi-Point H.U.D. increases the damage dealt by Benchmark: Supply and Demand by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Benchmark: Supply and Demand 1 Melee damage.
+Benchmark: Supply and Demand is now at 10 HP.
+Went from Benchmark's UsePower phase to DrawCard phase. 
+Swarm of Scarabs prevented the phase action of Benchmark's DrawCard phase.
+Went from Benchmark's DrawCard phase to End phase. 
+"Inferno" Missile Pod destroys Fly-by!
+Anubis initiates 2 Infernal damage to Kismet.
+Anubis deals Kismet 2 Infernal damage.
+Kismet is now at 10 HP.
+GameController moved Fly-by from under "Inferno" Missile Pod to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Fire damage to Kismet.
+Multi-Point H.U.D. increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Kismet 2 Fire damage.
+Kismet is now at 8 HP.
+Went from Benchmark's End phase to Absolute Zero's Start phase. 
+Notice: an ongoing effect just expired: Increase damage dealt by Benchmark: Supply and Demand by 1.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Revealed card: Spike Trap
+Inconceivable Obstruction moved Spike Trap from Tomb of Anubis's revealed cards to the environment trash.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 6 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 1 Cold damage.
+Kismet is now at 5 HP.
+Freedom Five Absolute Zero initiates 1 Cold damage to The Talisman.
+Freedom Five Absolute Zero deals The Talisman 1 Cold damage.
+The Talisman is now at 0 HP.
+The Talisman was flipped to its front side.
+The Talisman restored the HP of The Talisman to 7 HP.
+The Talisman was moved to Kismet's play area.
+Freedom Five Absolute Zero initiates 1 Cold damage to Anubis.
+Mdjai reduces the damage dealt to Anubis by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Mdjai.
+Mdjai reduces the damage dealt to Mdjai by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Shamise.
+Mdjai reduces the damage dealt to Shamise by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Swarm of Scarabs.
+Mdjai reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Swarm of Scarabs reduces the damage dealt to Swarm of Scarabs by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 1 Cold damage to Urshe.
+Mdjai reduces the damage dealt to Urshe by Freedom Five Absolute Zero by 1.
+Damage amount was 0, so no damage was dealt.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 3 HP.
+Went from Absolute Zero's Start phase to PlayCard phase. 
+GameController plays Coolant Blast.
+Went from Absolute Zero's PlayCard phase to UsePower phase. 
+Absolute Zero uses the power on Coolant Blast.
+Freedom Five Absolute Zero initiates 2 Cold damage to Kismet.
+Freedom Five Absolute Zero deals Kismet 2 Cold damage.
+Kismet is now at 1 HP.
+Went from Absolute Zero's UsePower phase to DrawCard phase. 
+Swarm of Scarabs prevented the phase action of Absolute Zero's DrawCard phase.
+Went from Absolute Zero's DrawCard phase to End phase. 
+Went from Absolute Zero's End phase to Void Guard Writhe's Start phase. 
+Notice: an ongoing effect just expired: Kismet cannot gain HP.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Unnerving Target.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Rod of Anubis.
+Writhe initiates 2 Infernal damage to Kismet.
+Revealed card: Nomti
+Inconceivable Obstruction puts Nomti into play.
+Inconceivable Obstruction redirects the damage dealt from Kismet to Nomti.
+Mdjai reduces the damage dealt to Nomti by Writhe by 1.
+Writhe deals Nomti 1 Infernal damage.
+Nomti is now at 8 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Swarm of Scarabs prevented the phase action of Void Guard Writhe's DrawCard phase.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Sentinels's Start phase. 
+Notice: an ongoing effect just expired: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's Start phase to PlayCard phase. 
+GameController plays Unique Capabilities.
+Unique Capabilities puts Durasteel Chains into play.
+The Sentinels shuffles their The Sentinels' deck.
+Swarm of Scarabs prevented The Sentinels from drawing cards.
+Unique Capabilities plays Dark Delusions.
+Writhe initiates 2 Infernal damage to Kismet.
+Revealed card: Judgement of Anubis
+Inconceivable Obstruction moved Judgement of Anubis from Tomb of Anubis's revealed cards to the environment trash.
+Writhe deals Kismet 2 Infernal damage.
+Kismet is now at -1 HP.
+Benchmark: Supply and Demand, Freedom Five Absolute Zero, Writhe, Mainstay, Writhe, Adamant The Idealist and Adamant Dr. Medico all defeated Kismet! Congratulations!
+You just unlocked the promo card: Writhe: Cosmic Inventor!
+

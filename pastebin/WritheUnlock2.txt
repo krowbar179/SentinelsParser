@@ -1,0 +1,524 @@
+GameView Start
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 23982
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController puts Losing to the Odds into play.
+GameController puts Wagelings into play.
+GameController puts Wagelings into play.
+Wager Master shuffles their the villain deck.
+Went to Wager Master's Start phase.
+Went from Wager Master's Start phase to PlayCard phase.
+GameController plays What Do You Really Know?.
+Went from Wager Master's PlayCard phase to End phase.
+Wagelings initiates 1 Melee damage to Omnitron-X.
+Wagelings deals Omnitron-X 1 Melee damage.
+Omnitron-X is now at 24 HP.
+Wagelings initiates 1 Melee damage to Expatriette.
+Wagelings deals Expatriette 1 Melee damage.
+Expatriette is now at 28 HP.
+Wagelings initiates 1 Melee damage to Writhe.
+Wagelings deals Writhe 1 Melee damage.
+Writhe is now at 18 HP.
+Wagelings initiates 1 Melee damage to Omnitron-X.
+Wagelings deals Omnitron-X 1 Melee damage.
+Omnitron-X is now at 23 HP.
+Wagelings initiates 1 Melee damage to Expatriette.
+Wagelings deals Expatriette 1 Melee damage.
+Expatriette is now at 27 HP.
+Wagelings initiates 1 Melee damage to Writhe.
+Wagelings deals Writhe 1 Melee damage.
+Writhe is now at 17 HP.
+What Do You Really Know? moved Technological Advancement from the top of Omnitron-X's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Incendiary Rounds from the top of Expatriette's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Distorted Perception from the top of Void Guard Writhe's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+Went from Wager Master's End phase to Omnitron-X's Start phase.
+Went from Omnitron-X's Start phase to PlayCard phase.
+GameController plays Reactive Plating Subroutine.
+Went from Omnitron-X's PlayCard phase to UsePower phase.
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Ablative Coating
+Omnitron-X's Timeshift puts Ablative Coating into play.
+Went from Omnitron-X's UsePower phase to DrawCard phase.
+Omnitron-X draws Focused Plasma Cannon.
+Went from Omnitron-X's DrawCard phase to End phase.
+Went from Omnitron-X's End phase to Expatriette's Start phase.
+Went from Expatriette's Start phase to PlayCard phase.
+GameController plays Assault Rifle.
+Went from Expatriette's PlayCard phase to UsePower phase.
+Expatriette uses the power on Expatriette.
+Expatriette's Load plays Flak Jacket.
+Went from Expatriette's UsePower phase to DrawCard phase.
+Expatriette draws Submachine Gun.
+Went from Expatriette's DrawCard phase to End phase.
+Went from Expatriette's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Sciamachy.
+Wagelings initiates 1 Psychic damage to Wagelings.
+Wagelings deals Wagelings 1 Psychic damage.
+Wagelings is now at 5 HP.
+Wagelings initiates 1 Melee damage to Wagelings.
+Wagelings deals Wagelings 1 Melee damage.
+Wagelings is now at 4 HP.
+Sciamachy puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+GameController moved Sciamachy to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Somber Tinker.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Medical Ward.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to Wager Master's Start phase.
+Went from Wager Master's Start phase to PlayCard phase.
+GameController plays Pick a Card, Pick a Fate.
+Revealed card: Impossible Quandary
+Pick a Card, Pick a Fate puts Impossible Quandary into play.
+Omnitron-X initiates 3 Psychic damage to Omnitron-X.
+Omnitron-X deals Omnitron-X 3 Psychic damage.
+Omnitron-X is now at 20 HP.
+Expatriette initiates 3 Psychic damage to Expatriette.
+Action of Impossible Quandary was prevented by Flak Jacket.
+Flak Jacket destroys itself!
+GameController moved Flak Jacket to Expatriette's trash.
+Writhe initiates 3 Psychic damage to Writhe.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Writhe by 1.
+Writhe deals Writhe 3 Psychic damage.
+Writhe is now at 14 HP.
+GameController moved Impossible Quandary to the villain trash.
+GameController moved Pick a Card, Pick a Fate to the villain trash.
+Went from Wager Master's PlayCard phase to End phase.
+Wagelings initiates 1 Melee damage to Omnitron-X.
+Ablative Coating reduces the damage dealt to Omnitron-X by Wagelings by 2.
+Damage amount was 0, so no damage was dealt.
+Wagelings initiates 1 Melee damage to Expatriette.
+Wagelings deals Expatriette 1 Melee damage.
+Expatriette is now at 26 HP.
+Wagelings initiates 1 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Wagelings by 1.
+Damage amount was 0, so no damage was dealt.
+Wagelings initiates 1 Melee damage to Omnitron-X.
+Ablative Coating reduces the damage dealt to Omnitron-X by Wagelings by 2.
+Damage amount was 0, so no damage was dealt.
+Wagelings initiates 1 Melee damage to Expatriette.
+Wagelings deals Expatriette 1 Melee damage.
+Expatriette is now at 25 HP.
+Wagelings initiates 1 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Wagelings by 1.
+Damage amount was 0, so no damage was dealt.
+What Do You Really Know? moved Focused Plasma Cannon from the top of Omnitron-X's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Hollow Points from the top of Expatriette's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Grasping Shadow-Cloth from the top of Void Guard Writhe's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+Went from Wager Master's End phase to Omnitron-X's Start phase.
+Went from Omnitron-X's Start phase to PlayCard phase.
+GameController plays Focused Plasma Cannon.
+Went from Omnitron-X's PlayCard phase to UsePower phase.
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Technological Advancement
+Omnitron-X's Timeshift puts Technological Advancement into play.
+Technological Advancement puts Electro-Deployment Unit into play.
+Omnitron-X shuffles their Omnitron-X's deck.
+Omnitron-X draws Rocket Punch.
+GameController moved Technological Advancement to Omnitron-X's trash.
+Went from Omnitron-X's UsePower phase to DrawCard phase.
+Omnitron-X draws Elemental Exochassis.
+Went from Omnitron-X's DrawCard phase to End phase.
+Went from Omnitron-X's End phase to Expatriette's Start phase.
+Went from Expatriette's Start phase to PlayCard phase.
+GameController plays Shock Rounds.
+GameController moved Shock Rounds from Expatriette's hand next to Assault Rifle.
+Went from Expatriette's PlayCard phase to UsePower phase.
+Expatriette uses the power on Expatriette.
+Expatriette's Load plays Arsenal Access.
+Revealed card: Reload
+Revealed card: Reload
+Revealed matching card: Tactical Shotgun
+Revealed matching card: Liquid Nitrogen Rounds
+Arsenal Access puts Tactical Shotgun into play.
+Arsenal Access moved Reload from Expatriette's revealed cards to Expatriette's deck.
+Arsenal Access moved Reload from Expatriette's revealed cards to Expatriette's deck.
+Arsenal Access moved Liquid Nitrogen Rounds from Expatriette's revealed cards to Expatriette's deck.
+Expatriette shuffles their Expatriette's deck.
+GameController moved Arsenal Access to Expatriette's trash.
+Went from Expatriette's UsePower phase to DrawCard phase.
+Expatriette draws Submachine Gun.
+Went from Expatriette's DrawCard phase to End phase.
+Went from Expatriette's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. (Count: 2)
+Void Guard Writhe draws Unnerving Target.
+Void Guard Writhe draws Unnerving Target.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Medical Ward tried to increase Wager Master's HP, but they are already at their maximum HP.
+Medical Ward caused Wagelings to regain 1 HP. HP is now 5.
+Medical Ward tried to increase Wagelings's HP, but they are already at their maximum HP.
+Medical Ward caused Omnitron-X to regain 1 HP. HP is now 21.
+Medical Ward caused Expatriette to regain 1 HP. HP is now 26.
+Medical Ward caused Writhe to regain 1 HP. HP is now 15.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Security Station.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to Wager Master's Start phase.
+Went from Wager Master's Start phase to PlayCard phase.
+GameController plays An Unwise Wager.
+Went from Wager Master's PlayCard phase to End phase.
+Wagelings initiates 1 Melee damage to Omnitron-X.
+Ablative Coating reduces the damage dealt to Omnitron-X by Wagelings by 2.
+Damage amount was 0, so no damage was dealt.
+Wagelings initiates 1 Melee damage to Expatriette.
+Wagelings deals Expatriette 1 Melee damage.
+Expatriette is now at 25 HP.
+Wagelings initiates 1 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Wagelings by 1.
+Damage amount was 0, so no damage was dealt.
+Wagelings initiates 1 Melee damage to Omnitron-X.
+Ablative Coating reduces the damage dealt to Omnitron-X by Wagelings by 2.
+Damage amount was 0, so no damage was dealt.
+Wagelings initiates 1 Melee damage to Expatriette.
+Wagelings deals Expatriette 1 Melee damage.
+Expatriette is now at 24 HP.
+Wagelings initiates 1 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Wagelings by 1.
+Damage amount was 0, so no damage was dealt.
+What Do You Really Know? moved Singularity from the top of Omnitron-X's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Quick Draw from the top of Expatriette's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Somber Tinker from the top of Void Guard Writhe's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+An Unwise Wager moved Reset from Omnitron-X's deck to Omnitron-X's trash.
+An Unwise Wager moved Arsenal Access from Expatriette's deck to Expatriette's trash.
+An Unwise Wager moved Lurking Shadows from Void Guard Writhe's deck to Void Guard Writhe's trash.
+An Unwise Wager was flipped to its back side.
+Went from Wager Master's End phase to Omnitron-X's Start phase.
+Omnitron-X initiates 2 Fire damage to Wager Master.
+Omnitron-X deals Wager Master 2 Fire damage.
+Wager Master is now at 49 HP.
+Electro-Deployment Unit plays Rocket Punch.
+Went from Omnitron-X's Start phase to PlayCard phase.
+GameController plays Defensive Blast.
+Went from Omnitron-X's PlayCard phase to UsePower phase.
+Omnitron-X uses the power on Defensive Blast.
+Omnitron-X discards Elemental Exochassis.
+Defensive Blast moved Elemental Exochassis from Omnitron-X's hand to Omnitron-X's trash.
+Omnitron-X initiates 1 Melee damage to Wager Master.
+Omnitron-X deals Wager Master 1 Melee damage.
+Wager Master is now at 48 HP.
+Omnitron-X initiates 1 Projectile damage to Wager Master.
+Omnitron-X deals Wager Master 1 Projectile damage.
+Wager Master is now at 47 HP.
+Omnitron-X initiates 1 Toxic damage to Wager Master.
+Omnitron-X deals Wager Master 1 Toxic damage.
+Wager Master is now at 46 HP.
+Omnitron-X initiates 1 Melee damage to Wagelings.
+Omnitron-X deals Wagelings 1 Melee damage.
+Wagelings is now at 4 HP.
+Omnitron-X initiates 1 Projectile damage to Wagelings.
+Omnitron-X deals Wagelings 1 Projectile damage.
+Wagelings is now at 3 HP.
+Omnitron-X initiates 1 Toxic damage to Wagelings.
+Omnitron-X deals Wagelings 1 Toxic damage.
+Wagelings is now at 2 HP.
+Omnitron-X initiates 1 Melee damage to Wagelings.
+Omnitron-X deals Wagelings 1 Melee damage.
+Wagelings is now at 5 HP.
+Omnitron-X initiates 1 Projectile damage to Wagelings.
+Omnitron-X deals Wagelings 1 Projectile damage.
+Wagelings is now at 4 HP.
+Omnitron-X initiates 1 Toxic damage to Wagelings.
+Omnitron-X deals Wagelings 1 Toxic damage.
+Wagelings is now at 3 HP.
+Went from Omnitron-X's UsePower phase to DrawCard phase.
+Omnitron-X draws Elemental Exochassis.
+Went from Omnitron-X's DrawCard phase to End phase.
+Went from Omnitron-X's End phase to Expatriette's Start phase.
+Went from Expatriette's Start phase to PlayCard phase.
+GameController plays Submachine Gun.
+Went from Expatriette's PlayCard phase to UsePower phase.
+Expatriette uses the power on Assault Rifle.
+Expatriette initiates 2 Projectile damage to Wagelings.
+Expatriette deals Wagelings 2 Projectile damage.
+Wagelings is now at 1 HP.
+Expatriette initiates 1 Lightning damage to Wagelings.
+Expatriette deals Wagelings 1 Lightning damage.
+Wagelings is now at 1 HP.
+Expatriette initiates 1 Lightning damage to Wager Master.
+Expatriette deals Wager Master 1 Lightning damage.
+Wager Master is now at 45 HP.
+Expatriette initiates 1 Lightning damage to Wagelings.
+Expatriette deals Wagelings 1 Lightning damage.
+Wagelings is now at 0 HP.
+Wagelings was flipped to its back side.
+Expatriette initiates 2 Projectile damage to Wager Master.
+Expatriette deals Wager Master 2 Projectile damage.
+Wager Master is now at 43 HP.
+Expatriette initiates 2 Projectile damage to Wagelings.
+Expatriette deals Wagelings 2 Projectile damage.
+Wagelings is now at -1 HP.
+Wagelings was flipped to its back side.
+Shock Rounds destroys itself!
+GameController moved Shock Rounds to Expatriette's trash.
+Went from Expatriette's UsePower phase to DrawCard phase.
+Expatriette draws Hairtrigger Reflexes.
+Went from Expatriette's DrawCard phase to End phase.
+Went from Expatriette's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Somber Tinker.
+Void Guard Writhe draws Portable Dark-Lab.
+Somber Tinker plays Portable Dark-Lab.
+GameController moved Somber Tinker to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Portable Dark-Lab.
+Revealed card: Sciamachy
+Revealed card: Erratic Form
+Revealed card: Swallowed by Shadow
+Portable Dark-Lab moved Erratic Form from Void Guard Writhe's revealed cards to Void Guard Writhe's hand.
+Portable Dark-Lab moved Swallowed by Shadow from Void Guard Writhe's revealed cards to Void Guard Writhe's trash.
+Portable Dark-Lab moved Sciamachy from Void Guard Writhe's revealed cards to the bottom of Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Umbral Siphon.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Medical Ward caused Wager Master to regain 1 HP. HP is now 44.
+Medical Ward caused Omnitron-X to regain 1 HP. HP is now 22.
+Medical Ward caused Expatriette to regain 1 HP. HP is now 25.
+Medical Ward caused Writhe to regain 1 HP. HP is now 16.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Entry Point.
+Entry Point moved Medical Ward under Entry Point.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to Wager Master's Start phase.
+Wager Master was flipped to its back side.
+Losing to the Odds was flipped to its back side.
+Wager Master shuffles the face-down villain cards in Wager Master's play area.
+Losing to the Odds was flipped to its front side.
+GameController puts Losing to the Odds into play.
+Went from Wager Master's Start phase to PlayCard phase.
+GameController plays Playing Dice With the Cosmos.
+Went from Wager Master's PlayCard phase to End phase.
+Wager Master initiates 2 Energy damage to Omnitron-X.
+Entry Point increases the damage dealt by Wager Master by 1.
+Wager Master deals Omnitron-X 3 Energy damage.
+Omnitron-X is now at 19 HP.
+Wager Master initiates 2 Energy damage to Expatriette.
+Entry Point increases the damage dealt by Wager Master by 1.
+Wager Master deals Expatriette 3 Energy damage.
+Expatriette is now at 22 HP.
+Wager Master initiates 2 Energy damage to Writhe.
+Entry Point increases the damage dealt by Wager Master by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Wager Master by 1.
+Void Guard Writhe discards Unnerving Target.
+The Shadow Cloak moved Unnerving Target from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Wager Master was prevented by The Shadow Cloak.
+What Do You Really Know? moved Technological Advancement from the top of Omnitron-X's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Quick Draw from the villain deck to Expatriette's trash.
+Wager Master initiates 4 Psychic damage to Expatriette.
+Entry Point increases the damage dealt by Wager Master by 1.
+Wager Master deals Expatriette 5 Psychic damage.
+Expatriette is now at 17 HP.
+What Do You Really Know? moved Assault Rifle from the top of Expatriette's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Distorted Perception from the villain deck to Void Guard Writhe's trash.
+Wager Master initiates 4 Psychic damage to Writhe.
+Entry Point increases the damage dealt by Wager Master by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Wager Master by 1.
+Wager Master deals Writhe 4 Psychic damage.
+Writhe is now at 12 HP.
+What Do You Really Know? moved Lies of the Shadows from the top of Void Guard Writhe's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+Went from Wager Master's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Umbral Siphon.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Wager Master.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Wager Master 2 Melee damage.
+Wager Master is now at 42 HP.
+Applying ongoing effect: Wager Master cannot gain HP.
+Writhe initiates 1 Infernal damage to Wager Master.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Wager Master 2 Infernal damage.
+Wager Master is now at 40 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Grasping Shadow-Cloth.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Expatriette's Start phase.
+Went from Expatriette's Start phase to PlayCard phase.
+GameController plays Hairtrigger Reflexes.
+Went from Expatriette's PlayCard phase to UsePower phase.
+Expatriette uses the power on Tactical Shotgun.
+Expatriette initiates 4 Projectile damage to Wager Master.
+Expatriette deals Wager Master 4 Projectile damage.
+Wager Master is now at 36 HP.
+Went from Expatriette's UsePower phase to DrawCard phase.
+Expatriette draws Arsenal Access.
+Went from Expatriette's DrawCard phase to End phase.
+Went from Expatriette's End phase to Omnitron-X's Start phase.
+Omnitron-X initiates 2 Fire damage to Wager Master.
+Omnitron-X deals Wager Master 2 Fire damage.
+Wager Master is now at 34 HP.
+Omnitron-X draws Temporal Shielding.
+Went from Omnitron-X's Start phase to PlayCard phase.
+GameController plays Elemental Exochassis.
+Elemental Exochassis moved Ablative Coating to Omnitron-X's hand.
+Went from Omnitron-X's PlayCard phase to UsePower phase.
+Omnitron-X uses the power on Defensive Blast.
+Omnitron-X discards Temporal Shielding.
+Defensive Blast moved Temporal Shielding from Omnitron-X's hand to Omnitron-X's trash.
+Omnitron-X initiates 1 Cold damage to Wager Master.
+Omnitron-X deals Wager Master 1 Cold damage.
+Wager Master is now at 33 HP.
+Omnitron-X initiates 1 Fire damage to Wager Master.
+Omnitron-X deals Wager Master 1 Fire damage.
+Wager Master is now at 32 HP.
+Omnitron-X initiates 1 Lightning damage to Wager Master.
+Omnitron-X deals Wager Master 1 Lightning damage.
+Wager Master is now at 31 HP.
+Omnitron-X initiates 1 Energy damage to Wager Master.
+Omnitron-X deals Wager Master 1 Energy damage.
+Wager Master is now at 30 HP.
+Went from Omnitron-X's UsePower phase to DrawCard phase.
+Omnitron-X draws Reactive Plating Subroutine.
+Went from Omnitron-X's DrawCard phase to End phase.
+Went from Omnitron-X's End phase to Freedom Tower's Start phase.
+Expatriette discards Arsenal Access.
+Security Station moved Arsenal Access from Expatriette's hand to Expatriette's trash.
+Expatriette discards Submachine Gun.
+Security Station moved Submachine Gun from Expatriette's hand to Expatriette's trash.
+Entry Point moved Medical Ward from under Entry Point to Freedom Tower's play area.
+Security Station destroys Entry Point!
+GameController moved Entry Point to the environment trash.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Dr.Stinson's Secondary Lab.
+Went from Freedom Tower's PlayCard phase to End phase.
+Revealed card: Reset
+Revealed card: Incendiary Rounds
+Revealed card: Swallowed by Shadow
+Dr.Stinson's Secondary Lab moved Reset from Omnitron-X's revealed cards to Omnitron-X's deck.
+Dr.Stinson's Secondary Lab moved Incendiary Rounds from Expatriette's revealed cards to Expatriette's deck.
+Void Guard Writhe discards Swallowed by Shadow.
+Dr.Stinson's Secondary Lab moved Swallowed by Shadow from Void Guard Writhe's revealed cards to Void Guard Writhe's trash.
+Went from Freedom Tower's End phase to Wager Master's Start phase.
+Wager Master shuffles the face-down villain cards in Wager Master's play area.
+An Unwise Wager was flipped to its front side.
+GameController puts An Unwise Wager into play.
+What Do You Really Know? moved Hollow Points from the villain deck to Expatriette's trash.
+Wager Master initiates 4 Psychic damage to Expatriette.
+Wager Master deals Expatriette 4 Psychic damage.
+Expatriette is now at 13 HP.
+Went from Wager Master's Start phase to PlayCard phase.
+GameController plays Unanswerable Question.
+What Do You Really Know? moved Technological Advancement from the villain deck to Omnitron-X's trash.
+Wager Master initiates 4 Psychic damage to Omnitron-X.
+Wager Master deals Omnitron-X 4 Psychic damage.
+Omnitron-X is now at 15 HP.
+Unanswerable Question will destroy 1 ongoing or equipment cards owned by Omnitron-X.
+Unanswerable Question destroys Rocket Punch!
+GameController moved Rocket Punch to Omnitron-X's trash.
+Unanswerable Question will destroy 1 ongoing or equipment cards owned by Expatriette.
+Unanswerable Question destroys Hairtrigger Reflexes!
+GameController moved Hairtrigger Reflexes to Expatriette's trash.
+Unanswerable Question will destroy 1 ongoing or equipment cards owned by Void Guard Writhe.
+Unanswerable Question destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+GameController moved Unanswerable Question to the villain trash.
+Went from Wager Master's PlayCard phase to End phase.
+Wager Master initiates 2 Energy damage to Omnitron-X.
+Elemental Exochassis reduces the damage dealt to Omnitron-X by Wager Master by 2.
+Damage amount was 0, so no damage was dealt.
+Wager Master initiates 2 Energy damage to Expatriette.
+Wager Master deals Expatriette 2 Energy damage.
+Expatriette is now at 11 HP.
+Wager Master initiates 2 Energy damage to Writhe.
+Wager Master deals Writhe 2 Energy damage.
+Writhe is now at 10 HP.
+What Do You Really Know? moved Reset from the top of Omnitron-X's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Assault Rifle from the villain deck to Expatriette's trash.
+Wager Master initiates 4 Psychic damage to Expatriette.
+Wager Master deals Expatriette 4 Psychic damage.
+Expatriette is now at 7 HP.
+What Do You Really Know? moved Incendiary Rounds from the top of Expatriette's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+What Do You Really Know? moved Technological Advancement from the villain deck to Omnitron-X's trash.
+What Do You Really Know? moved Incendiary Rounds from the villain deck to Expatriette's trash.
+Wager Master initiates 4 Psychic damage to Expatriette.
+Wager Master deals Expatriette 4 Psychic damage.
+Expatriette is now at 3 HP.
+Wager Master initiates 4 Psychic damage to Omnitron-X.
+Wager Master deals Omnitron-X 4 Psychic damage.
+Omnitron-X is now at 11 HP.
+Focused Plasma Cannon destroys itself!
+GameController moved Focused Plasma Cannon to Omnitron-X's trash.
+Electro-Deployment Unit destroys itself!
+GameController moved Electro-Deployment Unit to Omnitron-X's trash.
+What Do You Really Know? moved Lurking Shadows from the top of Void Guard Writhe's deck to the bottom of the villain deck.
+Wager Master shuffles their the villain deck.
+Expatriette is no longer a target.
+All of Expatriette's cards are removed from the game.
+GameController moves 40 cards to the top of Expatriette's OutOfGame.
+Expatriette was flipped to its back side.
+Wagelings was flipped to its front side.
+Went from Wager Master's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Wager Master cannot gain HP.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Unnerving Target.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Concealed Assailant.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Expatriette's Start phase.
+Went from Expatriette's Start phase to UseIncapacitatedAbility phase.
+Expatriette uses the incapacitated ability "One Hero may use a Power."
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Defensive Blast
+Omnitron-X moved Defensive Blast from Omnitron-X's revealed cards to Omnitron-X's trash.
+Went from Expatriette's UseIncapacitatedAbility phase to End phase.
+Went from Expatriette's End phase to Omnitron-X's Start phase.
+Went from Omnitron-X's Start phase to PlayCard phase.
+Went from Omnitron-X's PlayCard phase to UsePower phase.
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Singularity
+Omnitron-X moved Singularity from Omnitron-X's revealed cards to Omnitron-X's trash.
+Went from Omnitron-X's UsePower phase to DrawCard phase.
+Omnitron-X draws Disruptive Flechettes.
+Went from Omnitron-X's DrawCard phase to End phase.
+Went from Omnitron-X's End phase to Freedom Tower's Start phase.
+Medical Ward caused Wager Master to regain 1 HP. HP is now 31.
+Medical Ward tried to increase Wagelings's HP, but they are already at their maximum HP.
+Medical Ward caused Omnitron-X to regain 1 HP. HP is now 12.
+Medical Ward caused Writhe to regain 1 HP. HP is now 11.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Entry Point.
+Entry Point moved Dr.Stinson's Secondary Lab under Entry Point.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to Wager Master's Start phase.
+Wager Master shuffles the face-down villain cards in Wager Master's play area.
+Wagelings was flipped to its front side.
+GameController puts Wagelings into play.
+Wager Master was flipped to its front side.
+There are more villain targets than hero targets. Wagelings causes the heroes to lose the game!
+You just unlocked the promo card: Writhe: Cosmic Inventor!

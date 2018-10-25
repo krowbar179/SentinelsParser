@@ -10,9 +10,12 @@ chdir('pastebin')
 allFiles = [file for file in listdir('.') if file.endswith('.txt')]
 
 parser = SentinelsParser(allFiles)
-for line in parser.intersectDict().items():
-	print line
-'''
-for file in listdir('.'):
-	print file
-'''
+output = ""
+for line in sorted(parser.intersectDict().items()):
+	output += str(line) + '\n'
+
+chdir("..")
+writeFile = open('output.txt', 'w')
+writeFile.write(output)
+writeFile.close()
+print output

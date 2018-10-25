@@ -1,0 +1,1187 @@
+GameView Start
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1422
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Baron Blade puts Mobile Defense Platform into play.
+Baron Blade shuffles their the villain deck.
+Went to Baron Blade's Start phase.
+Went from Baron Blade's Start phase to PlayCard phase. 
+GameController plays Mobile Defense Platform.
+Went from Baron Blade's PlayCard phase to End phase. 
+Went from Baron Blade's End phase to Captain Cosmic's Start phase. 
+Went from Captain Cosmic's Start phase to PlayCard phase. 
+GameController plays Energy Bracer.
+GameController moved Energy Bracer from Captain Cosmic's hand next to Captain Cosmic Requital.
+Went from Captain Cosmic's PlayCard phase to UsePower phase. 
+Captain Cosmic uses the power on Captain Cosmic Requital.
+Revealed card: Harsh Offense
+Revealed card: Autonomous Blade
+Revealed card: Cosmic Weapon
+Captain Cosmic Requital's Requital puts Autonomous Blade into play.
+GameController moved Autonomous Blade from Captain Cosmic's revealed cards next to Dark Watch Expatriette.
+Captain Cosmic Requital's Requital puts Cosmic Weapon into play.
+GameController moved Cosmic Weapon from Captain Cosmic's revealed cards next to Writhe.
+Captain Cosmic Requital's Requital puts Harsh Offense into play.
+Revealed card: Wounding Buffer
+Revealed card: Destructive Response
+Revealed card: Conservation of Energy
+Captain Cosmic Requital initiates 2 Energy damage to Mobile Defense Platform.
+Captain Cosmic Requital deals Mobile Defense Platform 2 Energy damage.
+Mobile Defense Platform is now at 8 HP.
+Harsh Offense moved Wounding Buffer from Captain Cosmic's revealed cards to Captain Cosmic's trash.
+Harsh Offense moved Destructive Response from Captain Cosmic's revealed cards to Captain Cosmic's trash.
+Harsh Offense moved Conservation of Energy from Captain Cosmic's revealed cards to Captain Cosmic's trash.
+GameController moved Harsh Offense to Captain Cosmic's trash.
+Went from Captain Cosmic's UsePower phase to DrawCard phase. 
+Captain Cosmic draws Cosmic Crest.
+Went from Captain Cosmic's DrawCard phase to End phase. 
+Went from Captain Cosmic's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Cloak Projector.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Concealed Assailant.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Sky-Scraper's Start phase. 
+Went from Sky-Scraper's Start phase to PlayCard phase. 
+GameController plays Cortex Hyperstimulator.
+GameController moved Cortex Hyperstimulator from Sky-Scraper's hand next to Baron Blade.
+Went from Sky-Scraper's PlayCard phase to UsePower phase. 
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper draws Rest and Recover.
+Sky-Scraper draws Aggression Modulator.
+Went from Sky-Scraper's UsePower phase to DrawCard phase. 
+Sky-Scraper draws Linking Incursion.
+Went from Sky-Scraper's DrawCard phase to End phase. 
+Went from Sky-Scraper's End phase to Omnitron-X's Start phase. 
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Elemental Exochassis.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Penultimate Penumbra
+Omnitron-X's Timeshift puts Penultimate Penumbra into play.
+Penultimate Penumbra will destroy 4 equipment cards.
+Penultimate Penumbra destroys Cortex Hyperstimulator!
+GameController moved Cortex Hyperstimulator to Sky-Scraper's trash.
+Writhe initiates 3 Infernal damage to Mobile Defense Platform.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Mobile Defense Platform 4 Infernal damage.
+Mobile Defense Platform is now at 4 HP.
+Writhe initiates 3 Infernal damage to Mobile Defense Platform.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Mobile Defense Platform 4 Infernal damage.
+Mobile Defense Platform is now at 6 HP.
+GameController moved Penultimate Penumbra to Void Guard Writhe's trash.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Singularity.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Went from Omnitron-X's End phase to Expatriette's Start phase. 
+Went from Expatriette's Start phase to PlayCard phase. 
+GameController plays Tactical Shotgun.
+Went from Expatriette's PlayCard phase to UsePower phase. 
+Expatriette uses the power on Tactical Shotgun.
+Dark Watch Expatriette initiates 4 Projectile damage to Mobile Defense Platform.
+Dark Watch Expatriette deals Mobile Defense Platform 4 Projectile damage.
+Mobile Defense Platform is now at 0 HP.
+Dark Watch Expatriette's Aim destroys Mobile Defense Platform!
+GameController moved Mobile Defense Platform to the villain trash.
+Autonomous Blade initiates 2 Energy damage to Mobile Defense Platform.
+Autonomous Blade deals Mobile Defense Platform 2 Energy damage.
+Mobile Defense Platform is now at 4 HP.
+Went from Expatriette's UsePower phase to DrawCard phase. 
+Expatriette draws Incendiary Rounds.
+Went from Expatriette's DrawCard phase to End phase. 
+Went from Expatriette's End phase to Realm of Discord's Start phase. 
+Went from Realm of Discord's Start phase to PlayCard phase. 
+GameController plays Claustrophobic Delusion.
+Went from Realm of Discord's PlayCard phase to End phase. 
+Went from Realm of Discord's End phase to Baron Blade's Start phase. 
+Went from Baron Blade's Start phase to PlayCard phase. 
+GameController plays Powered Remote Turret.
+Went from Baron Blade's PlayCard phase to End phase. 
+Powered Remote Turret initiates 2 Projectile damage to Autonomous Blade.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+Powered Remote Turret deals Autonomous Blade 3 Projectile damage.
+Autonomous Blade is now at 1 HP.
+Powered Remote Turret initiates 2 Projectile damage to Cosmic Weapon.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+Powered Remote Turret deals Cosmic Weapon 3 Projectile damage.
+Cosmic Weapon is now at 1 HP.
+Powered Remote Turret initiates 2 Projectile damage to Energy Bracer.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+Powered Remote Turret deals Energy Bracer 3 Projectile damage.
+Energy Bracer is now at 1 HP.
+Powered Remote Turret initiates 2 Projectile damage to Captain Cosmic Requital.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Powered Remote Turret by 1.
+Powered Remote Turret deals Captain Cosmic Requital 2 Projectile damage.
+Captain Cosmic Requital is now at 27 HP.
+Powered Remote Turret initiates 2 Projectile damage to Writhe.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Powered Remote Turret by 1.
+Void Guard Writhe discards Grasping Shadow-Cloth.
+The Shadow Cloak moved Grasping Shadow-Cloth from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Powered Remote Turret was prevented by The Shadow Cloak.
+Powered Remote Turret initiates 2 Projectile damage to Sky-Scraper.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+Powered Remote Turret deals Sky-Scraper 3 Projectile damage.
+Sky-Scraper is now at 30 HP.
+Powered Remote Turret initiates 2 Projectile damage to Omnitron-X.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+Powered Remote Turret deals Omnitron-X 3 Projectile damage.
+Omnitron-X is now at 22 HP.
+Powered Remote Turret initiates 2 Projectile damage to Dark Watch Expatriette.
+Powered Remote Turret increases the damage dealt by Powered Remote Turret by 1.
+Powered Remote Turret deals Dark Watch Expatriette 3 Projectile damage.
+Dark Watch Expatriette is now at 27 HP.
+Went from Baron Blade's End phase to Captain Cosmic's Start phase. 
+Went from Captain Cosmic's Start phase to PlayCard phase. 
+GameController plays Sustained Influence.
+Went from Captain Cosmic's PlayCard phase to UsePower phase. 
+Captain Cosmic uses the power on Captain Cosmic Requital.
+Revealed card: Energy Bracer
+Revealed card: Vitality Conduit
+Revealed card: Vitality Conduit
+Captain Cosmic Requital's Requital puts Energy Bracer into play.
+GameController moved Energy Bracer from Captain Cosmic's revealed cards next to Captain Cosmic Requital.
+Captain Cosmic Requital's Requital puts Vitality Conduit into play.
+GameController moved Vitality Conduit from Captain Cosmic's revealed cards next to Sky-Scraper.
+Captain Cosmic Requital's Requital puts Vitality Conduit into play.
+GameController moved Vitality Conduit from Captain Cosmic's revealed cards next to Omnitron-X.
+Autonomous Blade initiates 2 Psychic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Autonomous Blade by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Autonomous Blade by 1.
+Damage amount was 0, so no damage was dealt.
+Cosmic Weapon initiates 2 Psychic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Cosmic Weapon by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Cosmic Weapon by 1.
+Damage amount was 0, so no damage was dealt.
+Energy Bracer initiates 2 Psychic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Energy Bracer by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Energy Bracer by 1.
+Damage amount was 0, so no damage was dealt.
+Energy Bracer initiates 2 Psychic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Energy Bracer by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Energy Bracer by 1.
+Damage amount was 0, so no damage was dealt.
+Vitality Conduit initiates 2 Psychic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Vitality Conduit by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Vitality Conduit by 1.
+Damage amount was 0, so no damage was dealt.
+Vitality Conduit initiates 2 Psychic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Vitality Conduit by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Vitality Conduit by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Captain Cosmic's UsePower phase to DrawCard phase. 
+Captain Cosmic draws Augmented Ally.
+Went from Captain Cosmic's DrawCard phase to End phase. 
+Went from Captain Cosmic's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Swallowed by Shadow.
+Swallowed by Shadow destroys Mobile Defense Platform!
+GameController moved Mobile Defense Platform to the villain trash.
+GameController moved Swallowed by Shadow to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe (contributed by Cosmic Weapon).
+Writhe initiates 3 Energy damage to Powered Remote Turret.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Powered Remote Turret 4 Energy damage.
+Powered Remote Turret is now at 3 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Darkly Dreaming.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Sky-Scraper's Start phase. 
+Went from Sky-Scraper's Start phase to PlayCard phase. 
+GameController plays Catch a Ride.
+Switched Sky-Scraper (Normal) with Sky-Scraper (Tiny).
+***** LOADED UNDO FILE: undo-46-SkyScraper-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1422
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Linking Incursion.
+Switched Sky-Scraper (Normal) with Sky-Scraper (Tiny).
+Revealed card: Tectonic Chokeslam
+Revealed card: Tectonic Chokeslam
+Revealed matching card: Compulsion Canister
+Revealed card: Thorathian Monolith
+Revealed matching card: Neutralizing Resonator
+Linking Incursion puts Compulsion Canister into play.
+GameController moved Compulsion Canister from Sky-Scraper's revealed cards next to Powered Remote Turret.
+Powered Remote Turret initiates 2 Psychic damage to Powered Remote Turret.
+Powered Remote Turret deals Powered Remote Turret 2 Psychic damage.
+Powered Remote Turret is now at 1 HP.
+Powered Remote Turret initiates 2 Psychic damage to Baron Blade.
+Claustrophobic Delusion made Baron Blade immune to damage.
+Damage amount was 0, so no damage was dealt.
+Linking Incursion puts Neutralizing Resonator into play.
+GameController moved Neutralizing Resonator from Sky-Scraper's revealed cards next to Baron Blade.
+Neutralizing Resonator moved Elemental Redistributor from the villain deck to the villain trash.
+Moving cards in Revealed location back from whence they came.
+GameController moves 3 cards to the top of Sky-Scraper's Deck.
+Sky-Scraper shuffles their Sky-Scraper's deck.
+GameController moved Linking Incursion to Sky-Scraper's trash.
+Went from Sky-Scraper's PlayCard phase to UsePower phase. 
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper's Sneaking plays Aggression Modulator.
+GameController moved Aggression Modulator from Sky-Scraper's hand to Sky-Scraper's trash.
+***** LOADED UNDO FILE: undo-47-SkyScraper-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1422
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper moved Compulsion Canister to Sky-Scraper's hand.
+Went from Sky-Scraper's UsePower phase to DrawCard phase. 
+Sky-Scraper draws Rebounding Debilitator.
+Went from Sky-Scraper's DrawCard phase to End phase. 
+Went from Sky-Scraper's End phase to Omnitron-X's Start phase. 
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Gaussian Coil Blaster.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Swallowed by Shadow
+Omnitron-X's Timeshift puts Swallowed by Shadow into play.
+Swallowed by Shadow destroys Powered Remote Turret!
+GameController moved Powered Remote Turret to the villain trash.
+GameController moved Swallowed by Shadow to Void Guard Writhe's trash.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Rocket Punch.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Went from Omnitron-X's End phase to Expatriette's Start phase. 
+Went from Expatriette's Start phase to PlayCard phase. 
+GameController plays Hollow Points.
+GameController moved Hollow Points from Expatriette's hand next to Tactical Shotgun.
+Went from Expatriette's PlayCard phase to UsePower phase. 
+Expatriette uses the power on Tactical Shotgun.
+Dark Watch Expatriette initiates 4 Projectile damage to Baron Blade.
+Hollow Points increases the damage dealt by Dark Watch Expatriette by 2.
+Dark Watch Expatriette deals Baron Blade 6 Projectile damage.
+Baron Blade is now at 34 HP.
+Autonomous Blade initiates 2 Energy damage to Baron Blade.
+Autonomous Blade deals Baron Blade 2 Energy damage.
+Baron Blade is now at 32 HP.
+Hollow Points destroys itself!
+GameController moved Hollow Points to Expatriette's trash.
+Went from Expatriette's UsePower phase to DrawCard phase. 
+Expatriette draws Flak Jacket.
+Went from Expatriette's DrawCard phase to End phase. 
+Went from Expatriette's End phase to Realm of Discord's Start phase. 
+Went from Realm of Discord's Start phase to PlayCard phase. 
+GameController plays Negative Energy Field.
+Negative Energy Field destroys Claustrophobic Delusion!
+GameController moved Claustrophobic Delusion to the environment trash.
+Went from Realm of Discord's PlayCard phase to End phase. 
+Went from Realm of Discord's End phase to Baron Blade's Start phase. 
+Went from Baron Blade's Start phase to PlayCard phase. 
+GameController plays Backlash Field.
+Negative Energy Field initiates 1 Infernal damage to Baron Blade.
+Negative Energy Field deals Baron Blade 1 Infernal damage.
+Baron Blade is now at 31 HP.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 29 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 21 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 26 HP.
+Went from Baron Blade's PlayCard phase to End phase. 
+Went from Baron Blade's End phase to Captain Cosmic's Start phase. 
+Went from Captain Cosmic's Start phase to PlayCard phase. 
+GameController plays Cosmic Crest.
+Negative Energy Field initiates 1 Infernal damage to Baron Blade.
+Negative Energy Field deals Baron Blade 1 Infernal damage.
+Baron Blade is now at 30 HP.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 28 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 20 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 25 HP.
+Went from Captain Cosmic's PlayCard phase to UsePower phase. 
+Captain Cosmic uses the power on Cosmic Crest.
+Cosmic Crest caused Energy Bracer to regain 2 HP. HP is now 3.
+Cosmic Crest caused Autonomous Blade to regain 2 HP. HP is now 3.
+Cosmic Crest caused Cosmic Weapon to regain 2 HP. HP is now 3.
+Went from Captain Cosmic's UsePower phase to DrawCard phase. 
+Captain Cosmic draws Sustained Influence.
+Went from Captain Cosmic's DrawCard phase to End phase. 
+Went from Captain Cosmic's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Darkly Dreaming.
+Negative Energy Field initiates 1 Infernal damage to Baron Blade.
+Negative Energy Field deals Baron Blade 1 Infernal damage.
+Baron Blade is now at 29 HP.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 27 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 19 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 24 HP.
+Writhe initiates 2 Infernal damage to Baron Blade.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Baron Blade 3 Infernal damage.
+Baron Blade is now at 26 HP.
+Backlash Field reacts!
+Baron Blade initiates 3 Lightning damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Baron Blade by 1.
+Void Guard Writhe discards Lurking Shadows.
+The Shadow Cloak moved Lurking Shadows from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Backlash Field was prevented by The Shadow Cloak.
+Darkly Dreaming destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Baron Blade initiates 2 Psychic damage to Baron Blade.
+Baron Blade deals Baron Blade 2 Psychic damage.
+Baron Blade is now at 24 HP.
+Backlash Field reacts!
+Baron Blade initiates 3 Lightning damage to Baron Blade.
+Baron Blade deals Baron Blade 3 Lightning damage.
+Baron Blade is now at 21 HP.
+GameController moved Darkly Dreaming to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Unnerving Target.
+***** LOADED UNDO FILE: undo-73-VoidGuardWrithe-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1425
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Unnerving Target.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Sky-Scraper's Start phase. 
+Neutralizing Resonator destroys Backlash Field!
+GameController moved Backlash Field to the villain trash.
+Neutralizing Resonator destroys itself!
+GameController moved Neutralizing Resonator to Sky-Scraper's trash.
+Went from Sky-Scraper's Start phase to PlayCard phase. 
+GameController plays Catch a Ride.
+Negative Energy Field initiates 1 Infernal damage to Baron Blade.
+Negative Energy Field deals Baron Blade 1 Infernal damage.
+Baron Blade is now at 20 HP.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 26 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 23 HP.
+Writhe initiates 2 Projectile damage to Baron Blade.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Baron Blade 3 Projectile damage.
+Baron Blade is now at 17 HP.
+Sky-Scraper initiates 2 Melee damage to Baron Blade.
+Sky-Scraper deals Baron Blade 2 Melee damage.
+Baron Blade is now at 15 HP.
+GameController moved Catch a Ride to Sky-Scraper's trash.
+Went from Sky-Scraper's PlayCard phase to UsePower phase. 
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper's Sneaking plays Rebounding Debilitator.
+GameController moved Rebounding Debilitator from Sky-Scraper's hand next to Baron Blade.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 25 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 18 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 22 HP.
+Sky-Scraper's Sneaking plays Compulsion Canister.
+GameController moved Compulsion Canister from Sky-Scraper's hand next to Baron Blade.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 24 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 17 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 21 HP.
+Baron Blade initiates 2 Psychic damage to Baron Blade.
+Baron Blade deals Baron Blade 2 Psychic damage.
+Baron Blade is now at 13 HP.
+Sky-Scraper moved Compulsion Canister to Sky-Scraper's hand.
+Went from Sky-Scraper's UsePower phase to DrawCard phase. 
+Sky-Scraper draws Linking Incursion.
+Went from Sky-Scraper's DrawCard phase to End phase. 
+Went from Sky-Scraper's End phase to Omnitron-X's Start phase. 
+Omnitron-X initiates 1 Lightning damage to Baron Blade.
+Omnitron-X deals Baron Blade 1 Lightning damage.
+Baron Blade is now at 12 HP.
+Omnitron-X initiates 1 Lightning damage to Vitality Conduit.
+Omnitron-X deals Vitality Conduit 1 Lightning damage.
+Vitality Conduit is now at 3 HP.
+Vitality Conduit caused Sky-Scraper to regain 2 HP. HP is now 26.
+Omnitron-X initiates 1 Lightning damage to Vitality Conduit.
+Omnitron-X deals Vitality Conduit 1 Lightning damage.
+Vitality Conduit is now at 3 HP.
+Vitality Conduit caused Omnitron-X to regain 2 HP. HP is now 19.
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Technological Advancement.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 25 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 18 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 20 HP.
+Technological Advancement puts Innervation Ray into play.
+Omnitron-X shuffles their Omnitron-X's deck.
+Omnitron-X draws Reactive Plating Subroutine.
+GameController moved Technological Advancement to Omnitron-X's trash.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Grasping Shadow-Cloth
+Omnitron-X's Timeshift puts Grasping Shadow-Cloth into play.
+Grasping Shadow-Cloth moved Elemental Redistributor from the villain trash to the bottom of the villain deck.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Bio-Engineering Beam.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Went from Omnitron-X's End phase to Expatriette's Start phase. 
+Went from Expatriette's Start phase to PlayCard phase. 
+GameController plays Incendiary Rounds.
+GameController moved Incendiary Rounds from Expatriette's hand next to Tactical Shotgun.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 24 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 17 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 19 HP.
+Went from Expatriette's PlayCard phase to UsePower phase. 
+Expatriette uses the power on Tactical Shotgun.
+Dark Watch Expatriette initiates 4 Projectile damage to Baron Blade.
+Incendiary Rounds changes the damage type to Fire.
+Incendiary Rounds increases the damage dealt by Dark Watch Expatriette by 1.
+Dark Watch Expatriette deals Baron Blade 5 Fire damage.
+Baron Blade is now at 7 HP.
+Autonomous Blade initiates 2 Energy damage to Baron Blade.
+Autonomous Blade deals Baron Blade 2 Energy damage.
+Baron Blade is now at 5 HP.
+Incendiary Rounds destroys itself!
+GameController moved Incendiary Rounds to Expatriette's trash.
+Went from Expatriette's UsePower phase to DrawCard phase. 
+Expatriette draws Quick Draw.
+Went from Expatriette's DrawCard phase to End phase. 
+Went from Expatriette's End phase to Realm of Discord's Start phase. 
+Went from Realm of Discord's Start phase to PlayCard phase. 
+GameController plays Ethereal Bonds.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 23 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 16 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 18 HP.
+Went from Realm of Discord's PlayCard phase to End phase. 
+Ethereal Bonds initiates 2 Energy damage to Captain Cosmic Requital.
+Cosmic Crest made Captain Cosmic Requital immune to damage.
+Damage amount was 0, so no damage was dealt.
+Went from Realm of Discord's End phase to Baron Blade's Start phase. 
+Went from Baron Blade's Start phase to PlayCard phase. 
+GameController plays Hasten Doom.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 22 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 15 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 17 HP.
+Baron Blade initiates 2 Toxic damage to Autonomous Blade.
+Baron Blade deals Autonomous Blade 2 Toxic damage.
+Autonomous Blade is now at 1 HP.
+Baron Blade initiates 2 Toxic damage to Cosmic Crest.
+Baron Blade deals Cosmic Crest 2 Toxic damage.
+Cosmic Crest is now at 2 HP.
+Baron Blade initiates 2 Toxic damage to Cosmic Weapon.
+Baron Blade deals Cosmic Weapon 2 Toxic damage.
+Cosmic Weapon is now at 1 HP.
+Baron Blade initiates 2 Toxic damage to Energy Bracer.
+Baron Blade deals Energy Bracer 2 Toxic damage.
+Energy Bracer is now at 2 HP.
+Baron Blade initiates 2 Toxic damage to Energy Bracer.
+Baron Blade deals Energy Bracer 2 Toxic damage.
+Energy Bracer is now at 1 HP.
+Baron Blade initiates 2 Toxic damage to Vitality Conduit.
+Baron Blade deals Vitality Conduit 2 Toxic damage.
+Vitality Conduit is now at 1 HP.
+Vitality Conduit caused Sky-Scraper to regain 2 HP. HP is now 24.
+Baron Blade initiates 2 Toxic damage to Vitality Conduit.
+Baron Blade deals Vitality Conduit 2 Toxic damage.
+Vitality Conduit is now at 1 HP.
+Vitality Conduit caused Omnitron-X to regain 2 HP. HP is now 17.
+Baron Blade initiates 2 Toxic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Baron Blade by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Baron Blade by 1.
+Damage amount was 0, so no damage was dealt.
+Baron Blade initiates 2 Toxic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Baron Blade by 1.
+Void Guard Writhe discards Concealed Assailant.
+The Shadow Cloak moved Concealed Assailant from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Hasten Doom was prevented by The Shadow Cloak.
+Baron Blade initiates 2 Toxic damage to Sky-Scraper.
+Baron Blade deals Sky-Scraper 2 Toxic damage.
+Sky-Scraper is now at 22 HP.
+Baron Blade initiates 2 Toxic damage to Omnitron-X.
+Baron Blade deals Omnitron-X 2 Toxic damage.
+Omnitron-X is now at 15 HP.
+Baron Blade initiates 2 Toxic damage to Dark Watch Expatriette.
+Baron Blade deals Dark Watch Expatriette 2 Toxic damage.
+Dark Watch Expatriette is now at 15 HP.
+Hasten Doom plays Slash and Burn.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 21 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 14 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 14 HP.
+Baron Blade initiates 5 Melee damage to Cosmic Weapon.
+Action of Slash and Burn was prevented by Rebounding Debilitator.
+Rebounding Debilitator was moved to Sky-Scraper's deck.
+Baron Blade initiates 7 Fire damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Baron Blade by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Baron Blade by 1.
+Baron Blade deals Captain Cosmic Requital 5 Fire damage.
+Captain Cosmic Requital is now at 22 HP.
+GameController moved Slash and Burn to the villain trash.
+GameController moved Hasten Doom to the villain trash.
+Went from Baron Blade's PlayCard phase to End phase. 
+Went from Baron Blade's End phase to Captain Cosmic's Start phase. 
+Went from Captain Cosmic's Start phase to PlayCard phase. 
+GameController plays Dynamic Siphon.
+GameController moved Dynamic Siphon from Captain Cosmic's hand next to Writhe.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 20 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 13 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 13 HP.
+Went from Captain Cosmic's PlayCard phase to UsePower phase. 
+Captain Cosmic uses the power on Cosmic Crest.
+Cosmic Crest caused Cosmic Crest to regain 2 HP, up to their maximum HP. HP is now 4.
+Cosmic Crest caused Energy Bracer to regain 2 HP. HP is now 3.
+Cosmic Crest caused Energy Bracer to regain 2 HP, up to their maximum HP. HP is now 4.
+Went from Captain Cosmic's UsePower phase to DrawCard phase. 
+Captain Cosmic draws Harsh Offense.
+Went from Captain Cosmic's DrawCard phase to End phase. 
+Went from Captain Cosmic's End phase to Void Guard Writhe's Start phase. 
+Grasping Shadow-Cloth was moved to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Penultimate Penumbra from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Grasping Shadow-Cloth from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Swallowed by Shadow from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Swallowed by Shadow from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Lurking Shadows from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Darkly Dreaming from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Concealed Assailant from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. (Count: 2)
+Void Guard Writhe draws Sciamachy.
+Void Guard Writhe draws Sciamachy.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Sky-Scraper's Start phase. 
+Went from Sky-Scraper's Start phase to PlayCard phase. 
+GameController plays Linking Incursion.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 19 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 12 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 12 HP.
+Revealed matching card: Rebounding Debilitator
+Revealed card: Colossal Left Hook
+Revealed card: Proportionist
+Revealed card: Catch a Ride
+Revealed card: Tectonic Chokeslam
+Revealed card: Emergency Evac
+Revealed card: Thorathian Monolith
+Revealed card: Tectonic Chokeslam
+Revealed matching card: Micro-Assembler
+Linking Incursion puts Rebounding Debilitator into play.
+GameController moved Rebounding Debilitator from Sky-Scraper's revealed cards next to Baron Blade.
+Linking Incursion puts Micro-Assembler into play.
+GameController moved Micro-Assembler from Sky-Scraper's revealed cards next to Writhe.
+Moving cards in Revealed location back from whence they came.
+GameController moves 7 cards to the top of Sky-Scraper's Deck.
+Sky-Scraper shuffles their Sky-Scraper's deck.
+GameController moved Linking Incursion to Sky-Scraper's trash.
+Went from Sky-Scraper's PlayCard phase to UsePower phase. 
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper's Sneaking plays Compulsion Canister.
+GameController moved Compulsion Canister from Sky-Scraper's hand next to Baron Blade.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 18 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 11 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 11 HP.
+Baron Blade initiates 2 Psychic damage to Baron Blade.
+Baron Blade deals Baron Blade 2 Psychic damage.
+Baron Blade is now at 3 HP.
+Baron Blade initiates 2 Psychic damage to Ethereal Bonds.
+Baron Blade deals Ethereal Bonds 2 Psychic damage.
+Ethereal Bonds is now at 7 HP.
+Sky-Scraper's Sneaking plays Aggression Modulator.
+GameController moved Aggression Modulator from Sky-Scraper's hand next to Ethereal Bonds.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 17 HP.
+Negative Energy Field initiates 1 Infernal damage to Omnitron-X.
+Negative Energy Field deals Omnitron-X 1 Infernal damage.
+Omnitron-X is now at 10 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 10 HP.
+Sky-Scraper moved Compulsion Canister to Sky-Scraper's hand.
+Went from Sky-Scraper's UsePower phase to DrawCard phase. 
+Sky-Scraper draws Colossal Left Hook.
+Went from Sky-Scraper's DrawCard phase to End phase. 
+Went from Sky-Scraper's End phase to Omnitron-X's Start phase. 
+Omnitron-X initiates 1 Lightning damage to Baron Blade.
+Omnitron-X deals Baron Blade 1 Lightning damage.
+Baron Blade is now at 2 HP.
+***** LOADED UNDO FILE: undo-112-OmnitronX-Start *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1432
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Went from Sky-Scraper's End phase to Omnitron-X's Start phase. 
+Omnitron-X initiates 1 Lightning damage to Dynamic Siphon.
+Omnitron-X deals Dynamic Siphon 1 Lightning damage.
+Dynamic Siphon is now at 3 HP.
+Void Guard Writhe uses the power on Writhe (contributed by Cosmic Weapon).
+Writhe initiates 3 Energy damage to Baron Blade.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Baron Blade 4 Energy damage.
+Baron Blade is now at -1 HP.
+Baron Blade was flipped to its back side.
+Baron Blade restored the HP of Baron Blade to 30 HP.
+Baron Blade moved Mobile Defense Platform from the villain trash to the villain deck.
+Baron Blade moved Mobile Defense Platform from the villain trash to the villain deck.
+Baron Blade moved Powered Remote Turret from the villain trash to the villain deck.
+Baron Blade moved Backlash Field from the villain trash to the villain deck.
+Baron Blade moved Slash and Burn from the villain trash to the villain deck.
+Baron Blade moved Hasten Doom from the villain trash to the villain deck.
+Baron Blade moved Mobile Defense Platform from the villain deck to the villain trash.
+Baron Blade moved Mobile Defense Platform from the villain deck to the villain trash.
+Baron Blade moved Mobile Defense Platform from the villain deck to the villain trash.
+Baron Blade shuffles their the villain deck.
+Omnitron-X initiates 1 Lightning damage to Baron Blade.
+Omnitron-X deals Baron Blade 1 Lightning damage.
+Baron Blade is now at 29 HP.
+Omnitron-X initiates 1 Lightning damage to Ethereal Bonds.
+Omnitron-X deals Ethereal Bonds 1 Lightning damage.
+Ethereal Bonds is now at 6 HP.
+Innervation Ray caused Omnitron-X to regain 1 HP. HP is now 11.
+Innervation Ray caused Dark Watch Expatriette to regain 1 HP. HP is now 11.
+Innervation Ray caused Sky-Scraper to regain 1 HP. HP is now 18.
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Bio-Engineering Beam.
+Negative Energy Field initiates 1 Infernal damage to Baron Blade.
+Negative Energy Field deals Baron Blade 1 Infernal damage.
+Baron Blade is now at 28 HP.
+Negative Energy Field initiates 1 Infernal damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Negative Energy Field by 1.
+Damage amount was 0, so no damage was dealt.
+Negative Energy Field initiates 1 Infernal damage to Sky-Scraper.
+Negative Energy Field deals Sky-Scraper 1 Infernal damage.
+Sky-Scraper is now at 17 HP.
+Negative Energy Field initiates 1 Infernal damage to Dark Watch Expatriette.
+Negative Energy Field deals Dark Watch Expatriette 1 Infernal damage.
+Dark Watch Expatriette is now at 10 HP.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Bio-Engineering Beam.
+Bio-Engineering Beam destroys Negative Energy Field!
+GameController moved Negative Energy Field to the environment trash.
+Omnitron-X initiates 2 Energy damage to Baron Blade.
+Omnitron-X deals Baron Blade 2 Energy damage.
+Baron Blade is now at 26 HP.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Technological Advancement.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Went from Omnitron-X's End phase to Expatriette's Start phase. 
+Went from Expatriette's Start phase to PlayCard phase. 
+GameController plays Reload.
+Reload puts Hollow Points into play.
+GameController moved Hollow Points from Expatriette's trash next to Tactical Shotgun.
+GameController moved Reload to Expatriette's trash.
+Went from Expatriette's PlayCard phase to UsePower phase. 
+Expatriette uses the power on Tactical Shotgun.
+Dark Watch Expatriette initiates 4 Projectile damage to Baron Blade.
+Hollow Points increases the damage dealt by Dark Watch Expatriette by 2.
+Dark Watch Expatriette deals Baron Blade 6 Projectile damage.
+Baron Blade is now at 20 HP.
+Autonomous Blade initiates 2 Energy damage to Baron Blade.
+Autonomous Blade deals Baron Blade 2 Energy damage.
+Baron Blade is now at 18 HP.
+Hollow Points destroys itself!
+GameController moved Hollow Points to Expatriette's trash.
+Went from Expatriette's UsePower phase to DrawCard phase. 
+Expatriette draws Shock Rounds.
+Went from Expatriette's DrawCard phase to End phase. 
+Went from Expatriette's End phase to Realm of Discord's Start phase. 
+Went from Realm of Discord's Start phase to PlayCard phase. 
+GameController plays Ghostly Images.
+Revealed card: Energy Bracer
+Ghostly Images moved Energy Bracer from Captain Cosmic's revealed cards to Captain Cosmic's trash.
+Ghostly Images initiates 2 Psychic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Ghostly Images by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Ghostly Images by 1.
+Damage amount was 0, so no damage was dealt.
+Revealed card: Erratic Form
+Ghostly Images moved Erratic Form from Void Guard Writhe's revealed cards to Void Guard Writhe's trash.
+Ghostly Images initiates 2 Psychic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Ghostly Images by 1.
+Void Guard Writhe discards Sciamachy.
+The Shadow Cloak moved Sciamachy from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Ghostly Images was prevented by The Shadow Cloak.
+Revealed card: Neutralizing Resonator
+Ghostly Images moved Neutralizing Resonator from Sky-Scraper's revealed cards to Sky-Scraper's trash.
+Ghostly Images initiates 2 Psychic damage to Sky-Scraper.
+Ghostly Images deals Sky-Scraper 2 Psychic damage.
+Sky-Scraper is now at 15 HP.
+Revealed card: Disruptive Flechettes
+Ghostly Images puts Disruptive Flechettes into play.
+Disruptive Flechettes will destroy 2 ongoing cards.
+Omnitron-X initiates 2 Projectile damage to Baron Blade.
+Omnitron-X deals Baron Blade 2 Projectile damage.
+Baron Blade is now at 16 HP.
+Omnitron-X initiates 2 Projectile damage to Ethereal Bonds.
+Omnitron-X deals Ethereal Bonds 2 Projectile damage.
+Ethereal Bonds is now at 4 HP.
+GameController moved Disruptive Flechettes to Omnitron-X's trash.
+Revealed card: Unload
+Ghostly Images puts Unload into play.
+Expatriette uses the power on Tactical Shotgun.
+Dark Watch Expatriette initiates 4 Projectile damage to Baron Blade.
+Dark Watch Expatriette deals Baron Blade 4 Projectile damage.
+Baron Blade is now at 12 HP.
+Autonomous Blade initiates 2 Energy damage to Baron Blade.
+Autonomous Blade deals Baron Blade 2 Energy damage.
+Baron Blade is now at 10 HP.
+GameController moved Unload to Expatriette's trash.
+Went from Realm of Discord's PlayCard phase to End phase. 
+Ethereal Bonds initiates 2 Energy damage to Captain Cosmic Requital.
+Cosmic Crest made Captain Cosmic Requital immune to damage.
+Damage amount was 0, so no damage was dealt.
+Ghostly Images destroys itself!
+GameController moved Ghostly Images to the environment trash.
+Went from Realm of Discord's End phase to Baron Blade's Start phase. 
+Went from Baron Blade's Start phase to PlayCard phase. 
+GameController plays Hasten Doom.
+Baron Blade initiates 2 Toxic damage to Autonomous Blade.
+Baron Blade deals Autonomous Blade 2 Toxic damage.
+Autonomous Blade is now at -1 HP.
+Baron Blade destroys Autonomous Blade!
+GameController moved Autonomous Blade to Captain Cosmic's trash.
+Baron Blade initiates 2 Toxic damage to Cosmic Crest.
+Baron Blade deals Cosmic Crest 2 Toxic damage.
+Cosmic Crest is now at 2 HP.
+Baron Blade initiates 2 Toxic damage to Cosmic Weapon.
+Baron Blade deals Cosmic Weapon 2 Toxic damage.
+Cosmic Weapon is now at -1 HP.
+Baron Blade destroys Cosmic Weapon!
+GameController moved Cosmic Weapon to Captain Cosmic's trash.
+Baron Blade initiates 2 Toxic damage to Dynamic Siphon.
+Baron Blade deals Dynamic Siphon 2 Toxic damage.
+Dynamic Siphon is now at 1 HP.
+***** LOADED UNDO FILE: undo-126-BaronBlade-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1433.5
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Hasten Doom.
+Baron Blade initiates 2 Toxic damage to Dynamic Siphon.
+Baron Blade deals Dynamic Siphon 2 Toxic damage.
+Dynamic Siphon is now at 1 HP.
+Void Guard Writhe uses the power on Cloak Projector.
+Applying ongoing effect: Reduce damage dealt by Baron Blade by 1.
+Baron Blade initiates 2 Toxic damage to Autonomous Blade.
+Cloak Projector reduces the damage dealt to Autonomous Blade by Baron Blade by 1.
+Baron Blade deals Autonomous Blade 1 Toxic damage.
+Autonomous Blade is now at 0 HP.
+Baron Blade destroys Autonomous Blade!
+GameController moved Autonomous Blade to Captain Cosmic's trash.
+Baron Blade initiates 2 Toxic damage to Cosmic Crest.
+Cloak Projector reduces the damage dealt to Cosmic Crest by Baron Blade by 1.
+Baron Blade deals Cosmic Crest 1 Toxic damage.
+Cosmic Crest is now at 3 HP.
+Baron Blade initiates 2 Toxic damage to Cosmic Weapon.
+Cloak Projector reduces the damage dealt to Cosmic Weapon by Baron Blade by 1.
+Baron Blade deals Cosmic Weapon 1 Toxic damage.
+Cosmic Weapon is now at 0 HP.
+Baron Blade destroys Cosmic Weapon!
+GameController moved Cosmic Weapon to Captain Cosmic's trash.
+Baron Blade initiates 2 Toxic damage to Energy Bracer.
+Cloak Projector reduces the damage dealt to Energy Bracer by Baron Blade by 1.
+Baron Blade deals Energy Bracer 1 Toxic damage.
+Energy Bracer is now at 3 HP.
+Baron Blade initiates 2 Toxic damage to Energy Bracer.
+Cloak Projector reduces the damage dealt to Energy Bracer by Baron Blade by 1.
+Baron Blade deals Energy Bracer 1 Toxic damage.
+Energy Bracer is now at 2 HP.
+Baron Blade initiates 2 Toxic damage to Vitality Conduit.
+Cloak Projector reduces the damage dealt to Vitality Conduit by Baron Blade by 1.
+Baron Blade deals Vitality Conduit 1 Toxic damage.
+Vitality Conduit is now at 0 HP.
+Baron Blade destroys Vitality Conduit!
+GameController moved Vitality Conduit to Captain Cosmic's trash.
+Baron Blade initiates 2 Toxic damage to Vitality Conduit.
+Cloak Projector reduces the damage dealt to Vitality Conduit by Baron Blade by 1.
+Baron Blade deals Vitality Conduit 1 Toxic damage.
+Vitality Conduit is now at 0 HP.
+Baron Blade destroys Vitality Conduit!
+GameController moved Vitality Conduit to Captain Cosmic's trash.
+Baron Blade initiates 2 Toxic damage to Captain Cosmic Requital.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Baron Blade by 1.
+Cloak Projector reduces the damage dealt to Captain Cosmic Requital by Baron Blade by 1.
+Energy Bracer reduces the damage dealt to Captain Cosmic Requital by Baron Blade by 1.
+Damage amount was 0, so no damage was dealt.
+Baron Blade initiates 2 Toxic damage to Writhe.
+Cloak Projector reduces the damage dealt to Writhe by Baron Blade by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Baron Blade by 1.
+Damage amount was 0, so no damage was dealt.
+Baron Blade initiates 2 Toxic damage to Sky-Scraper.
+Cloak Projector reduces the damage dealt to Sky-Scraper by Baron Blade by 1.
+Baron Blade deals Sky-Scraper 1 Toxic damage.
+Sky-Scraper is now at 14 HP.
+Baron Blade initiates 2 Toxic damage to Omnitron-X.
+Cloak Projector reduces the damage dealt to Omnitron-X by Baron Blade by 1.
+Baron Blade deals Omnitron-X 1 Toxic damage.
+Omnitron-X is now at 10 HP.
+Baron Blade initiates 2 Toxic damage to Dark Watch Expatriette.
+Cloak Projector reduces the damage dealt to Dark Watch Expatriette by Baron Blade by 1.
+Baron Blade deals Dark Watch Expatriette 1 Toxic damage.
+Dark Watch Expatriette is now at 9 HP.
+Hasten Doom plays Living Force Field.
+GameController moved Hasten Doom to the villain trash.
+Went from Baron Blade's PlayCard phase to End phase. 
+Baron Blade initiates 5 Energy damage to Captain Cosmic Requital.
+Cosmic Crest made Captain Cosmic Requital immune to damage.
+Damage amount was 0, so no damage was dealt.
+Went from Baron Blade's End phase to Captain Cosmic's Start phase. 
+Went from Captain Cosmic's Start phase to PlayCard phase. 
+GameController plays Sustained Influence.
+Went from Captain Cosmic's PlayCard phase to UsePower phase. 
+Captain Cosmic uses the power on Cosmic Crest.
+Cosmic Crest caused Cosmic Crest to regain 1 HP, up to their maximum HP. HP is now 4.
+Cosmic Crest caused Energy Bracer to regain 2 HP, up to their maximum HP. HP is now 4.
+Cosmic Crest caused Energy Bracer to regain 1 HP, up to their maximum HP. HP is now 4.
+Went from Captain Cosmic's UsePower phase to DrawCard phase. 
+Captain Cosmic draws Unflagging Animation.
+Went from Captain Cosmic's DrawCard phase to End phase. 
+Went from Captain Cosmic's End phase to Void Guard Writhe's Start phase. 
+Notice: an ongoing effect just expired: Reduce damage dealt by Baron Blade by 1.
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Unnerving Target.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Cloak Projector.
+Applying ongoing effect: Reduce damage dealt by Baron Blade by 1.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Swallowed by Shadow.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to Sky-Scraper's Start phase. 
+Went from Sky-Scraper's Start phase to PlayCard phase. 
+GameController plays Colossal Left Hook.
+Switched Sky-Scraper (Tiny) with Sky-Scraper (Huge).
+Sky-Scraper initiates 3 Melee damage to Baron Blade.
+Living Force Field reduces the damage dealt to Baron Blade by Sky-Scraper by 1.
+Sky-Scraper deals Baron Blade 2 Melee damage.
+Baron Blade is now at 8 HP.
+Sky-Scraper discards Undetectable Relinking.
+Colossal Left Hook moved Undetectable Relinking from Sky-Scraper's hand to Sky-Scraper's trash.
+Colossal Left Hook plays Undetectable Relinking.
+Switched Sky-Scraper (Huge) with Sky-Scraper (Tiny).
+Undetectable Relinking moved Micro-Assembler to Sky-Scraper's hand.
+Undetectable Relinking plays Compulsion Canister.
+GameController moved Compulsion Canister from Sky-Scraper's hand next to Baron Blade.
+Baron Blade initiates 2 Psychic damage to Baron Blade.
+Cloak Projector cannot reduce the damage, because it is irreducible.
+Living Force Field cannot reduce the damage, because it is irreducible.
+Baron Blade deals Baron Blade 2 Psychic damage.
+Baron Blade is now at 6 HP.
+Baron Blade initiates 2 Psychic damage to Ethereal Bonds.
+Cloak Projector cannot reduce the damage, because it is irreducible.
+Baron Blade deals Ethereal Bonds 2 Psychic damage.
+Ethereal Bonds is now at 2 HP.
+GameController moved Undetectable Relinking to Sky-Scraper's trash.
+GameController moved Colossal Left Hook to Sky-Scraper's trash.
+Went from Sky-Scraper's PlayCard phase to UsePower phase. 
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper's Sneaking plays Micro-Assembler.
+GameController moved Micro-Assembler from Sky-Scraper's hand next to Writhe.
+Sky-Scraper moved Neutralizing Resonator from Sky-Scraper's trash to Sky-Scraper's hand.
+Sky-Scraper moved Neutralizing Resonator from Sky-Scraper's trash to Sky-Scraper's hand.
+Went from Sky-Scraper's UsePower phase to DrawCard phase. 
+Sky-Scraper draws Thorathian Monolith.
+Went from Sky-Scraper's DrawCard phase to End phase. 
+Went from Sky-Scraper's End phase to Omnitron-X's Start phase. 
+Omnitron-X initiates 1 Lightning damage to Baron Blade.
+Living Force Field reduces the damage dealt to Baron Blade by Omnitron-X by 1.
+Damage amount was 0, so no damage was dealt.
+Omnitron-X initiates 1 Lightning damage to Ethereal Bonds.
+Omnitron-X deals Ethereal Bonds 1 Lightning damage.
+Ethereal Bonds is now at 1 HP.
+Innervation Ray caused Omnitron-X to regain 1 HP. HP is now 11.
+Innervation Ray caused Dark Watch Expatriette to regain 1 HP. HP is now 10.
+Innervation Ray caused Sky-Scraper to regain 1 HP. HP is now 15.
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Singularity.
+Singularity will destroy 10 equipment cards.
+Singularity destroys Cloak Projector!
+GameController moved Cloak Projector to Void Guard Writhe's trash.
+Singularity destroys Elemental Exochassis!
+GameController moved Elemental Exochassis to Omnitron-X's trash.
+Singularity destroys Tactical Shotgun!
+GameController moved Tactical Shotgun to Expatriette's trash.
+Singularity destroys Gaussian Coil Blaster!
+GameController moved Gaussian Coil Blaster to Omnitron-X's trash.
+Singularity destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Singularity destroys Innervation Ray!
+GameController moved Innervation Ray to Omnitron-X's trash.
+Singularity destroys Rebounding Debilitator!
+GameController moved Rebounding Debilitator to Sky-Scraper's trash.
+Singularity destroys Aggression Modulator!
+GameController moved Aggression Modulator to Sky-Scraper's trash.
+***** LOADED UNDO FILE: undo-144-OmnitronX-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1437
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Singularity.
+Singularity will destroy 10 equipment cards.
+Singularity destroys Elemental Exochassis!
+GameController moved Elemental Exochassis to Omnitron-X's trash.
+Singularity destroys Tactical Shotgun!
+GameController moved Tactical Shotgun to Expatriette's trash.
+Singularity destroys Gaussian Coil Blaster!
+GameController moved Gaussian Coil Blaster to Omnitron-X's trash.
+Singularity destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+***** LOADED UNDO FILE: undo-144-OmnitronX-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1437
+Possible achievement: Base_DefeatAllVillains, progress: 100
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Singularity.
+Singularity will destroy 10 equipment cards.
+Singularity destroys Elemental Exochassis!
+GameController moved Elemental Exochassis to Omnitron-X's trash.
+Singularity destroys Tactical Shotgun!
+GameController moved Tactical Shotgun to Expatriette's trash.
+Singularity destroys Gaussian Coil Blaster!
+GameController moved Gaussian Coil Blaster to Omnitron-X's trash.
+Singularity destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Singularity destroys Innervation Ray!
+GameController moved Innervation Ray to Omnitron-X's trash.
+Singularity destroys Rebounding Debilitator!
+GameController moved Rebounding Debilitator to Sky-Scraper's trash.
+Singularity destroys Aggression Modulator!
+GameController moved Aggression Modulator to Sky-Scraper's trash.
+Singularity destroys Compulsion Canister!
+GameController moved Compulsion Canister to Sky-Scraper's trash.
+Singularity destroys Micro-Assembler!
+GameController moved Micro-Assembler to Sky-Scraper's trash.
+Omnitron-X initiates 9 Lightning damage to Baron Blade.
+Living Force Field reduces the damage dealt to Baron Blade by Omnitron-X by 1.
+Omnitron-X deals Baron Blade 8 Lightning damage.
+Baron Blade is now at -2 HP.
+Captain Cosmic Requital, Writhe, Sky-Scraper, Omnitron-X and Dark Watch Expatriette all defeated Baron Blade! Congratulations!
+You just unlocked the promo card: Writhe: Cosmic Inventor!

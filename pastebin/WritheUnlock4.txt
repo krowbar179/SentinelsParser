@@ -1,0 +1,1025 @@
+GameView Start
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+GameController puts Zombie Servant into play.
+GameController puts Zombie Servant into play.
+GameController puts Zombie Servant into play.
+GameController puts Zombie Servant into play.
+GloomWeaver shuffles their the villain deck.
+Went to GloomWeaver's Start phase.
+Went from GloomWeaver's Start phase to PlayCard phase.
+GameController plays Pouch of Bones.
+Went from GloomWeaver's PlayCard phase to End phase.
+Zombie Servant initiates 2 Melee damage to Sky-Scraper.
+Zombie Servant deals Sky-Scraper 2 Melee damage.
+Sky-Scraper is now at 31 HP.
+Zombie Servant initiates 2 Melee damage to Sky-Scraper.
+Zombie Servant deals Sky-Scraper 2 Melee damage.
+Sky-Scraper is now at 29 HP.
+Zombie Servant initiates 2 Melee damage to Sky-Scraper.
+Zombie Servant deals Sky-Scraper 2 Melee damage.
+Sky-Scraper is now at 27 HP.
+Zombie Servant initiates 2 Melee damage to Chrono-Ranger.
+Zombie Servant deals Chrono-Ranger 2 Melee damage.
+Chrono-Ranger is now at 26 HP.
+Went from GloomWeaver's End phase to Sky-Scraper's Start phase.
+Went from Sky-Scraper's Start phase to PlayCard phase.
+GameController plays Micro-Assembler.
+GameController moved Micro-Assembler from Sky-Scraper's hand next to Writhe.
+Went from Sky-Scraper's PlayCard phase to UsePower phase.
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper draws Compulsion Canister.
+Sky-Scraper draws Thorathian Monolith.
+Went from Sky-Scraper's UsePower phase to DrawCard phase.
+Sky-Scraper draws Rest and Recover.
+Went from Sky-Scraper's DrawCard phase to End phase.
+Went from Sky-Scraper's End phase to The Sentinels's Start phase.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Team Communication.
+The Sentinels draws Restorative Burst.
+The Sentinels draws Positive Energy.
+The Sentinels draws Hippocratic Oath.
+The Sentinels draws Human Shield.
+Team Communication plays Dark Delusions.
+Writhe initiates 2 Infernal damage to GloomWeaver.
+Writhe deals GloomWeaver 2 Infernal damage.
+GloomWeaver is now at 88 HP.
+Writhe initiates 2 Infernal damage to Pouch of Bones.
+Writhe deals Pouch of Bones 2 Infernal damage.
+Pouch of Bones is now at 23 HP.
+Writhe initiates 2 Infernal damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Writhe by 1.
+Writhe deals Zombie Servant 1 Infernal damage.
+Zombie Servant is now at 1 HP.
+Writhe initiates 2 Infernal damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Writhe by 1.
+Writhe deals Zombie Servant 1 Infernal damage.
+Zombie Servant is now at 1 HP.
+Writhe initiates 2 Infernal damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Writhe by 1.
+Writhe deals Zombie Servant 1 Infernal damage.
+Zombie Servant is now at 1 HP.
+Writhe initiates 2 Infernal damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Writhe by 1.
+Writhe deals Zombie Servant 1 Infernal damage.
+Zombie Servant is now at 1 HP.
+The Idealist initiates 3 Psychic damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by The Idealist by 1.
+The Idealist deals Zombie Servant 2 Psychic damage.
+Zombie Servant is now at -1 HP.
+The Idealist's Telekinetic Jab destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+GameController moved Dark Delusions to The Sentinels' trash.
+GameController moved Team Communication to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Mainstay.
+Applying ongoing effect: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Unique Capabilities.
+Went from The Sentinels's DrawCard phase to End phase.
+Went from The Sentinels's End phase to Chrono-Ranger's Start phase.
+Went from Chrono-Ranger's Start phase to PlayCard phase.
+GameController plays Displaced Armory.
+Displaced Armory puts Jim's Hat into play.
+Jim's Hat increased the action count of PlayCard by 1.
+Chrono-Ranger shuffles their Chrono-Ranger's deck.
+Chrono-Ranger initiates 1 Projectile damage to Pouch of Bones.
+Chrono-Ranger deals Pouch of Bones 1 Projectile damage.
+Pouch of Bones is now at 22 HP.
+GameController moved Displaced Armory to Chrono-Ranger's trash.
+GameController plays "Just Doin' My Job".
+Sky-Scraper discards Aggression Modulator.
+"Just Doin' My Job" moved Aggression Modulator from Sky-Scraper's hand to Sky-Scraper's trash.
+The Sentinels discards Restorative Burst.
+"Just Doin' My Job" moved Restorative Burst from The Sentinels' hand to The Sentinels' trash.
+Chrono-Ranger discards Bounty Board.
+"Just Doin' My Job" moved Bounty Board from Chrono-Ranger's hand to Chrono-Ranger's trash.
+Void Guard Writhe discards Penultimate Penumbra.
+"Just Doin' My Job" moved Penultimate Penumbra from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Chrono-Ranger draws "Just Doin' My Job".
+Chrono-Ranger draws Eye on the Prize.
+Chrono-Ranger draws Neuro-Toxin Dart Thrower.
+Chrono-Ranger draws Ranger's Mark.
+Chrono-Ranger initiates 1 Projectile damage to Pouch of Bones.
+Chrono-Ranger deals Pouch of Bones 1 Projectile damage.
+Pouch of Bones is now at 21 HP.
+GameController moved "Just Doin' My Job" to Chrono-Ranger's trash.
+Went from Chrono-Ranger's PlayCard phase to UsePower phase.
+Chrono-Ranger uses the power on Chrono-Ranger.
+Chrono-Ranger initiates 1 Projectile damage to Pouch of Bones.
+Chrono-Ranger deals Pouch of Bones 1 Projectile damage.
+Pouch of Bones is now at 20 HP.
+Went from Chrono-Ranger's UsePower phase to DrawCard phase.
+Chrono-Ranger draws Displaced Armory.
+Went from Chrono-Ranger's DrawCard phase to End phase.
+Went from Chrono-Ranger's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Fight and Fade.
+Writhe initiates 2 Infernal damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Writhe by 1.
+Writhe deals Zombie Servant 1 Infernal damage.
+Zombie Servant is now at 0 HP.
+Writhe's Sink into Shadow destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+Fight and Fade puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Fight and Fade plays Lurking Shadows.
+Void Guard Writhe draws Swallowed by Shadow.
+Applying ongoing effect: Increase damage dealt by Void Guard Writhe to Zombie Servant by 1.
+Void Guard Writhe uses the power on Writhe.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+GameController moved Lurking Shadows to Void Guard Writhe's trash.
+***** LOADED UNDO FILE: undo-20-VoidGuardWrithe-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 767
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Fight and Fade.
+Writhe initiates 2 Infernal damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Writhe by 1.
+Writhe deals Zombie Servant 1 Infernal damage.
+Zombie Servant is now at 0 HP.
+Writhe's Sink into Shadow destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+Fight and Fade puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Fight and Fade plays Lurking Shadows.
+Void Guard Writhe draws Swallowed by Shadow.
+Applying ongoing effect: Increase damage dealt by Void Guard Writhe to Pouch of Bones by 1.
+Void Guard Writhe uses the power on Writhe (contributed by Micro-Assembler).
+Void Guard Writhe discards Grasping Shadow-Cloth.
+Micro-Assembler moved Grasping Shadow-Cloth from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Micro-Assembler puts Umbral Siphon into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+GameController moved Lurking Shadows to Void Guard Writhe's trash.
+GameController moved Fight and Fade to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Zombie Servant.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Writhe by 1.
+Writhe deals Zombie Servant 1 Melee damage.
+Zombie Servant is now at 0 HP.
+Applying ongoing effect: Zombie Servant cannot gain HP.
+Writhe's Sink into Shadow destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Cloak Projector.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Caspit's "Playground".
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to GloomWeaver's Start phase.
+Went from GloomWeaver's Start phase to PlayCard phase.
+GameController plays Chosen Disciple.
+Went from GloomWeaver's PlayCard phase to End phase.
+Zombie Servant initiates 2 Melee damage to Sky-Scraper.
+Zombie Servant deals Sky-Scraper 2 Melee damage.
+Sky-Scraper is now at 25 HP.
+Chosen Disciple puts Zombie Servant into play.
+Pouch of Bones caused GloomWeaver to regain 2 HP, up to their maximum HP. HP is now 90.
+Pouch of Bones tried to increase Chosen Disciple's HP, but they are already at their maximum HP.
+Pouch of Bones caused Pouch of Bones to regain 4 HP. HP is now 24.
+Pouch of Bones caused Zombie Servant to regain 1 HP, up to their maximum HP. HP is now 2.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+Chosen Disciple initiates 4 Melee damage to Chrono-Ranger.
+Chosen Disciple deals Chrono-Ranger 4 Melee damage.
+Chrono-Ranger is now at 22 HP.
+Zombie Servant initiates 2 Melee damage to Sky-Scraper.
+Zombie Servant deals Sky-Scraper 2 Melee damage.
+Sky-Scraper is now at 23 HP.
+Went from GloomWeaver's End phase to Sky-Scraper's Start phase.
+Went from Sky-Scraper's Start phase to PlayCard phase.
+GameController plays Compulsion Canister.
+GameController moved Compulsion Canister from Sky-Scraper's hand next to Chosen Disciple.
+Chosen Disciple initiates 2 Psychic damage to Chosen Disciple.
+Chosen Disciple deals Chosen Disciple 2 Psychic damage.
+Chosen Disciple is now at 5 HP.
+Chosen Disciple initiates 2 Psychic damage to Zombie Servant.
+Pouch of Bones cannot reduce the damage, because it is irreducible.
+Chosen Disciple deals Zombie Servant 2 Psychic damage.
+Zombie Servant is now at 0 HP.
+Chosen Disciple destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+Went from Sky-Scraper's PlayCard phase to UsePower phase.
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper draws Linking Incursion.
+Sky-Scraper draws Thorathian Monolith.
+Went from Sky-Scraper's UsePower phase to DrawCard phase.
+Sky-Scraper draws Proportionist.
+Went from Sky-Scraper's DrawCard phase to End phase.
+Went from Sky-Scraper's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Unique Capabilities.
+Unique Capabilities puts Caliginous Form into play.
+The Sentinels shuffles their The Sentinels' deck.
+The Sentinels draws Dark Delusions.
+Unique Capabilities plays Hippocratic Oath.
+GameController moved Unique Capabilities to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Mainstay.
+Applying ongoing effect: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Unique Capabilities.
+Went from The Sentinels's DrawCard phase to End phase.
+Hippocratic Oath caused Sky-Scraper to regain 1 HP. HP is now 24.
+Hippocratic Oath caused Chrono-Ranger to regain 1 HP. HP is now 23.
+Went from The Sentinels's End phase to Chrono-Ranger's Start phase.
+Jim's Hat increased the action count of PlayCard by 1.
+Went from Chrono-Ranger's Start phase to PlayCard phase. (Count: 2)
+GameController plays Displaced Armory.
+Displaced Armory puts "The Ultimate Target" into play.
+GameController moved "The Ultimate Target" from Chrono-Ranger's deck next to GloomWeaver.
+Chrono-Ranger shuffles their Chrono-Ranger's deck.
+Chrono-Ranger initiates 1 Projectile damage to Chosen Disciple.
+Chrono-Ranger deals Chosen Disciple 1 Projectile damage.
+Chosen Disciple is now at 4 HP.
+GameController moved Displaced Armory to Chrono-Ranger's trash.
+GameController plays Neuro-Toxin Dart Thrower.
+Went from Chrono-Ranger's PlayCard phase to UsePower phase.
+Chrono-Ranger uses the power on Neuro-Toxin Dart Thrower.
+Chrono-Ranger initiates 1 Toxic damage to Chosen Disciple.
+Chrono-Ranger deals Chosen Disciple 1 Toxic damage.
+Chosen Disciple is now at 3 HP.
+Applying ongoing effect: Reduce damage dealt by Chosen Disciple by 1.
+Went from Chrono-Ranger's UsePower phase to DrawCard phase.
+Chrono-Ranger draws "Dead or Alive".
+Went from Chrono-Ranger's DrawCard phase to End phase.
+Went from Chrono-Ranger's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Increase damage dealt by Void Guard Writhe to Pouch of Bones by 1.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Swallowed by Shadow.
+Swallowed by Shadow destroys Chosen Disciple!
+GloomWeaver puts Zombie Servant into play.
+Pouch of Bones tried to increase GloomWeaver's HP, but they are already at their maximum HP.
+WARNING: Chosen Disciple is either not a target or is being destroyed, so it cannot gain HP.
+Pouch of Bones caused Pouch of Bones to regain 1 HP, up to their maximum HP. HP is now 25.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+GameController moved Chosen Disciple to the villain trash.
+Compulsion Canister was moved to GloomWeaver's play area.
+Swallowed by Shadow destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Swallowed by Shadow destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+GameController moved Swallowed by Shadow to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Fight and Fade.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Entry Point.
+Entry Point moved Caspit's "Playground" under Entry Point.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to GloomWeaver's Start phase.
+Went from GloomWeaver's Start phase to PlayCard phase.
+GameController plays Zombie Servant.
+Pouch of Bones tried to increase GloomWeaver's HP, but they are already at their maximum HP.
+Pouch of Bones tried to increase Pouch of Bones's HP, but they are already at their maximum HP.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+Went from GloomWeaver's PlayCard phase to End phase.
+Zombie Servant initiates 2 Melee damage to Sky-Scraper.
+Entry Point increases the damage dealt by Zombie Servant by 1.
+Zombie Servant deals Sky-Scraper 3 Melee damage.
+Sky-Scraper is now at 21 HP.
+Zombie Servant initiates 2 Melee damage to Chrono-Ranger.
+Entry Point increases the damage dealt by Zombie Servant by 1.
+Zombie Servant deals Chrono-Ranger 3 Melee damage.
+Chrono-Ranger is now at 20 HP.
+Went from GloomWeaver's End phase to Sky-Scraper's Start phase.
+Went from Sky-Scraper's Start phase to PlayCard phase.
+GameController plays Proportionist.
+Went from Sky-Scraper's PlayCard phase to UsePower phase.
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper draws Undetectable Relinking.
+Sky-Scraper draws Explosive Reveal.
+Went from Sky-Scraper's UsePower phase to DrawCard phase.
+Sky-Scraper draws Emergency Evac.
+Went from Sky-Scraper's DrawCard phase to End phase.
+Went from Sky-Scraper's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Unique Capabilities.
+Unique Capabilities puts Durasteel Chains into play.
+The Sentinels shuffles their The Sentinels' deck.
+The Sentinels draws Blackout.
+Unique Capabilities plays Blackout.
+Writhe initiates 2 Melee damage to Pouch of Bones.
+Writhe deals Pouch of Bones 2 Melee damage.
+Pouch of Bones is now at 23 HP.
+Pouch of Bones initiates 2 Infernal damage to GloomWeaver.
+Entry Point increases the damage dealt by Pouch of Bones by 1.
+Pouch of Bones deals GloomWeaver 3 Infernal damage.
+GloomWeaver is now at 87 HP.
+Pouch of Bones initiates 2 Infernal damage to Pouch of Bones.
+Entry Point increases the damage dealt by Pouch of Bones by 1.
+Pouch of Bones deals Pouch of Bones 3 Infernal damage.
+Pouch of Bones is now at 20 HP.
+Pouch of Bones initiates 2 Infernal damage to Zombie Servant.
+Entry Point increases the damage dealt by Pouch of Bones by 1.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Pouch of Bones by 1.
+Pouch of Bones deals Zombie Servant 2 Infernal damage.
+Zombie Servant is now at 0 HP.
+Pouch of Bones destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+Pouch of Bones initiates 2 Infernal damage to Zombie Servant.
+Entry Point increases the damage dealt by Pouch of Bones by 1.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Pouch of Bones by 1.
+Pouch of Bones deals Zombie Servant 2 Infernal damage.
+Zombie Servant is now at 0 HP.
+Pouch of Bones destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+GameController moved Blackout to The Sentinels' trash.
+GameController moved Unique Capabilities to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Mainstay.
+Applying ongoing effect: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Team Communication.
+Went from The Sentinels's DrawCard phase to End phase.
+Hippocratic Oath caused Sky-Scraper to regain 1 HP. HP is now 22.
+Hippocratic Oath caused Chrono-Ranger to regain 1 HP. HP is now 21.
+Went from The Sentinels's End phase to Chrono-Ranger's Start phase.
+Jim's Hat increased the action count of PlayCard by 1.
+Went from Chrono-Ranger's Start phase to PlayCard phase. (Count: 2)
+GameController plays "Dead or Alive".
+GameController moved "Dead or Alive" from Chrono-Ranger's hand next to GloomWeaver.
+GameController plays "Just Doin' My Job".
+Sky-Scraper discards Explosive Reveal.
+"Just Doin' My Job" moved Explosive Reveal from Sky-Scraper's hand to Sky-Scraper's trash.
+The Sentinels discards Dark Delusions.
+"Just Doin' My Job" moved Dark Delusions from The Sentinels' hand to The Sentinels' trash.
+Chrono-Ranger discards Ranger's Mark.
+"Just Doin' My Job" moved Ranger's Mark from Chrono-Ranger's hand to Chrono-Ranger's trash.
+Void Guard Writhe discards Cloak Projector.
+"Just Doin' My Job" moved Cloak Projector from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Chrono-Ranger draws Displaced Armory.
+Chrono-Ranger draws Temporal Grenade.
+Chrono-Ranger draws "Just Doin' My Job".
+Chrono-Ranger draws Temporal Grenade.
+Chrono-Ranger initiates 1 Projectile damage to Pouch of Bones.
+Chrono-Ranger deals Pouch of Bones 1 Projectile damage.
+Pouch of Bones is now at 19 HP.
+GameController moved "Just Doin' My Job" to Chrono-Ranger's trash.
+Went from Chrono-Ranger's PlayCard phase to UsePower phase.
+Chrono-Ranger uses the power on Neuro-Toxin Dart Thrower.
+Chrono-Ranger initiates 1 Toxic damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 2 Toxic damage.
+GloomWeaver is now at 85 HP.
+Applying ongoing effect: Reduce damage dealt by GloomWeaver by 1.
+Went from Chrono-Ranger's UsePower phase to DrawCard phase.
+Chrono-Ranger draws The Masadah.
+Went from Chrono-Ranger's DrawCard phase to End phase.
+Went from Chrono-Ranger's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. (Count: 2)
+Void Guard Writhe draws Concealed Assailant.
+Void Guard Writhe draws Swallowed by Shadow.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays The Wraith's Arsenal.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to GloomWeaver's Start phase.
+Went from GloomWeaver's Start phase to PlayCard phase.
+GameController plays Sable Pin.
+GameController moved Sable Pin from the villain deck next to Writhe.
+Went from GloomWeaver's PlayCard phase to End phase.
+Went from GloomWeaver's End phase to Sky-Scraper's Start phase.
+Went from Sky-Scraper's Start phase to PlayCard phase.
+GameController plays Linking Incursion.
+Switched Sky-Scraper (Normal) with Sky-Scraper (Tiny).
+Sky-Scraper draws Explosive Reveal.
+Revealed matching card: Compulsion Canister
+Revealed card: Colossal Left Hook
+Revealed card: Undetectable Relinking
+Revealed card: Undetectable Relinking
+Revealed matching card: Cortex Hyperstimulator
+Linking Incursion puts Compulsion Canister into play.
+GameController moved Compulsion Canister from Sky-Scraper's revealed cards next to GloomWeaver.
+GloomWeaver initiates 2 Psychic damage to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+Neuro-Toxin Dart Thrower cannot reduce the damage, because it is irreducible.
+GloomWeaver deals GloomWeaver 3 Psychic damage.
+GloomWeaver is now at 82 HP.
+Chrono-Ranger uses the power on Neuro-Toxin Dart Thrower.
+Chrono-Ranger initiates 1 Toxic damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 2 Toxic damage.
+GloomWeaver is now at 80 HP.
+Applying ongoing effect: Reduce damage dealt by GloomWeaver by 1.
+GloomWeaver initiates 2 Psychic damage to Sable Pin.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+Neuro-Toxin Dart Thrower cannot reduce the damage, because it is irreducible.
+Neuro-Toxin Dart Thrower cannot reduce the damage, because it is irreducible.
+GloomWeaver deals Sable Pin 3 Psychic damage.
+Sable Pin is now at 6 HP.
+Linking Incursion puts Cortex Hyperstimulator into play.
+GameController moved Cortex Hyperstimulator from Sky-Scraper's revealed cards next to GloomWeaver.
+Moving cards in Revealed location back from whence they came.
+GameController moves 3 cards to the top of Sky-Scraper's Deck.
+Sky-Scraper shuffles their Sky-Scraper's deck.
+GameController moved Linking Incursion to Sky-Scraper's trash.
+Went from Sky-Scraper's PlayCard phase to UsePower phase.
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper moved Compulsion Canister to Sky-Scraper's hand.
+Went from Sky-Scraper's UsePower phase to DrawCard phase.
+Sky-Scraper draws Catch a Ride.
+Went from Sky-Scraper's DrawCard phase to End phase.
+Went from Sky-Scraper's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Team Communication.
+The Sentinels draws Second Chance.
+The Sentinels draws Sentinel Tactics.
+The Sentinels draws Good Hero - Bad Hero.
+The Sentinels draws Positive Energy.
+Team Communication plays Sentinel Tactics.
+GameController moved Team Communication to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on The Idealist.
+The Idealist initiates 2 Psychic damage to Sable Pin.
+The Idealist deals Sable Pin 2 Psychic damage.
+Sable Pin is now at 4 HP.
+The Sentinels uses the power on Mainstay.
+Applying ongoing effect: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Horrifying Dichotomy.
+Went from The Sentinels's DrawCard phase to End phase.
+Hippocratic Oath caused Sky-Scraper to regain 1 HP. HP is now 23.
+Hippocratic Oath caused Chrono-Ranger to regain 1 HP. HP is now 22.
+GloomWeaver initiates 4 Psychic damage to Writhe.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+Mainstay's Block reduces the damage dealt to Writhe by GloomWeaver by 1.
+Caliginous Form reduces the damage dealt to Writhe by GloomWeaver by 2.
+Neuro-Toxin Dart Thrower reduces the damage dealt to Writhe by GloomWeaver by 1.
+Neuro-Toxin Dart Thrower reduces the damage dealt to Writhe by GloomWeaver by 1.
+Damage amount was 0, so no damage was dealt.
+Went from The Sentinels's End phase to Chrono-Ranger's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt by GloomWeaver by 1.
+Notice: an ongoing effect just expired: Reduce damage dealt by GloomWeaver by 1.
+"Dead or Alive" caused Chrono-Ranger to regain 1 HP. HP is now 23.
+Jim's Hat increased the action count of PlayCard by 1.
+Went from Chrono-Ranger's Start phase to PlayCard phase. (Count: 2)
+GameController plays Temporal Grenade.
+GameController plays The Masadah.
+Went from Chrono-Ranger's PlayCard phase to UsePower phase.
+Chrono-Ranger uses the power on Temporal Grenade.
+Chrono-Ranger initiates 1 Energy damage to Sable Pin.
+Chrono-Ranger deals Sable Pin 1 Energy damage.
+Sable Pin is now at 3 HP.
+Chrono-Ranger initiates 1 Energy damage to Pouch of Bones.
+Chrono-Ranger deals Pouch of Bones 1 Energy damage.
+Pouch of Bones is now at 18 HP.
+Chrono-Ranger initiates 1 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 2 Energy damage.
+GloomWeaver is now at 78 HP.
+Entry Point moved Caspit's "Playground" from under Entry Point to Freedom Tower's play area.
+Temporal Grenade destroys Entry Point!
+GameController moved Entry Point to the environment trash.
+Temporal Grenade destroys itself!
+GameController moved Temporal Grenade to Chrono-Ranger's trash.
+Went from Chrono-Ranger's UsePower phase to DrawCard phase.
+Chrono-Ranger draws Hunter and Hunted.
+Went from Chrono-Ranger's DrawCard phase to End phase.
+Went from Chrono-Ranger's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Concealed Assailant.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Concealed Assailant.
+Writhe initiates 1 Melee damage to Pouch of Bones.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Pouch of Bones 2 Melee damage.
+Pouch of Bones is now at 16 HP.
+Writhe initiates 1 Infernal damage to Pouch of Bones.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Pouch of Bones 2 Infernal damage.
+Pouch of Bones is now at 14 HP.
+Writhe initiates 1 Psychic damage to Pouch of Bones.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Pouch of Bones 2 Psychic damage.
+Pouch of Bones is now at 12 HP.
+Concealed Assailant destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Somber Tinker.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Void Guard Writhe draws Lurking Shadows.
+Chrono-Ranger draws "The Whole Gang".
+Sky-Scraper draws Thorathian Monolith.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Entry Point.
+Entry Point moved The Wraith's Arsenal under Entry Point.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to GloomWeaver's Start phase.
+Went from GloomWeaver's Start phase to PlayCard phase.
+GameController plays Vast Following.
+GloomWeaver shuffles their the villain trash.
+Revealed card: Zombie Servant
+Revealed card: Zombie Servant
+Revealed card: Chosen Disciple
+Revealed card: Zombie Servant
+Vast Following puts Chosen Disciple into play.
+Vast Following moved Zombie Servant from GloomWeaver's revealed cards to the villain trash.
+Vast Following moved Zombie Servant from GloomWeaver's revealed cards to the villain trash.
+Vast Following moved Zombie Servant from GloomWeaver's revealed cards to the villain trash.
+Vast Following plays Indigo Pin.
+GameController moved Indigo Pin from the villain deck next to Writhe.
+GameController moved Vast Following to the villain trash.
+Went from GloomWeaver's PlayCard phase to End phase.
+GloomWeaver initiates 1 Lightning damage to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+Cortex Hyperstimulator reduces the damage dealt to GloomWeaver by GloomWeaver by 1.
+GloomWeaver deals GloomWeaver 1 Lightning damage.
+GloomWeaver is now at 77 HP.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 2 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 3 Energy damage.
+GloomWeaver is now at 74 HP.
+Chosen Disciple puts Zombie Servant into play.
+Pouch of Bones caused GloomWeaver to regain 4 HP. HP is now 78.
+Pouch of Bones tried to increase Chosen Disciple's HP, but they are already at their maximum HP.
+Pouch of Bones tried to increase Indigo Pin's HP, but they are already at their maximum HP.
+Pouch of Bones caused Pouch of Bones to regain 4 HP. HP is now 16.
+Pouch of Bones caused Sable Pin to regain 4 HP. HP is now 7.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+Chosen Disciple initiates 3 Melee damage to Sky-Scraper.
+Entry Point increases the damage dealt by Chosen Disciple by 1.
+Chosen Disciple deals Sky-Scraper 4 Melee damage.
+Sky-Scraper is now at 19 HP.
+Zombie Servant initiates 2 Melee damage to Chrono-Ranger.
+Entry Point increases the damage dealt by Zombie Servant by 1.
+Zombie Servant deals Chrono-Ranger 3 Melee damage.
+Chrono-Ranger is now at 20 HP.
+Went from GloomWeaver's End phase to Sky-Scraper's Start phase.
+Went from Sky-Scraper's Start phase to PlayCard phase.
+GameController plays Compulsion Canister.
+GameController moved Compulsion Canister from Sky-Scraper's hand next to GloomWeaver.
+GloomWeaver initiates 2 Psychic damage to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+Cortex Hyperstimulator cannot reduce the damage, because it is irreducible.
+GloomWeaver deals GloomWeaver 3 Psychic damage.
+GloomWeaver is now at 75 HP.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 2 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 3 Energy damage.
+GloomWeaver is now at 72 HP.
+GloomWeaver initiates 2 Psychic damage to Chosen Disciple.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+GloomWeaver deals Chosen Disciple 3 Psychic damage.
+Chosen Disciple is now at 4 HP.
+Went from Sky-Scraper's PlayCard phase to UsePower phase.
+Sky-Scraper uses the power on Sky-Scraper.
+***** LOADED UNDO FILE: undo-109-SkyScraper-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 770.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Catch a Ride.
+Chrono-Ranger initiates 2 Projectile damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 3 Projectile damage.
+GloomWeaver is now at 75 HP.
+Sky-Scraper initiates 2 Melee damage to GloomWeaver.
+Sky-Scraper deals GloomWeaver 2 Melee damage.
+GloomWeaver is now at 73 HP.
+GameController moved Catch a Ride to Sky-Scraper's trash.
+Went from Sky-Scraper's PlayCard phase to UsePower phase.
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper's Sneaking plays Compulsion Canister.
+GameController moved Compulsion Canister from Sky-Scraper's hand next to GloomWeaver.
+GloomWeaver initiates 2 Psychic damage to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+Cortex Hyperstimulator cannot reduce the damage, because it is irreducible.
+GloomWeaver deals GloomWeaver 3 Psychic damage.
+GloomWeaver is now at 70 HP.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 2 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 3 Energy damage.
+GloomWeaver is now at 67 HP.
+GloomWeaver initiates 2 Psychic damage to Pouch of Bones.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+GloomWeaver deals Pouch of Bones 3 Psychic damage.
+Pouch of Bones is now at 13 HP.
+Sky-Scraper moved Compulsion Canister to Sky-Scraper's hand.
+Went from Sky-Scraper's UsePower phase to DrawCard phase.
+Sky-Scraper draws Neutralizing Resonator.
+Went from Sky-Scraper's DrawCard phase to End phase.
+Went from Sky-Scraper's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Fling Into Darkness.
+Mainstay initiates 3 Melee damage to Chosen Disciple.
+Durasteel Chains increases the damage dealt by Mainstay by 1.
+Mainstay deals Chosen Disciple 4 Melee damage.
+Chosen Disciple is now at 3 HP.
+The Sentinels uses the power on Mainstay.
+Applying ongoing effect: Reduce damage dealt to The Sentinels by 1.
+Fling Into Darkness destroys Chosen Disciple!
+GloomWeaver puts Zombie Servant into play.
+Pouch of Bones caused GloomWeaver to regain 4 HP. HP is now 71.
+WARNING: Chosen Disciple is either not a target or is being destroyed, so it cannot gain HP.
+Pouch of Bones tried to increase Indigo Pin's HP, but they are already at their maximum HP.
+Pouch of Bones caused Pouch of Bones to regain 4 HP. HP is now 17.
+Pouch of Bones caused Sable Pin to regain 2 HP, up to their maximum HP. HP is now 9.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+Pouch of Bones tried to increase Zombie Servant's HP, but they are already at their maximum HP.
+GameController moved Chosen Disciple to the villain trash.
+GameController moved Fling Into Darkness to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on Dr. Medico.
+Dr. Medico's M.D. caused Sky-Scraper to regain 3 HP. HP is now 22.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Horrifying Dichotomy.
+Went from The Sentinels's DrawCard phase to End phase.
+Hippocratic Oath caused Sky-Scraper to regain 1 HP. HP is now 23.
+Hippocratic Oath caused Chrono-Ranger to regain 1 HP. HP is now 21.
+GloomWeaver initiates 4 Psychic damage to Writhe.
+Caliginous Form redirects the damage dealt from Writhe to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+Caliginous Form reduces the damage dealt to GloomWeaver by GloomWeaver by 2.
+Cortex Hyperstimulator reduces the damage dealt to GloomWeaver by GloomWeaver by 1.
+GloomWeaver deals GloomWeaver 2 Psychic damage.
+GloomWeaver is now at 69 HP.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 2 Energy damage to Pouch of Bones.
+Chrono-Ranger deals Pouch of Bones 2 Energy damage.
+Pouch of Bones is now at 15 HP.
+Went from The Sentinels's End phase to Chrono-Ranger's Start phase.
+"Dead or Alive" caused Chrono-Ranger to regain 1 HP. HP is now 22.
+Jim's Hat increased the action count of PlayCard by 1.
+Went from Chrono-Ranger's Start phase to PlayCard phase. (Count: 2)
+GameController plays Displaced Armory.
+Displaced Armory puts "By Any Means" into play.
+GameController moved "By Any Means" from Chrono-Ranger's deck next to GloomWeaver.
+Chrono-Ranger shuffles their Chrono-Ranger's deck.
+Chrono-Ranger initiates 1 Projectile damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+"By Any Means" increases the damage dealt by Chrono-Ranger by 1.
+Chrono-Ranger deals GloomWeaver 3 Projectile damage.
+GloomWeaver is now at 66 HP.
+GameController moved Displaced Armory to Chrono-Ranger's trash.
+GameController plays Hunter and Hunted.
+Went from Chrono-Ranger's PlayCard phase to UsePower phase.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 3 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+"By Any Means" increases the damage dealt by Chrono-Ranger by 1.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 3.
+Chrono-Ranger deals GloomWeaver 8 Energy damage.
+GloomWeaver is now at 58 HP.
+Went from Chrono-Ranger's UsePower phase to DrawCard phase.
+Chrono-Ranger draws Eye on the Prize.
+Went from Chrono-Ranger's DrawCard phase to End phase.
+Went from Chrono-Ranger's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Fight and Fade.
+Writhe initiates 2 Infernal damage to Pouch of Bones.
+Writhe deals Pouch of Bones 2 Infernal damage.
+Pouch of Bones is now at 13 HP.
+Fight and Fade puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Fight and Fade plays Somber Tinker.
+Void Guard Writhe draws Grasping Shadow-Cloth.
+Somber Tinker moved Grasping Shadow-Cloth from Void Guard Writhe's trash to Void Guard Writhe's hand.
+Somber Tinker plays Grasping Shadow-Cloth.
+Grasping Shadow-Cloth moved Vast Following from the villain trash to the bottom of the villain deck.
+Grasping Shadow-Cloth destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Applying ongoing effect: GloomWeaver cannot play cards.
+GameController moved Somber Tinker to Void Guard Writhe's trash.
+GameController moved Fight and Fade to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Pouch of Bones.
+Writhe deals Pouch of Bones 1 Melee damage.
+Pouch of Bones is now at 12 HP.
+Applying ongoing effect: Pouch of Bones cannot gain HP.
+Writhe initiates 1 Infernal damage to Pouch of Bones.
+Writhe deals Pouch of Bones 1 Infernal damage.
+Pouch of Bones is now at 11 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Portable Dark-Lab.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Void Guard Writhe discards Lurking Shadows.
+Indigo Pin moved Lurking Shadows from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Medical Ward.
+Went from Freedom Tower's PlayCard phase to End phase.
+Went from Freedom Tower's End phase to GloomWeaver's Start phase.
+Went from GloomWeaver's Start phase to PlayCard phase.
+Went from GloomWeaver's PlayCard phase to End phase.
+GloomWeaver initiates 1 Lightning damage to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+"By Any Means" increases the damage dealt by GloomWeaver by 1.
+Cortex Hyperstimulator reduces the damage dealt to GloomWeaver by GloomWeaver by 1.
+GloomWeaver deals GloomWeaver 2 Lightning damage.
+GloomWeaver is now at 56 HP.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 3 Energy damage to Pouch of Bones.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 3.
+Chrono-Ranger deals Pouch of Bones 6 Energy damage.
+Pouch of Bones is now at 5 HP.
+Zombie Servant initiates 2 Melee damage to Sky-Scraper.
+Entry Point increases the damage dealt by Zombie Servant by 1.
+Zombie Servant deals Sky-Scraper 3 Melee damage.
+Sky-Scraper is now at 20 HP.
+Zombie Servant initiates 2 Melee damage to Chrono-Ranger.
+Entry Point increases the damage dealt by Zombie Servant by 1.
+Hunter and Hunted increases the damage dealt by Zombie Servant by 3.
+Zombie Servant deals Chrono-Ranger 6 Melee damage.
+Chrono-Ranger is now at 16 HP.
+Went from GloomWeaver's End phase to Sky-Scraper's Start phase.
+Went from Sky-Scraper's Start phase to PlayCard phase.
+GameController plays Thorathian Monolith.
+Switched Sky-Scraper (Tiny) with Sky-Scraper (Huge).
+Sky-Scraper initiates 1 Melee damage to GloomWeaver.
+"By Any Means" increases the damage dealt by Sky-Scraper by 1.
+Sky-Scraper deals GloomWeaver 2 Melee damage.
+GloomWeaver is now at 54 HP.
+Sky-Scraper initiates 1 Melee damage to Indigo Pin.
+Sky-Scraper deals Indigo Pin 1 Melee damage.
+Indigo Pin is now at 8 HP.
+Sky-Scraper initiates 1 Melee damage to Pouch of Bones.
+Sky-Scraper deals Pouch of Bones 1 Melee damage.
+Pouch of Bones is now at 4 HP.
+Sky-Scraper initiates 1 Melee damage to Sable Pin.
+Sky-Scraper deals Sable Pin 1 Melee damage.
+Sable Pin is now at 8 HP.
+Sky-Scraper initiates 1 Melee damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Sky-Scraper by 1.
+Damage amount was 0, so no damage was dealt.
+Sky-Scraper initiates 1 Melee damage to Zombie Servant.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Sky-Scraper by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Sky-Scraper's PlayCard phase to UsePower phase.
+Sky-Scraper uses the power on Sky-Scraper.
+Sky-Scraper initiates 2 Sonic damage to GloomWeaver.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+"By Any Means" increases the damage dealt by Sky-Scraper by 1.
+Sky-Scraper deals GloomWeaver 4 Sonic damage.
+GloomWeaver is now at 50 HP.
+Sky-Scraper initiates 2 Sonic damage to Indigo Pin.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Sky-Scraper deals Indigo Pin 3 Sonic damage.
+Indigo Pin is now at 5 HP.
+Sky-Scraper initiates 2 Sonic damage to Pouch of Bones.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Sky-Scraper deals Pouch of Bones 3 Sonic damage.
+Pouch of Bones is now at 1 HP.
+Sky-Scraper initiates 2 Sonic damage to Sable Pin.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Sky-Scraper deals Sable Pin 3 Sonic damage.
+Sable Pin is now at 5 HP.
+Sky-Scraper initiates 2 Sonic damage to Zombie Servant.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Sky-Scraper by 1.
+Sky-Scraper deals Zombie Servant 2 Sonic damage.
+Zombie Servant is now at 0 HP.
+Sky-Scraper's Concussive Clap destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+Sky-Scraper initiates 2 Sonic damage to Zombie Servant.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Pouch of Bones reduces the damage dealt to Zombie Servant by Sky-Scraper by 1.
+Sky-Scraper deals Zombie Servant 2 Sonic damage.
+Zombie Servant is now at 0 HP.
+Sky-Scraper's Concussive Clap destroys Zombie Servant!
+GameController moved Zombie Servant to the villain trash.
+Sky-Scraper initiates 0 Sonic damage to Sky-Scraper.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Thorathian Monolith reduces the damage dealt to Sky-Scraper by Sky-Scraper by 2.
+Damage amount was 0, so no damage was dealt.
+Sky-Scraper initiates 0 Sonic damage to Dr. Medico.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Mainstay's Block reduces the damage dealt to Dr. Medico by Sky-Scraper by 1.
+Damage amount was 0, so no damage was dealt.
+Sky-Scraper initiates 0 Sonic damage to Mainstay.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Mainstay's Block reduces the damage dealt to Mainstay by Sky-Scraper by 1.
+Durasteel Chains reduces the damage dealt to Mainstay by Sky-Scraper by 1.
+Damage amount was 0, so no damage was dealt.
+Sky-Scraper initiates 0 Sonic damage to The Idealist.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Mainstay's Block reduces the damage dealt to The Idealist by Sky-Scraper by 1.
+Damage amount was 0, so no damage was dealt.
+Sky-Scraper initiates 0 Sonic damage to Writhe.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Mainstay's Block reduces the damage dealt to Writhe by Sky-Scraper by 1.
+Damage amount was 0, so no damage was dealt.
+Sky-Scraper initiates 0 Sonic damage to Chrono-Ranger.
+Thorathian Monolith redirects the damage dealt from Chrono-Ranger to Sky-Scraper.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Thorathian Monolith reduces the damage dealt to Sky-Scraper by Sky-Scraper by 2.
+Damage amount was 0, so no damage was dealt.
+Sky-Scraper initiates 0 Sonic damage to Writhe.
+Thorathian Monolith redirects the damage dealt from Writhe to Sky-Scraper.
+Proportionist increases the damage dealt by Sky-Scraper by 1.
+Thorathian Monolith reduces the damage dealt to Sky-Scraper by Sky-Scraper by 2.
+Damage amount was 0, so no damage was dealt.
+Went from Sky-Scraper's UsePower phase to DrawCard phase.
+Sky-Scraper draws Colossal Left Hook.
+Went from Sky-Scraper's DrawCard phase to End phase.
+Went from Sky-Scraper's End phase to The Sentinels's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Sentinels by 1.
+Went from The Sentinels's Start phase to PlayCard phase.
+GameController plays Positive Energy.
+Positive Energy caused Sky-Scraper to regain 1 HP. HP is now 21.
+Positive Energy tried to increase Dr. Medico's HP, but they are already at their maximum HP.
+Positive Energy tried to increase Mainstay's HP, but they are already at their maximum HP.
+Positive Energy tried to increase The Idealist's HP, but they are already at their maximum HP.
+Positive Energy tried to increase Writhe's HP, but they are already at their maximum HP.
+Positive Energy caused Chrono-Ranger to regain 1 HP. HP is now 17.
+Positive Energy tried to increase Writhe's HP, but they are already at their maximum HP.
+The Idealist initiates 2 Psychic damage to GloomWeaver.
+"By Any Means" increases the damage dealt by The Idealist by 1.
+The Idealist deals GloomWeaver 3 Psychic damage.
+GloomWeaver is now at 47 HP.
+The Sentinels uses the power on Dr. Medico.
+Dr. Medico's M.D. caused Chrono-Ranger to regain 3 HP. HP is now 20.
+The Idealist initiates 2 Psychic damage to Indigo Pin.
+The Idealist deals Indigo Pin 2 Psychic damage.
+Indigo Pin is now at 3 HP.
+The Idealist initiates 2 Psychic damage to Pouch of Bones.
+The Idealist deals Pouch of Bones 2 Psychic damage.
+Pouch of Bones is now at -1 HP.
+The Idealist's Telekinetic Jab destroys Pouch of Bones!
+GameController moved Pouch of Bones to the villain trash.
+The Idealist initiates 2 Psychic damage to Sable Pin.
+The Idealist deals Sable Pin 2 Psychic damage.
+Sable Pin is now at 3 HP.
+GameController moved Positive Energy to The Sentinels' trash.
+Went from The Sentinels's PlayCard phase to UsePower phase.
+The Sentinels uses the power on The Idealist.
+The Idealist initiates 2 Psychic damage to GloomWeaver.
+"By Any Means" increases the damage dealt by The Idealist by 1.
+The Idealist deals GloomWeaver 3 Psychic damage.
+GloomWeaver is now at 44 HP.
+Went from The Sentinels's UsePower phase to DrawCard phase.
+The Sentinels draws Coordinated Assault.
+Went from The Sentinels's DrawCard phase to End phase.
+Hippocratic Oath caused Sky-Scraper to regain 1 HP. HP is now 22.
+Hippocratic Oath caused Chrono-Ranger to regain 1 HP. HP is now 21.
+GloomWeaver initiates 4 Psychic damage to Writhe.
+Caliginous Form redirects the damage dealt from Writhe to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+"By Any Means" increases the damage dealt by GloomWeaver by 1.
+Caliginous Form reduces the damage dealt to GloomWeaver by GloomWeaver by 2.
+Cortex Hyperstimulator reduces the damage dealt to GloomWeaver by GloomWeaver by 1.
+GloomWeaver deals GloomWeaver 3 Psychic damage.
+GloomWeaver is now at 41 HP.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 3 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+"By Any Means" increases the damage dealt by Chrono-Ranger by 1.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 3.
+Chrono-Ranger deals GloomWeaver 8 Energy damage.
+GloomWeaver is now at 33 HP.
+Went from The Sentinels's End phase to Chrono-Ranger's Start phase.
+"Dead or Alive" caused Chrono-Ranger to regain 1 HP. HP is now 22.
+Jim's Hat increased the action count of PlayCard by 1.
+Went from Chrono-Ranger's Start phase to PlayCard phase. (Count: 2)
+GameController plays "The Whole Gang".
+GameController moved "The Whole Gang" from Chrono-Ranger's hand next to Sable Pin.
+GameController plays Eye on the Prize.
+Chrono-Ranger initiates 1 Projectile damage to Sable Pin.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 4.
+Chrono-Ranger deals Sable Pin 5 Projectile damage.
+Sable Pin is now at -2 HP.
+Chrono-Ranger's Quick Shot destroys Sable Pin!
+GameController moved Sable Pin to the villain trash.
+"The Whole Gang" destroys Indigo Pin!
+GameController moved Indigo Pin to the villain trash.
+"The Whole Gang" destroys itself!
+GameController moved "The Whole Gang" to Chrono-Ranger's trash.
+Chrono-Ranger draws Terrible Tech-Strike.
+Eye on the Prize plays Eye on the Prize.
+Chrono-Ranger initiates 1 Projectile damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+"By Any Means" increases the damage dealt by Chrono-Ranger by 1.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 3.
+Chrono-Ranger deals GloomWeaver 6 Projectile damage.
+GloomWeaver is now at 27 HP.
+Chrono-Ranger draws Sudden Contract.
+Eye on the Prize plays Sudden Contract.
+Sudden Contract puts "Kill on Sight" into play.
+GameController moved "Kill on Sight" from Chrono-Ranger's deck next to GloomWeaver.
+Chrono-Ranger shuffles their Chrono-Ranger's deck.
+Chrono-Ranger initiates 1 Projectile damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+"By Any Means" increases the damage dealt by Chrono-Ranger by 1.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 4.
+Chrono-Ranger deals GloomWeaver 7 Projectile damage.
+GloomWeaver is now at 20 HP.
+GameController moved Sudden Contract to Chrono-Ranger's trash.
+GameController moved Eye on the Prize to Chrono-Ranger's trash.
+GameController moved Eye on the Prize to Chrono-Ranger's trash.
+Went from Chrono-Ranger's PlayCard phase to UsePower phase.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 4 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+"By Any Means" increases the damage dealt by Chrono-Ranger by 1.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 4.
+Chrono-Ranger deals GloomWeaver 10 Energy damage.
+GloomWeaver is now at 10 HP.
+Went from Chrono-Ranger's UsePower phase to DrawCard phase.
+Chrono-Ranger draws Terrible Tech-Strike.
+Went from Chrono-Ranger's DrawCard phase to End phase.
+Went from Chrono-Ranger's End phase to Void Guard Writhe's Start phase.
+Grasping Shadow-Cloth was moved to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Penultimate Penumbra from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Lurking Shadows from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Fight and Fade from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Swallowed by Shadow from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Cloak Projector from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved The Shadow Cloak from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Somber Tinker from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Fight and Fade from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Grasping Shadow-Cloth moved Lurking Shadows from Void Guard Writhe's trash to Void Guard Writhe's deck.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Portable Dark-Lab.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Concealed Assailant.
+Writhe initiates 1 Melee damage to GloomWeaver.
+"By Any Means" increases the damage dealt by Writhe by 1.
+Writhe deals GloomWeaver 2 Melee damage.
+GloomWeaver is now at 8 HP.
+Writhe initiates 1 Infernal damage to GloomWeaver.
+"By Any Means" increases the damage dealt by Writhe by 1.
+Writhe deals GloomWeaver 2 Infernal damage.
+GloomWeaver is now at 6 HP.
+Writhe initiates 1 Psychic damage to GloomWeaver.
+"By Any Means" increases the damage dealt by Writhe by 1.
+Writhe deals GloomWeaver 2 Psychic damage.
+GloomWeaver is now at 4 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Sciamachy.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Freedom Tower's Start phase.
+Medical Ward caused GloomWeaver to regain 1 HP. HP is now 5.
+Medical Ward caused Sky-Scraper to regain 1 HP. HP is now 23.
+Medical Ward tried to increase Dr. Medico's HP, but they are already at their maximum HP.
+Medical Ward tried to increase Mainstay's HP, but they are already at their maximum HP.
+Medical Ward tried to increase The Idealist's HP, but they are already at their maximum HP.
+Medical Ward tried to increase Writhe's HP, but they are already at their maximum HP.
+Medical Ward caused Chrono-Ranger to regain 1 HP. HP is now 23.
+Medical Ward tried to increase Writhe's HP, but they are already at their maximum HP.
+Went from Freedom Tower's Start phase to PlayCard phase.
+GameController plays Mission Control.
+Went from Freedom Tower's PlayCard phase to End phase.
+Revealed card: Rebounding Debilitator
+Mission Control puts Rebounding Debilitator into play.
+GameController moved Rebounding Debilitator from Sky-Scraper's revealed cards next to GloomWeaver.
+Revealed card: Fling Into Darkness
+Mission Control moved Fling Into Darkness from The Sentinels' revealed cards to The Sentinels' trash.
+Revealed card: Compounded Bow
+Mission Control puts Compounded Bow into play.
+Revealed card: Portable Dark-Lab
+Mission Control puts Portable Dark-Lab into play.
+Went from Freedom Tower's End phase to GloomWeaver's Start phase.
+Went from GloomWeaver's Start phase to PlayCard phase.
+GameController plays Sable Pin.
+GameController moved Sable Pin from the villain deck next to Chrono-Ranger.
+Went from GloomWeaver's PlayCard phase to End phase.
+GloomWeaver initiates 1 Lightning damage to GloomWeaver.
+Entry Point increases the damage dealt by GloomWeaver by 1.
+"By Any Means" increases the damage dealt by GloomWeaver by 1.
+Cortex Hyperstimulator reduces the damage dealt to GloomWeaver by GloomWeaver by 1.
+GloomWeaver deals GloomWeaver 2 Lightning damage.
+GloomWeaver is now at 3 HP.
+Chrono-Ranger uses the power on The Masadah.
+Chrono-Ranger initiates 4 Energy damage to GloomWeaver.
+"The Ultimate Target" increases the damage dealt by Chrono-Ranger by 1.
+"By Any Means" increases the damage dealt by Chrono-Ranger by 1.
+Hunter and Hunted increases the damage dealt by Chrono-Ranger by 4.
+Chrono-Ranger deals GloomWeaver 10 Energy damage.
+GloomWeaver is now at -7 HP.
+Sky-Scraper, Dr. Medico, Mainstay, The Idealist, Writhe, Chrono-Ranger and Writhe all defeated GloomWeaver! Congratulations!
+You just unlocked the promo card: Writhe: Cosmic Inventor!

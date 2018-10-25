@@ -1,0 +1,2611 @@
+GameView Start
+The Chairman moves 10 cards to the top of The Chairman's Trash.
+Went to The Chairman's Start phase.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays Prison Break.
+There are no underboss cards in the villain trash to put into play.
+GameController moved Prison Break to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Revealed matching card: The Muscle
+The Operative puts The Muscle into play.
+The Operative moves 0 cards to the top of The Chairman's Deck.
+The Chairman shuffles their the villain deck.
+The Muscle puts Enforcers into play.
+Enforcers initiates 5 Melee damage to Writhe.
+Enforcers deals Writhe 5 Melee damage.
+Writhe is now at 14 HP.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Umbral Siphon.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to The Operative.
+Writhe deals The Operative 1 Melee damage.
+The Operative is now at 44 HP.
+Applying ongoing effect: The Operative cannot gain HP.
+Writhe initiates 1 Infernal damage to The Operative.
+Writhe deals The Operative 1 Infernal damage.
+The Operative is now at 43 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Nowhere to Hide.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to PlayCard phase.
+GameController plays Making Things Up.
+Void Guard The Idealist draws Karate Robot.
+Void Guard The Idealist draws Flying Stabby Knives.
+Void Guard The Idealist draws Better Punching!.
+Void Guard The Idealist discards Flying Stabby Knives.
+Making Things Up moved Flying Stabby Knives from Void Guard The Idealist's hand to Void Guard The Idealist's trash.
+Void Guard The Idealist discards Sound Beating.
+Making Things Up moved Sound Beating from Void Guard The Idealist's hand to Void Guard The Idealist's trash.
+Making Things Up plays Karate Robot.
+Making Things Up plays Bright Idea.
+Void Guard The Idealist draws Karate Robot.
+Bright Idea puts Flying Stabby Knives into play.
+Bright Idea moved Sound Beating from Void Guard The Idealist's deck under Flying Stabby Knives.
+Bright Idea was moved under Flying Stabby Knives.
+GameController moved Making Things Up to Void Guard The Idealist's trash.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase.
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Bright Idea!
+GameController moved Bright Idea from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Sound Beating!
+GameController moved Sound Beating from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to The Operative.
+The Idealist deals The Operative 2 Psychic damage.
+The Operative is now at 41 HP.
+The Idealist initiates 2 Psychic damage to The Muscle.
+The Idealist deals The Muscle 2 Psychic damage.
+The Muscle is now at 6 HP.
+The Idealist initiates 2 Psychic damage to Enforcers.
+The Idealist deals Enforcers 2 Psychic damage.
+Enforcers is now at 4 HP.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase.
+Void Guard The Idealist draws Better Punching!.
+Went from Void Guard The Idealist's DrawCard phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Deployment Actuation.
+Revealed card: Auto-Targeting Protocol
+Revealed card: Deployment Actuation
+Revealed card: Overhaul Loadout
+Revealed card: Ally Matrix
+Revealed card: Intervening Path Calculator
+Revealed card: Overhaul Loadout
+Revealed card: Threat Neutralizer
+Revealed card: Intel Analyzer
+Revealed card: Fly-by
+Revealed matching card: Legion-core Processor
+Deployment Actuation puts Legion-core Processor into play.
+Deployment Actuation moved Auto-Targeting Protocol from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Deployment Actuation from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Overhaul Loadout from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Ally Matrix from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Intervening Path Calculator from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Overhaul Loadout from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Threat Neutralizer from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Intel Analyzer from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Fly-by from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Ally Matrix from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures tried to increase Benchmark: Supply and Demand's HP, but they are already at their maximum HP.
+Benchmark: Supply and Demand's Desperate Measures plays Subcutaneous Cybernetics.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Flash Installation Drive.
+Went from Benchmark's DrawCard phase to End phase.
+Subcutaneous Cybernetics tried to increase Benchmark: Supply and Demand's HP, but they are already at their maximum HP.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to PlayCard phase.
+GameController plays Focusing Conduit-Blade.
+Went from K.N.Y.F.E.'s PlayCard phase to UsePower phase.
+K.N.Y.F.E. uses the power on K.N.Y.F.E. Rogue Agent.
+Revealed card: Fight and Fade
+K.N.Y.F.E. Rogue Agent's Infiltration puts Fight and Fade into play.
+Writhe initiates 2 Infernal damage to The Operative.
+Writhe deals The Operative 2 Infernal damage.
+The Operative is now at 39 HP.
+Fight and Fade puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Fight and Fade plays Nowhere to Hide.
+Writhe initiates 3 Infernal damage to The Operative.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Operative 4 Infernal damage.
+The Operative is now at 35 HP.
+Applying ongoing effect: damage dealt to The Operative is irreducible.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to The Operative.
+Nowhere to Hide makes the damage irreducible.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Operative 2 Melee damage.
+The Operative is now at 33 HP.
+Applying ongoing effect: The Operative cannot gain HP.
+Writhe initiates 1 Infernal damage to The Operative.
+Nowhere to Hide makes the damage irreducible.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals The Operative 2 Infernal damage.
+The Operative is now at 31 HP.
+GameController moved Nowhere to Hide to Void Guard Writhe's trash.
+GameController moved Fight and Fade to Void Guard Writhe's trash.
+Went from K.N.Y.F.E.'s UsePower phase to DrawCard phase.
+K.N.Y.F.E. draws Focusing Conduit-Blade.
+Went from K.N.Y.F.E.'s DrawCard phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to PlayCard phase.
+GameController plays Critical Multiplier.
+Went from Parse's PlayCard phase to UsePower phase.
+Parse uses the power on Fugue State Parse.
+Fugue State Parse's Neural Processing plays Impossible Shot.
+Fugue State Parse initiates 3 Projectile damage to The Operative.
+Fugue State Parse deals The Operative 3 Projectile damage.
+The Operative is now at 28 HP.
+Parse draws Segmentation Fault.
+GameController moved Impossible Shot to Parse's trash.
+Went from Parse's UsePower phase to DrawCard phase.
+Parse draws Targeting Arrow.
+Went from Parse's DrawCard phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Magmarian Throng.
+Went from Magmaria's PlayCard phase to End phase.
+Revealed matching card: Inner Core Tunneler
+Magmarian Throng puts Inner Core Tunneler into play.
+Went from Magmaria's End phase to The Chairman's Start phase.
+The Muscle initiates 2 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by The Muscle by 1.
+The Muscle deals Writhe 1 Melee damage.
+Writhe is now at 13 HP.
+The Muscle initiates 2 Melee damage to The Idealist.
+The Muscle deals The Idealist 2 Melee damage.
+The Idealist is now at 22 HP.
+The Muscle initiates 2 Melee damage to Benchmark: Supply and Demand.
+The Muscle deals Benchmark: Supply and Demand 2 Melee damage.
+Benchmark: Supply and Demand is now at 27 HP.
+Benchmark discards Shunt Energy.
+Subcutaneous Cybernetics moved Shunt Energy from Benchmark's hand to Benchmark's trash.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 1 HP. HP is now 28.
+The Muscle initiates 2 Melee damage to K.N.Y.F.E. Rogue Agent.
+The Muscle deals K.N.Y.F.E. Rogue Agent 2 Melee damage.
+K.N.Y.F.E. Rogue Agent is now at 27 HP.
+The Muscle initiates 2 Melee damage to Fugue State Parse.
+The Muscle deals Fugue State Parse 2 Melee damage.
+Fugue State Parse is now at 25 HP.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays "Rook City is Mine!".
+"Rook City is Mine!" plays Fiery Crystallization.
+"Rook City is Mine!" plays Crystalloid Behemoth.
+Crystalloid Behemoth initiates 4 Melee damage to The Operative.
+Nowhere to Hide makes the damage irreducible.
+Crystalloid Behemoth deals The Operative 4 Melee damage.
+The Operative is now at 24 HP.
+Crystalloid Behemoth initiates 4 Melee damage to The Muscle.
+Crystalloid Behemoth deals The Muscle 4 Melee damage.
+The Muscle is now at 2 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Enforcers.
+Crystalloid Behemoth deals Enforcers 4 Melee damage.
+Enforcers is now at 0 HP.
+Crystalloid Behemoth destroys Enforcers!
+The Operative initiates 3 Melee damage to Benchmark: Supply and Demand.
+K.N.Y.F.E. discards Prototype Servo-Gauntlet.
+Inner Core Tunneler moved Prototype Servo-Gauntlet from K.N.Y.F.E.'s hand to K.N.Y.F.E.'s trash.
+Inner Core Tunneler redirects the damage dealt from Benchmark: Supply and Demand to Inner Core Tunneler.
+The Operative deals Inner Core Tunneler 3 Melee damage.
+Inner Core Tunneler is now at 9 HP.
+GameController moved Enforcers to the villain trash.
+***** LOADED UNDO FILE: undo-33-TheChairman-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 71.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 159
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays "Rook City is Mine!".
+"Rook City is Mine!" plays Fiery Crystallization.
+"Rook City is Mine!" plays Crystalloid Behemoth.
+Crystalloid Behemoth initiates 4 Melee damage to The Operative.
+Nowhere to Hide makes the damage irreducible.
+Crystalloid Behemoth deals The Operative 4 Melee damage.
+The Operative is now at 24 HP.
+Crystalloid Behemoth initiates 4 Melee damage to The Muscle.
+Crystalloid Behemoth deals The Muscle 4 Melee damage.
+The Muscle is now at 2 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Inner Core Tunneler.
+Crystalloid Behemoth deals Inner Core Tunneler 4 Melee damage.
+Inner Core Tunneler is now at 8 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Crystalloid Behemoth.
+Crystalloid Behemoth deals Crystalloid Behemoth 4 Melee damage.
+Crystalloid Behemoth is now at 7 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Enforcers.
+Crystalloid Behemoth deals Enforcers 4 Melee damage.
+Enforcers is now at 0 HP.
+Crystalloid Behemoth destroys Enforcers!
+The Operative initiates 3 Melee damage to Benchmark: Supply and Demand.
+K.N.Y.F.E. discards Focusing Conduit-Blade.
+Inner Core Tunneler moved Focusing Conduit-Blade from K.N.Y.F.E.'s hand to K.N.Y.F.E.'s trash.
+Inner Core Tunneler redirects the damage dealt from Benchmark: Supply and Demand to Inner Core Tunneler.
+The Operative deals Inner Core Tunneler 3 Melee damage.
+Inner Core Tunneler is now at 5 HP.
+GameController moved Enforcers to the villain trash.
+Crystalloid Behemoth initiates 4 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Writhe 3 Melee damage.
+Writhe is now at 10 HP.
+Crystalloid Behemoth initiates 4 Melee damage to The Idealist.
+Benchmark discards "Inferno" Missile Pod.
+Inner Core Tunneler moved "Inferno" Missile Pod from Benchmark's hand to Benchmark's trash.
+Inner Core Tunneler redirects the damage dealt from The Idealist to Inner Core Tunneler.
+Crystalloid Behemoth deals Inner Core Tunneler 4 Melee damage.
+Inner Core Tunneler is now at 1 HP.
+Crystalloid Behemoth initiates 4 Melee damage to K.N.Y.F.E. Rogue Agent.
+Crystalloid Behemoth deals K.N.Y.F.E. Rogue Agent 4 Melee damage.
+K.N.Y.F.E. Rogue Agent is now at 23 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Fugue State Parse.
+K.N.Y.F.E. discards Prototype Servo-Gauntlet.
+Inner Core Tunneler moved Prototype Servo-Gauntlet from K.N.Y.F.E.'s hand to K.N.Y.F.E.'s trash.
+Inner Core Tunneler redirects the damage dealt from Fugue State Parse to Inner Core Tunneler.
+Crystalloid Behemoth deals Inner Core Tunneler 4 Melee damage.
+Inner Core Tunneler is now at -3 HP.
+Crystalloid Behemoth destroys Inner Core Tunneler!
+GameController moved Inner Core Tunneler to the environment trash.
+Crystalloid Behemoth initiates 4 Melee damage to Benchmark: Supply and Demand.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 4 Melee damage.
+Benchmark: Supply and Demand is now at 24 HP.
+Crystalloid Behemoth initiates 4 Melee damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+GameController moved "Rook City is Mine!" to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Revealed matching card: The Contract
+The Operative puts The Contract into play.
+The Operative moves 0 cards to the top of The Chairman's Deck.
+The Chairman shuffles their the villain deck.
+The Muscle puts Enforcers into play.
+The Contract initiates 2 Projectile damage to Fugue State Parse.
+The Contract increases the damage dealt by The Contract by 1.
+The Contract deals Fugue State Parse 3 Projectile damage.
+Fugue State Parse is now at 22 HP.
+The Contract puts Hired Gun into play.
+Enforcers initiates 5 Melee damage to Writhe.
+The Contract increases the damage dealt by Enforcers by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Enforcers by 1.
+Enforcers deals Writhe 5 Melee damage.
+Writhe is now at 5 HP.
+***** LOADED UNDO FILE: undo-34-TheChairman-End *****
+Possible achievement: Base_CumulativeDamage, progress: 71.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 159
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Went from The Chairman's PlayCard phase to End phase.
+Revealed matching card: The Contract
+The Operative puts The Contract into play.
+The Operative moves 0 cards to the top of The Chairman's Deck.
+The Chairman shuffles their the villain deck.
+The Muscle puts Enforcers into play.
+The Contract initiates 2 Projectile damage to Fugue State Parse.
+The Contract increases the damage dealt by The Contract by 1.
+The Contract deals Fugue State Parse 3 Projectile damage.
+Fugue State Parse is now at 22 HP.
+The Contract puts Hired Gun into play.
+Void Guard Writhe discards Penultimate Penumbra.
+Enforcers moved Penultimate Penumbra from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Hired Gun initiates 2 Projectile damage to Writhe.
+The Contract increases the damage dealt by Hired Gun by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Hired Gun by 1.
+Hired Gun deals Writhe 2 Projectile damage.
+Writhe is now at 8 HP.
+Hired Gun initiates 2 Projectile damage to The Idealist.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals The Idealist 3 Projectile damage.
+The Idealist is now at 19 HP.
+Hired Gun initiates 2 Projectile damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals Benchmark: Supply and Demand 3 Projectile damage.
+Benchmark: Supply and Demand is now at 21 HP.
+Hired Gun initiates 2 Projectile damage to K.N.Y.F.E. Rogue Agent.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals K.N.Y.F.E. Rogue Agent 3 Projectile damage.
+K.N.Y.F.E. Rogue Agent is now at 20 HP.
+Hired Gun initiates 2 Projectile damage to Fugue State Parse.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals Fugue State Parse 3 Projectile damage.
+Fugue State Parse is now at 19 HP.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: damage dealt to The Operative is irreducible.
+Notice: an ongoing effect just expired: The Operative cannot gain HP.
+Notice: an ongoing effect just expired: The Operative cannot gain HP.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Cloak Projector.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Cloak Projector.
+Applying ongoing effect: Reduce damage dealt by The Operative by 1.
+Cloak Projector destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Writhe initiates 3 Infernal damage to The Operative.
+Writhe deals The Operative 3 Infernal damage.
+The Operative is now at 21 HP.
+Crystalloid Behemoth initiates 2 Fire damage to Writhe.
+The Contract increases the damage dealt by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Writhe 3 Fire damage.
+Writhe is now at 5 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Concealed Assailant.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to PlayCard phase.
+GameController plays Better Punching!.
+The Idealist initiates 1 Melee damage to The Operative.
+The Idealist deals The Operative 1 Melee damage.
+The Operative is now at 20 HP.
+***** LOADED UNDO FILE: undo-37-VoidGuardWrithe-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 72
+Possible achievement: Base_CumulativeHeal, progress: 159
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Void Guard Writhe uses the power on Cloak Projector.
+Applying ongoing effect: Reduce damage dealt by Crystalloid Behemoth by 1.
+Crystalloid Behemoth initiates 2 Fire damage to Writhe.
+The Contract increases the damage dealt by Crystalloid Behemoth by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Crystalloid Behemoth by 1.
+Cloak Projector reduces the damage dealt to Writhe by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Writhe 1 Fire damage.
+Writhe is now at 7 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Concealed Assailant.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to PlayCard phase.
+GameController plays Better Punching!.
+The Idealist initiates 1 Melee damage to The Operative.
+The Idealist deals The Operative 1 Melee damage.
+The Operative is now at 23 HP.
+Void Guard The Idealist uses the power on The Idealist.
+Void Guard The Idealist draws Vivid Thoughts.
+The Idealist moved Hedgy Hogs from Void Guard The Idealist's hand under Flying Stabby Knives.
+Crystalloid Behemoth initiates 2 Fire damage to The Idealist.
+The Contract increases the damage dealt by Crystalloid Behemoth by 1.
+Cloak Projector reduces the damage dealt to The Idealist by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals The Idealist 2 Fire damage.
+The Idealist is now at 17 HP.
+Better Punching! was moved under Flying Stabby Knives.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase.
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Better Punching!!
+GameController moved Better Punching! from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Hedgy Hogs!
+GameController moved Hedgy Hogs from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to The Operative.
+The Idealist deals The Operative 2 Psychic damage.
+The Operative is now at 21 HP.
+The Idealist initiates 2 Psychic damage to Crystalloid Behemoth.
+The Idealist deals Crystalloid Behemoth 2 Psychic damage.
+Crystalloid Behemoth is now at 5 HP.
+The Idealist initiates 2 Psychic damage to Hired Gun.
+The Idealist deals Hired Gun 2 Psychic damage.
+Hired Gun is now at 1 HP.
+Crystalloid Behemoth initiates 2 Fire damage to The Idealist.
+The Contract increases the damage dealt by Crystalloid Behemoth by 1.
+Cloak Projector reduces the damage dealt to The Idealist by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals The Idealist 2 Fire damage.
+The Idealist is now at 15 HP.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase.
+Void Guard The Idealist draws Bored Now.
+Went from Void Guard The Idealist's DrawCard phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Legion-core Processor moved Auto-Targeting Protocol from Benchmark's trash to Benchmark's hand.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Flash Installation Drive.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 22.
+Benchmark: Supply and Demand's Desperate Measures plays Ally Matrix.
+Crystalloid Behemoth initiates 2 Fire damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by Crystalloid Behemoth by 1.
+Cloak Projector reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 2 Fire damage.
+Benchmark: Supply and Demand is now at 20 HP.
+Benchmark discards Ally Matrix.
+Subcutaneous Cybernetics moved Ally Matrix from Benchmark's hand to Benchmark's trash.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 1 HP. HP is now 21.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Upgraded Memory Unit.
+Went from Benchmark's DrawCard phase to End phase.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 1 HP. HP is now 22.
+Flash Installation Drive moved Tactical Communicator from Benchmark's deck to Benchmark's trash.
+Flash Installation Drive puts Threat Neutralizer into play.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to PlayCard phase.
+GameController plays Incidental Contact.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Crystalloid Behemoth.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 3 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Crystalloid Behemoth.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 1 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Operative.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Operative 2 Energy damage.
+The Operative is now at 19 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Operative.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Operative 2 Energy damage.
+The Operative is now at 17 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Enforcers.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Enforcers 2 Energy damage.
+Enforcers is now at 4 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Enforcers.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Enforcers 2 Energy damage.
+Enforcers is now at 2 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Contract.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Contract 2 Energy damage.
+The Contract is now at 5 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Contract.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Contract 2 Energy damage.
+The Contract is now at 3 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Writhe.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Contract increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Writhe 2 Energy damage.
+Writhe is now at 5 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Idealist.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Contract increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Idealist 3 Energy damage.
+The Idealist is now at 12 HP.
+***** LOADED UNDO FILE: undo-51-Knyfe-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 73.6363636363636
+Possible achievement: Base_CumulativeHeal, progress: 160.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Incidental Contact.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Crystalloid Behemoth.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 3 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Crystalloid Behemoth.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 1 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Contract.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Contract 2 Energy damage.
+The Contract is now at 5 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Contract.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Contract 2 Energy damage.
+The Contract is now at 3 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Enforcers.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Enforcers 2 Energy damage.
+Enforcers is now at 4 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Enforcers.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Enforcers 2 Energy damage.
+Enforcers is now at 2 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Operative.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Operative 2 Energy damage.
+The Operative is now at 19 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Operative.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Operative 2 Energy damage.
+The Operative is now at 17 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Hired Gun.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Hired Gun 2 Energy damage.
+Hired Gun is now at -1 HP.
+K.N.Y.F.E. Rogue Agent's Infiltration destroys Hired Gun!
+The Operative initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by The Operative by 1.
+The Operative deals Benchmark: Supply and Demand 4 Melee damage.
+Benchmark: Supply and Demand is now at 18 HP.
+Benchmark discards Threat Neutralizer.
+Subcutaneous Cybernetics moved Threat Neutralizer from Benchmark's hand to Benchmark's trash.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 1 HP. HP is now 19.
+GameController moved Hired Gun to the villain trash.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Muscle.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Muscle 2 Energy damage.
+The Muscle is now at 0 HP.
+K.N.Y.F.E. Rogue Agent's Infiltration destroys The Muscle!
+The Operative initiates 3 Melee damage to K.N.Y.F.E. Rogue Agent.
+The Contract increases the damage dealt by The Operative by 1.
+The Operative deals K.N.Y.F.E. Rogue Agent 4 Melee damage.
+K.N.Y.F.E. Rogue Agent is now at 16 HP.
+GameController moved The Muscle to the villain trash.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Writhe.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Contract increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by K.N.Y.F.E. Rogue Agent by 1.
+Void Guard Writhe discards Sciamachy.
+The Shadow Cloak moved Sciamachy from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Incidental Contact was prevented by The Shadow Cloak.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to The Idealist.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Contract increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals The Idealist 3 Energy damage.
+The Idealist is now at 12 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Benchmark: Supply and Demand.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Contract increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Benchmark: Supply and Demand 3 Energy damage.
+Benchmark: Supply and Demand is now at 16 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to K.N.Y.F.E. Rogue Agent.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Contract increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals K.N.Y.F.E. Rogue Agent 3 Energy damage.
+K.N.Y.F.E. Rogue Agent is now at 13 HP.
+K.N.Y.F.E. Rogue Agent initiates 1 Energy damage to Fugue State Parse.
+Focusing Conduit-Blade increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+The Contract increases the damage dealt by K.N.Y.F.E. Rogue Agent by 1.
+K.N.Y.F.E. Rogue Agent deals Fugue State Parse 3 Energy damage.
+Fugue State Parse is now at 16 HP.
+GameController moved Incidental Contact to K.N.Y.F.E.'s trash.
+Went from K.N.Y.F.E.'s PlayCard phase to UsePower phase.
+K.N.Y.F.E. uses the power on K.N.Y.F.E. Rogue Agent.
+Revealed card: Cloak Projector
+K.N.Y.F.E. Rogue Agent's Infiltration puts Cloak Projector into play.
+Crystalloid Behemoth initiates 2 Fire damage to K.N.Y.F.E. Rogue Agent.
+The Contract increases the damage dealt by Crystalloid Behemoth by 1.
+Cloak Projector reduces the damage dealt to K.N.Y.F.E. Rogue Agent by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals K.N.Y.F.E. Rogue Agent 2 Fire damage.
+K.N.Y.F.E. Rogue Agent is now at 11 HP.
+Went from K.N.Y.F.E.'s UsePower phase to DrawCard phase.
+K.N.Y.F.E. draws Infiltrate and Obfuscate.
+Went from K.N.Y.F.E.'s DrawCard phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to PlayCard phase.
+GameController plays Recompile.
+Parse discards Segmentation Fault.
+Recompile moved Segmentation Fault from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Parse discards Targeting Arrow.
+Recompile moved Targeting Arrow from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Parse discards Reveal the Flaws.
+Recompile moved Reveal the Flaws from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Parse draws Critical Multiplier.
+Parse draws Quick Calculation.
+Parse draws Syntactic Analysis.
+Parse draws Data-Mining.
+Parse draws Critical Multiplier.
+Parse draws Data-Mining.
+GameController moved Recompile to Parse's trash.
+Went from Parse's PlayCard phase to UsePower phase.
+Parse uses the power on Fugue State Parse.
+Fugue State Parse's Neural Processing plays Snap Decision.
+Fugue State Parse's Neural Processing plays Erratic Form.
+Crystalloid Behemoth initiates 2 Fire damage to Fugue State Parse.
+The Contract increases the damage dealt by Crystalloid Behemoth by 1.
+Cloak Projector reduces the damage dealt to Fugue State Parse by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Fugue State Parse 2 Fire damage.
+Fugue State Parse is now at 14 HP.
+Went from Parse's UsePower phase to DrawCard phase.
+Parse draws Quick Calculation.
+Went from Parse's DrawCard phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Crystalloid Behemoth.
+Crystalloid Behemoth initiates 4 Melee damage to Crystalloid Behemoth.
+Crystalloid Behemoth deals Crystalloid Behemoth 4 Melee damage.
+Crystalloid Behemoth is now at -3 HP.
+Crystalloid Behemoth destroys Crystalloid Behemoth!
+GameController moved Crystalloid Behemoth to Benchmark's hand.
+Crystalloid Behemoth initiates 4 Melee damage to The Operative.
+Crystalloid Behemoth deals The Operative 4 Melee damage.
+The Operative is now at 13 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Crystalloid Behemoth.
+Crystalloid Behemoth deals Crystalloid Behemoth 4 Melee damage.
+Crystalloid Behemoth is now at 7 HP.
+Crystalloid Behemoth initiates 4 Melee damage to The Contract.
+Crystalloid Behemoth deals The Contract 4 Melee damage.
+The Contract is now at -1 HP.
+Crystalloid Behemoth destroys The Contract!
+The Operative initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 13 HP.
+Benchmark discards Auto-Targeting Protocol.
+Subcutaneous Cybernetics moved Auto-Targeting Protocol from Benchmark's hand to Benchmark's trash.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 1 HP. HP is now 14.
+GameController moved The Contract to the villain trash.
+Crystalloid Behemoth initiates 4 Melee damage to Enforcers.
+Crystalloid Behemoth deals Enforcers 4 Melee damage.
+Enforcers is now at -2 HP.
+Crystalloid Behemoth destroys Enforcers!
+The Operative initiates 3 Melee damage to Fugue State Parse.
+The Operative deals Fugue State Parse 3 Melee damage.
+Fugue State Parse is now at 11 HP.
+GameController moved Enforcers to the villain trash.
+Crystalloid Behemoth initiates 4 Melee damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystalloid Behemoth initiates 4 Melee damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Crystalloid Behemoth by 1.
+Void Guard Writhe discards Concealed Assailant.
+The Shadow Cloak moved Concealed Assailant from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Crystalloid Behemoth was prevented by The Shadow Cloak.
+Crystalloid Behemoth initiates 4 Melee damage to The Idealist.
+Crystalloid Behemoth deals The Idealist 4 Melee damage.
+The Idealist is now at 8 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Benchmark: Supply and Demand.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 4 Melee damage.
+Benchmark: Supply and Demand is now at 10 HP.
+Crystalloid Behemoth initiates 4 Melee damage to K.N.Y.F.E. Rogue Agent.
+Crystalloid Behemoth deals K.N.Y.F.E. Rogue Agent 4 Melee damage.
+K.N.Y.F.E. Rogue Agent is now at 7 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Fugue State Parse.
+Crystalloid Behemoth deals Fugue State Parse 4 Melee damage.
+Fugue State Parse is now at 7 HP.
+Went from Magmaria's PlayCard phase to End phase.
+Revealed card: Crystalloid Behemoth
+Revealed card: Smoldering Crystal
+Revealed matching card: Stone Shaper
+Magmarian Throng puts Stone Shaper into play.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Benchmark discards Crystalloid Behemoth.
+Stone Shaper moved Crystalloid Behemoth from Benchmark's hand to the environment trash.
+Applying ongoing effect: Reduce damage dealt to Writhe by 1.
+Went from Magmaria's End phase to The Chairman's Start phase.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays "Rook City is Mine!".
+"Rook City is Mine!" plays Crystal Collector.
+"Rook City is Mine!" plays Magmarian Throng.
+GameController moved "Rook City is Mine!" to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Revealed card: Perfect Human Specimens
+Revealed card: Undivided Attention
+Revealed card: Perfect Human Specimens
+Revealed card: Undivided Attention
+Revealed card: Prison Break
+Revealed matching card: The Deputy
+The Operative puts The Deputy into play.
+The Operative moves 5 cards to the top of The Chairman's Deck.
+The Chairman shuffles their the villain deck.
+The Deputy puts Crooked Cop into play.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to UsePower phase.
+Void Guard Writhe did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. (Count: 2)
+Void Guard Writhe draws Lurking Shadows.
+Void Guard Writhe draws Unquiet Night.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to PlayCard phase.
+GameController plays Vivid Thoughts.
+Revealed card: Making Things Up
+Revealed card: Bored Now
+Revealed card: Bright Idea
+Vivid Thoughts puts Bright Idea into play.
+Void Guard The Idealist draws Spark of Inspiration.
+Bright Idea was moved under Flying Stabby Knives.
+Vivid Thoughts moved Making Things Up from Void Guard The Idealist's revealed cards to Void Guard The Idealist's hand.
+Vivid Thoughts moved Bored Now from Void Guard The Idealist's revealed cards to Void Guard The Idealist's hand.
+GameController moved Vivid Thoughts to Void Guard The Idealist's trash.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase.
+***** LOADED UNDO FILE: undo-71-VoidGuardTheIdealist-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 74.3636363636364
+Possible achievement: Base_CumulativeHeal, progress: 161.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Better Punching!.
+The Idealist initiates 1 Melee damage to The Operative.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+The Idealist deals The Operative 1 Melee damage.
+The Operative is now at 12 HP.
+Void Guard The Idealist uses the power on Karate Robot.
+The Idealist initiates 1 Melee damage to The Operative.
+Better Punching! makes the damage irreducible.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+The Idealist deals The Operative 1 Melee damage.
+The Operative is now at 11 HP.
+The Idealist initiates 1 Psychic damage to The Operative.
+Better Punching! makes the damage irreducible.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+The Idealist deals The Operative 1 Psychic damage.
+The Operative is now at 10 HP.
+Crystalloid Behemoth initiates 2 Fire damage to The Idealist.
+Crystalloid Behemoth deals The Idealist 2 Fire damage.
+The Idealist is now at 6 HP.
+Better Punching! was moved under Flying Stabby Knives.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase.
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Better Punching!!
+GameController moved Better Punching! from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to Crooked Cop.
+The Idealist deals Crooked Cop 2 Psychic damage.
+Crooked Cop is now at 3 HP.
+The Idealist initiates 2 Psychic damage to Crystalloid Behemoth.
+The Idealist deals Crystalloid Behemoth 2 Psychic damage.
+Crystalloid Behemoth is now at 5 HP.
+Crystalloid Behemoth initiates 2 Fire damage to The Idealist.
+Crystalloid Behemoth deals The Idealist 2 Fire damage.
+The Idealist is now at 4 HP.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase.
+Void Guard The Idealist draws Making Things Up.
+Went from Void Guard The Idealist's DrawCard phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark uses the power on Ally Matrix.
+Benchmark discards Upgraded Memory Unit.
+Ally Matrix moved Upgraded Memory Unit from Benchmark's hand to Benchmark's trash.
+Parse draws Exploit Vulnerability.
+Parse uses the power on Fugue State Parse.
+Fugue State Parse's Neural Processing plays Segmentation Fault.
+***** LOADED UNDO FILE: undo-75-Benchmark-Start *****
+Possible achievement: Base_CumulativeDamage, progress: 74.3636363636364
+Possible achievement: Base_CumulativeHeal, progress: 161.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 11.
+Benchmark: Supply and Demand's Desperate Measures plays Reinforced Chassis.
+Crystalloid Behemoth initiates 2 Fire damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 1 Fire damage.
+Benchmark: Supply and Demand is now at 10 HP.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Upgraded Memory Unit.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Threat Neutralizer.
+Threat Neutralizer destroys Crystalloid Behemoth!
+GameController moved Crystalloid Behemoth to Benchmark's hand.
+Threat Neutralizer destroys itself!
+GameController moved Threat Neutralizer to Benchmark's trash.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Micro Fabricator.
+Went from Benchmark's DrawCard phase to End phase.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 12.
+Flash Installation Drive moved Multi-Point H.U.D. from Benchmark's deck to Benchmark's trash.
+Flash Installation Drive puts Threat Neutralizer into play.
+Benchmark draws Multi-Point H.U.D..
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to PlayCard phase.
+GameController plays Infiltrate and Obfuscate.
+Went from K.N.Y.F.E.'s PlayCard phase to UsePower phase.
+K.N.Y.F.E. uses the power on K.N.Y.F.E. Rogue Agent.
+Revealed card: Lies of the Shadows
+K.N.Y.F.E. Rogue Agent's Infiltration puts Lies of the Shadows into play.
+Went from K.N.Y.F.E.'s UsePower phase to DrawCard phase.
+K.N.Y.F.E. draws Focusing Conduit-Blade.
+Went from K.N.Y.F.E.'s DrawCard phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Parse discards Data-Mining.
+Snap Decision moved Data-Mining from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Snap Decision plays Critical Multiplier.
+Went from Parse's Start phase to PlayCard phase.
+GameController plays Critical Multiplier.
+Went from Parse's PlayCard phase to UsePower phase.
+Parse uses the power on Fugue State Parse.
+Fugue State Parse's Neural Processing plays Segmentation Fault.
+Fugue State Parse's Neural Processing plays Somber Tinker.
+Void Guard Writhe draws Somber Tinker.
+GameController moved Somber Tinker to Void Guard Writhe's trash.
+Went from Parse's UsePower phase to DrawCard phase.
+Parse draws Exploit Vulnerability.
+Went from Parse's DrawCard phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Writhe by 1.
+Stone Shaper initiates 2 Fire damage to Crooked Cop.
+Stone Shaper deals Crooked Cop 2 Fire damage.
+Crooked Cop is now at 1 HP.
+Stone Shaper initiates 2 Fire damage to The Deputy.
+Crooked Cop reduces the damage dealt to The Deputy by Stone Shaper by 1.
+Stone Shaper deals The Deputy 1 Fire damage.
+The Deputy is now at 8 HP.
+Stone Shaper initiates 2 Fire damage to The Operative.
+Crooked Cop reduces the damage dealt to The Operative by Stone Shaper by 1.
+Stone Shaper deals The Operative 1 Fire damage.
+The Operative is now at 9 HP.
+Stone Shaper initiates 2 Fire damage to Crystal Collector.
+Crystal Collector made Crystal Collector immune to damage.
+Damage amount was 0, so no damage was dealt.
+Stone Shaper initiates 2 Fire damage to Stone Shaper.
+Stone Shaper made Stone Shaper immune to damage.
+Damage amount was 0, so no damage was dealt.
+Stone Shaper initiates 2 Fire damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Stone Shaper initiates 2 Fire damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Stone Shaper by 1.
+Stone Shaper deals Writhe 1 Fire damage.
+Writhe is now at 6 HP.
+Stone Shaper initiates 2 Fire damage to The Idealist.
+Stone Shaper deals The Idealist 2 Fire damage.
+The Idealist is now at 2 HP.
+Stone Shaper initiates 2 Fire damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Stone Shaper by 1.
+Stone Shaper deals Benchmark: Supply and Demand 1 Fire damage.
+Benchmark: Supply and Demand is now at 11 HP.
+Benchmark discards Multi-Point H.U.D..
+Subcutaneous Cybernetics moved Multi-Point H.U.D. from Benchmark's hand to Benchmark's trash.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 13.
+Stone Shaper initiates 2 Fire damage to K.N.Y.F.E. Rogue Agent.
+Infiltrate and Obfuscate redirects the damage dealt from K.N.Y.F.E. Rogue Agent to The Operative.
+Crooked Cop reduces the damage dealt to The Operative by Stone Shaper by 1.
+Stone Shaper deals The Operative 1 Fire damage.
+The Operative is now at 8 HP.
+Stone Shaper initiates 2 Fire damage to Fugue State Parse.
+Stone Shaper deals Fugue State Parse 2 Fire damage.
+Fugue State Parse is now at 5 HP.
+Fiery Crystallization will destroy 2 equipment cards.
+Fiery Crystallization destroys Focusing Conduit-Blade!
+GameController moved Focusing Conduit-Blade to K.N.Y.F.E.'s trash.
+Focusing Conduit-Blade plays Focusing Conduit-Blade.
+Fiery Crystallization destroys Focusing Conduit-Blade!
+GameController moved Focusing Conduit-Blade to K.N.Y.F.E.'s trash.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Smoldering Crystal.
+Went from Magmaria's PlayCard phase to End phase.
+Revealed card: Smoldering Crystal
+Revealed matching card: Seismic Defender
+Magmarian Throng puts Seismic Defender into play.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Benchmark discards Crystalloid Behemoth.
+Stone Shaper moved Crystalloid Behemoth from Benchmark's hand to the environment trash.
+Applying ongoing effect: Reduce damage dealt to The Idealist by 1.
+Benchmark discards Micro Fabricator.
+Crystal Collector moved Micro Fabricator from Benchmark's hand to Benchmark's trash.
+Benchmark draws Intel Analyzer.
+Benchmark draws Overhaul Loadout.
+Benchmark draws Onboard Cooling Systems.
+Revealed card: Fiery Crystallization
+Revealed matching card: Ember Shaman
+Magmarian Throng puts Ember Shaman into play.
+Magmarian Throng moved Fiery Crystallization from Magmaria's revealed cards to the environment trash.
+Smoldering Crystal initiates 3 Fire damage to Benchmark: Supply and Demand.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Smoldering Crystal by 1.
+Smoldering Crystal deals Benchmark: Supply and Demand 2 Fire damage.
+Benchmark: Supply and Demand is now at 11 HP.
+Smoldering Crystal was moved to Benchmark's hand.
+Benchmark discards Smoldering Crystal.
+Seismic Defender moved Smoldering Crystal from Benchmark's hand to the environment trash.
+Seismic Defender initiates 3 Melee damage to The Operative.
+Crooked Cop reduces the damage dealt to The Operative by Seismic Defender by 1.
+Seismic Defender deals The Operative 2 Melee damage.
+The Operative is now at 6 HP.
+Seismic Defender initiates 3 Fire damage to The Operative.
+Crooked Cop reduces the damage dealt to The Operative by Seismic Defender by 1.
+Seismic Defender deals The Operative 2 Fire damage.
+The Operative is now at 4 HP.
+Benchmark discards Onboard Cooling Systems.
+Ember Shaman moved Onboard Cooling Systems from Benchmark's hand to Benchmark's trash.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 13.
+Benchmark: Supply and Demand's Desperate Measures plays Load on Initialization.
+Went from Magmaria's End phase to The Chairman's Start phase.
+The Deputy caused Crooked Cop to regain 3 HP. HP is now 4.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays Prison Break.
+Prison Break takes all of the underboss cards from the villain trash and puts them into play!
+Prison Break puts The Contract into play.
+Prison Break puts The Muscle into play.
+GameController moved Prison Break to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Revealed card: Undivided Attention
+Revealed card: Perfect Human Specimens
+Revealed matching card: The Broker
+The Operative puts The Broker into play.
+The Operative moves 2 cards to the top of The Chairman's Deck.
+The Chairman shuffles their the villain deck.
+The Deputy puts Crooked Cop into play.
+The Contract initiates 2 Projectile damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by The Contract by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Contract by 1.
+The Contract deals Benchmark: Supply and Demand 2 Projectile damage.
+Benchmark: Supply and Demand is now at 11 HP.
+Benchmark discards Intel Analyzer.
+Subcutaneous Cybernetics moved Intel Analyzer from Benchmark's hand to Benchmark's trash.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 13.
+The Contract puts Hired Gun into play.
+The Muscle puts Enforcers into play.
+The Broker puts Informant into play.
+Hired Gun initiates 2 Projectile damage to The Idealist.
+Lies of the Shadows destroys The Shadow Cloak!
+Void Guard Writhe draws Erratic Form.
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Lies of the Shadows redirects the damage dealt from The Idealist to Informant.
+Hired Gun deals Informant 2 Projectile damage.
+Informant is now at 0 HP.
+Hired Gun destroys Informant!
+The Operative initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by The Operative by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Operative by 1.
+The Operative deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 10 HP.
+GameController moved Informant to the villain trash.
+Hired Gun initiates 2 Projectile damage to Writhe.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals Writhe 3 Projectile damage.
+Writhe is now at 3 HP.
+Hired Gun initiates 2 Projectile damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by Hired Gun by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Hired Gun by 1.
+Hired Gun deals Benchmark: Supply and Demand 2 Projectile damage.
+Benchmark: Supply and Demand is now at 8 HP.
+Hired Gun initiates 2 Projectile damage to K.N.Y.F.E. Rogue Agent.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals K.N.Y.F.E. Rogue Agent 3 Projectile damage.
+K.N.Y.F.E. Rogue Agent is now at 4 HP.
+Hired Gun initiates 2 Projectile damage to Fugue State Parse.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals Fugue State Parse 3 Projectile damage.
+Fugue State Parse is now at 2 HP.
+Parse discards Quick Calculation.
+Enforcers moved Quick Calculation from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to PlayCard phase.
+GameController plays Somber Tinker.
+Void Guard Writhe draws Distorted Perception.
+Somber Tinker moved The Shadow Cloak from Void Guard Writhe's trash to Void Guard Writhe's hand.
+Somber Tinker plays The Shadow Cloak.
+GameController moved Somber Tinker to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to The Operative.
+Critical Multiplier increases the damage dealt by Writhe by 7.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Crooked Cop reduces the damage dealt to The Operative by Writhe by 1.
+Crooked Cop reduces the damage dealt to The Operative by Writhe by 1.
+Writhe deals The Operative 7 Melee damage.
+The Operative is now at -3 HP.
+Applying ongoing effect: The Operative cannot gain HP.
+The Operative was flipped to its back side.
+The Operative is no longer a target.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase.
+Void Guard Writhe draws Unnerving Target.
+Went from Void Guard Writhe's DrawCard phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to PlayCard phase.
+GameController plays Vivid Thoughts.
+Revealed card: Bored Now
+Revealed card: Bright Idea
+Revealed card: Spark of Inspiration
+Vivid Thoughts puts Spark of Inspiration into play.
+Spark of Inspiration caused The Idealist to regain 1 HP. HP is now 3.
+The Idealist initiates 1 Psychic damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+The Idealist initiates 1 Psychic damage to Crooked Cop.
+The Idealist deals Crooked Cop 1 Psychic damage.
+Crooked Cop is now at 3 HP.
+The Idealist initiates 1 Psychic damage to Crooked Cop.
+The Idealist deals Crooked Cop 1 Psychic damage.
+Crooked Cop is now at 4 HP.
+The Idealist initiates 1 Psychic damage to Enforcers.
+The Idealist deals Enforcers 1 Psychic damage.
+Enforcers is now at 5 HP.
+The Idealist initiates 1 Psychic damage to Hired Gun.
+The Idealist deals Hired Gun 1 Psychic damage.
+Hired Gun is now at 2 HP.
+The Idealist initiates 1 Psychic damage to The Broker.
+Crooked Cop reduces the damage dealt to The Broker by The Idealist by 1.
+Crooked Cop reduces the damage dealt to The Broker by The Idealist by 1.
+Damage amount was 0, so no damage was dealt.
+The Idealist initiates 1 Psychic damage to The Contract.
+Crooked Cop reduces the damage dealt to The Contract by The Idealist by 1.
+Crooked Cop reduces the damage dealt to The Contract by The Idealist by 1.
+Damage amount was 0, so no damage was dealt.
+The Idealist initiates 1 Psychic damage to The Deputy.
+Crooked Cop reduces the damage dealt to The Deputy by The Idealist by 1.
+Crooked Cop reduces the damage dealt to The Deputy by The Idealist by 1.
+Damage amount was 0, so no damage was dealt.
+The Idealist initiates 1 Psychic damage to The Muscle.
+Crooked Cop reduces the damage dealt to The Muscle by The Idealist by 1.
+Crooked Cop reduces the damage dealt to The Muscle by The Idealist by 1.
+Damage amount was 0, so no damage was dealt.
+The Idealist initiates 1 Psychic damage to Crystal Collector.
+The Idealist deals Crystal Collector 1 Psychic damage.
+Crystal Collector is now at 5 HP.
+The Idealist initiates 1 Psychic damage to Ember Shaman.
+The Idealist deals Ember Shaman 1 Psychic damage.
+Ember Shaman is now at 3 HP.
+The Idealist initiates 1 Psychic damage to Seismic Defender.
+The Idealist deals Seismic Defender 1 Psychic damage.
+Seismic Defender is now at 9 HP.
+The Idealist initiates 1 Psychic damage to Stone Shaper.
+The Idealist deals Stone Shaper 1 Psychic damage.
+Stone Shaper is now at 7 HP.
+Void Guard The Idealist draws Spark of Inspiration.
+Spark of Inspiration was moved under Flying Stabby Knives.
+Vivid Thoughts puts Bright Idea into play.
+Void Guard The Idealist draws Making Things Up.
+Bright Idea was moved under Flying Stabby Knives.
+Vivid Thoughts moved Bored Now from Void Guard The Idealist's revealed cards to Void Guard The Idealist's hand.
+GameController moved Vivid Thoughts to Void Guard The Idealist's trash.
+Went from Void Guard The Idealist's PlayCard phase to UsePower phase.
+Void Guard The Idealist uses the power on Flying Stabby Knives.
+Flying Stabby Knives destroys Bright Idea!
+GameController moved Bright Idea from under Flying Stabby Knives to Void Guard The Idealist's trash.
+Flying Stabby Knives destroys Spark of Inspiration!
+GameController moved Spark of Inspiration from under Flying Stabby Knives to Void Guard The Idealist's trash.
+The Idealist initiates 2 Psychic damage to Crooked Cop.
+The Idealist deals Crooked Cop 2 Psychic damage.
+Crooked Cop is now at 1 HP.
+The Idealist initiates 2 Psychic damage to Crooked Cop.
+The Idealist deals Crooked Cop 2 Psychic damage.
+Crooked Cop is now at 2 HP.
+The Idealist initiates 2 Psychic damage to Hired Gun.
+The Idealist deals Hired Gun 2 Psychic damage.
+Hired Gun is now at 0 HP.
+The Idealist's Wild Imagination destroys Hired Gun!
+GameController moved Hired Gun to the villain trash.
+Went from Void Guard The Idealist's UsePower phase to DrawCard phase.
+Void Guard The Idealist draws Flying Stabby Knives.
+Went from Void Guard The Idealist's DrawCard phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 10.
+Benchmark: Supply and Demand's Desperate Measures plays Shunt Energy.
+Benchmark draws Deployment Actuation.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Deployment Actuation.
+Revealed card: Fly-by
+Revealed card: Countermeasures
+Revealed matching card: Secondary Cannon
+Deployment Actuation puts Secondary Cannon into play.
+Deployment Actuation moved Fly-by from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Countermeasures from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Countermeasures from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Shunt Energy.
+Benchmark: Supply and Demand initiates 1 Energy damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by Benchmark: Supply and Demand by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Benchmark: Supply and Demand 1 Energy damage.
+Benchmark: Supply and Demand is now at 9 HP.
+Benchmark discards Overhaul Loadout.
+Subcutaneous Cybernetics moved Overhaul Loadout from Benchmark's hand to Benchmark's trash.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 11.
+***** LOADED UNDO FILE: undo-108-Benchmark-UsePower *****
+Possible achievement: Base_CumulativeDamage, progress: 74.3636363636364
+Possible achievement: Base_CumulativeHeal, progress: 168.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Benchmark uses the power on Ally Matrix.
+Benchmark discards Overhaul Loadout.
+Ally Matrix moved Overhaul Loadout from Benchmark's hand to Benchmark's trash.
+K.N.Y.F.E. draws For the Greater Good.
+K.N.Y.F.E. uses the power on K.N.Y.F.E. Rogue Agent.
+Revealed card: Nowhere to Hide
+K.N.Y.F.E. Rogue Agent's Infiltration puts Nowhere to Hide into play.
+Writhe initiates 3 Infernal damage to The Deputy.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+Writhe deals The Deputy 4 Infernal damage.
+The Deputy is now at 4 HP.
+Applying ongoing effect: damage dealt to The Deputy is irreducible.
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to The Deputy.
+Nowhere to Hide makes the damage irreducible.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+Writhe deals The Deputy 2 Melee damage.
+The Deputy is now at 2 HP.
+Applying ongoing effect: The Deputy cannot gain HP.
+Writhe initiates 1 Infernal damage to The Deputy.
+Nowhere to Hide makes the damage irreducible.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+Crooked Cop cannot reduce the damage, because it is irreducible.
+Writhe deals The Deputy 2 Infernal damage.
+The Deputy is now at 0 HP.
+Writhe's Sink into Shadow destroys The Deputy!
+GameController moved The Deputy to the villain trash.
+GameController moved Nowhere to Hide to Void Guard Writhe's trash.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Load on Initialization.
+Went from Benchmark's DrawCard phase to End phase.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 12.
+Flash Installation Drive moved Fly-by from Benchmark's deck to Benchmark's trash.
+Flash Installation Drive puts Auto-Targeting Protocol into play.
+Benchmark draws Fly-by.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to PlayCard phase.
+Went from K.N.Y.F.E.'s PlayCard phase to UsePower phase.
+K.N.Y.F.E. uses the power on K.N.Y.F.E. Rogue Agent.
+Revealed card: Sciamachy
+K.N.Y.F.E. Rogue Agent's Infiltration puts Sciamachy into play.
+Enforcers initiates 1 Psychic damage to Enforcers.
+Enforcers deals Enforcers 1 Psychic damage.
+Enforcers is now at 4 HP.
+Enforcers initiates 1 Melee damage to Enforcers.
+Enforcers deals Enforcers 1 Melee damage.
+Enforcers is now at 3 HP.
+Sciamachy plays Unnerving Target.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+GameController moved Sciamachy to Void Guard Writhe's trash.
+Went from K.N.Y.F.E.'s UsePower phase to DrawCard phase.
+K.N.Y.F.E. draws Wrecking Uppercut.
+Went from K.N.Y.F.E.'s DrawCard phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Parse discards Data-Mining.
+Snap Decision moved Data-Mining from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Snap Decision plays Syntactic Analysis.
+Revealed card: Portable Dark-Lab
+Revealed card: Swallowed by Shadow
+Syntactic Analysis plays Portable Dark-Lab.
+Syntactic Analysis plays Swallowed by Shadow.
+Swallowed by Shadow destroys Enforcers!
+GameController moved Enforcers to the villain trash.
+Swallowed by Shadow destroys The Shadow Cloak!
+Void Guard Writhe draws Swallowed by Shadow.
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Swallowed by Shadow destroys Crooked Cop!
+GameController moved Crooked Cop to the villain trash.
+GameController moved Swallowed by Shadow to Void Guard Writhe's trash.
+GameController moved Syntactic Analysis to Parse's trash.
+Went from Parse's Start phase to PlayCard phase.
+GameController plays Exploit Vulnerability.
+Went from Parse's PlayCard phase to UsePower phase.
+Parse uses the power on Fugue State Parse.
+Fugue State Parse's Neural Processing plays Recompile.
+Parse discards Quick Calculation.
+Recompile moved Quick Calculation from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Parse discards Extrasensory Awareness.
+Recompile moved Extrasensory Awareness from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Parse draws Recompile.
+Parse draws Quick Calculation.
+Parse draws Targeting Arrow.
+Parse draws Reveal the Flaws.
+GameController moved Recompile to Parse's trash.
+Fugue State Parse's Neural Processing plays Portable Dark-Lab.
+Went from Parse's UsePower phase to DrawCard phase.
+Parse draws Targeting Arrow.
+Went from Parse's DrawCard phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Idealist by 1.
+Seismic Defender initiates 4 Fire damage to Crooked Cop.
+Seismic Defender deals Crooked Cop 4 Fire damage.
+Crooked Cop is now at -3 HP.
+Seismic Defender destroys Crooked Cop!
+GameController moved Crooked Cop to the villain trash.
+Seismic Defender initiates 4 Fire damage to The Broker.
+Seismic Defender deals The Broker 4 Fire damage.
+The Broker is now at 1 HP.
+Seismic Defender initiates 4 Fire damage to The Muscle.
+Seismic Defender deals The Muscle 4 Fire damage.
+The Muscle is now at 4 HP.
+Seismic Defender initiates 4 Fire damage to The Contract.
+Seismic Defender deals The Contract 4 Fire damage.
+The Contract is now at 3 HP.
+Seismic Defender initiates 4 Fire damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Seismic Defender initiates 4 Fire damage to Writhe.
+The Contract increases the damage dealt by Seismic Defender by 1.
+Seismic Defender deals Writhe 5 Fire damage.
+Writhe is now at -2 HP.
+Writhe is no longer a target.
+All of Void Guard Writhe's cards are removed from the game.
+GameController moves 40 cards to the top of Void Guard Writhe's OutOfGame.
+Writhe was flipped to its back side.
+Seismic Defender initiates 4 Fire damage to The Idealist.
+The Contract increases the damage dealt by Seismic Defender by 1.
+Seismic Defender deals The Idealist 5 Fire damage.
+The Idealist is now at -2 HP.
+The Idealist is no longer a target.
+All of Void Guard The Idealist's cards are removed from the game.
+GameController moves 40 cards to the top of Void Guard The Idealist's OutOfGame.
+The Idealist was flipped to its back side.
+***** LOADED UNDO FILE: undo-116-Parse-Start *****
+Possible achievement: Base_CumulativeDamage, progress: 74.9090909090909
+Possible achievement: Base_CumulativeHeal, progress: 169.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Parse discards Quick Calculation.
+Snap Decision moved Quick Calculation from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Snap Decision plays Data-Mining.
+Data-Mining destroys Fiery Crystallization!
+GameController moved Fiery Crystallization to the environment trash.
+GameController moved Data-Mining to Parse's trash.
+Went from Parse's Start phase to PlayCard phase.
+GameController plays Exploit Vulnerability.
+Went from Parse's PlayCard phase to UsePower phase.
+Parse uses the power on Fugue State Parse.
+Fugue State Parse's Neural Processing plays Recompile.
+Parse discards Syntactic Analysis.
+Recompile moved Syntactic Analysis from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Parse discards Extrasensory Awareness.
+Recompile moved Extrasensory Awareness from Parse's hand to Parse's trash.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Applying ongoing effect: Increase the next damage dealt by Writhe by 1.
+Parse draws Recompile.
+Parse draws Quick Calculation.
+Parse draws Targeting Arrow.
+Parse draws Reveal the Flaws.
+GameController moved Recompile to Parse's trash.
+Fugue State Parse's Neural Processing plays Portable Dark-Lab.
+Went from Parse's UsePower phase to DrawCard phase.
+Parse draws Targeting Arrow.
+Went from Parse's DrawCard phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Idealist by 1.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController moves 9 cards to the top of Magmaria's Deck.
+Magmaria shuffles their the environment deck.
+GameController plays Smoldering Crystal.
+Went from Magmaria's PlayCard phase to End phase.
+Revealed matching card: Inner Core Tunneler
+Magmarian Throng puts Inner Core Tunneler into play.
+Applying ongoing effect: Increase damage dealt to Inner Core Tunneler by 1.
+Revealed card: Crystalloid Behemoth
+Revealed card: Crystalloid Behemoth
+Revealed card: Fiery Crystallization
+Revealed card: Smoldering Crystal
+Revealed card: Fiery Crystallization
+Revealed card: Smoldering Crystal
+Revealed card: Crystalloid Behemoth
+Ran out of cards to reveal.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Fiery Crystallization from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Fiery Crystallization from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng destroys itself!
+GameController moved Magmarian Throng to the environment trash.
+Smoldering Crystal initiates 3 Fire damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by Smoldering Crystal by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Smoldering Crystal by 1.
+Smoldering Crystal deals Benchmark: Supply and Demand 3 Fire damage.
+Benchmark: Supply and Demand is now at 9 HP.
+Benchmark discards Load on Initialization.
+Subcutaneous Cybernetics moved Load on Initialization from Benchmark's hand to Benchmark's trash.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 11.
+Smoldering Crystal was moved to Benchmark's hand.
+Went from Magmaria's End phase to The Chairman's Start phase.
+The Muscle initiates 2 Melee damage to Writhe.
+The Contract increases the damage dealt by The Muscle by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by The Muscle by 1.
+The Muscle deals Writhe 2 Melee damage.
+Writhe is now at 1 HP.
+The Muscle initiates 2 Psychic damage to The Muscle.
+Crooked Cop reduces the damage dealt to The Muscle by The Muscle by 1.
+Crooked Cop reduces the damage dealt to The Muscle by The Muscle by 1.
+Damage amount was 0, so no damage was dealt.
+The Muscle initiates 2 Melee damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by The Muscle by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Muscle by 1.
+The Muscle deals Benchmark: Supply and Demand 2 Melee damage.
+Benchmark: Supply and Demand is now at 9 HP.
+The Muscle initiates 2 Melee damage to The Idealist.
+Benchmark discards Smoldering Crystal.
+Inner Core Tunneler moved Smoldering Crystal from Benchmark's hand to the environment trash.
+Inner Core Tunneler redirects the damage dealt from The Idealist to Inner Core Tunneler.
+Exploit Vulnerability increases the damage dealt by The Muscle by 1.
+The Muscle deals Inner Core Tunneler 3 Melee damage.
+Inner Core Tunneler is now at 9 HP.
+The Muscle initiates 2 Melee damage to K.N.Y.F.E. Rogue Agent.
+The Contract increases the damage dealt by The Muscle by 1.
+The Muscle deals K.N.Y.F.E. Rogue Agent 3 Melee damage.
+K.N.Y.F.E. Rogue Agent is now at 1 HP.
+The Muscle initiates 2 Melee damage to Fugue State Parse.
+Lies of the Shadows destroys The Shadow Cloak!
+Void Guard Writhe draws Portable Dark-Lab.
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Lies of the Shadows redirects the damage dealt from Fugue State Parse to Crooked Cop.
+The Muscle deals Crooked Cop 2 Melee damage.
+Crooked Cop is now at 0 HP.
+The Muscle destroys Crooked Cop!
+GameController moved Crooked Cop to the villain trash.
+The Broker plays Undivided Attention.
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+The Contract increases the damage dealt by The Chairman by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 4 Melee damage.
+Benchmark: Supply and Demand is now at 5 HP.
+GameController moved Undivided Attention to the villain trash.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays The Fence.
+Applying ongoing effect: Increase damage dealt to The Fence by 1.
+Went from The Chairman's PlayCard phase to End phase.
+The Contract initiates 2 Projectile damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by The Contract by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Contract by 1.
+The Contract deals Benchmark: Supply and Demand 2 Projectile damage.
+Benchmark: Supply and Demand is now at 3 HP.
+The Contract puts Hired Gun into play.
+Applying ongoing effect: Increase damage dealt to Hired Gun by 1.
+The Muscle puts Enforcers into play.
+Applying ongoing effect: Increase damage dealt to Enforcers by 1.
+The Broker puts Informant into play.
+Applying ongoing effect: Increase damage dealt to Informant by 1.
+K.N.Y.F.E. discards For the Greater Good.
+Enforcers moved For the Greater Good from K.N.Y.F.E.'s hand to K.N.Y.F.E.'s trash.
+The Fence puts Thief into play.
+Applying ongoing effect: Increase damage dealt to Thief by 1.
+Hired Gun initiates 2 Projectile damage to Writhe.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals Writhe 3 Projectile damage.
+Writhe is now at -2 HP.
+Writhe is no longer a target.
+All of Void Guard Writhe's cards are removed from the game.
+GameController moves 40 cards to the top of Void Guard Writhe's OutOfGame.
+Writhe was flipped to its back side.
+Hired Gun initiates 2 Projectile damage to The Idealist.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals The Idealist 3 Projectile damage.
+The Idealist is now at 0 HP.
+The Idealist is no longer a target.
+All of Void Guard The Idealist's cards are removed from the game.
+GameController moves 40 cards to the top of Void Guard The Idealist's OutOfGame.
+The Idealist was flipped to its back side.
+Hired Gun initiates 2 Projectile damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by Hired Gun by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Hired Gun by 1.
+Hired Gun deals Benchmark: Supply and Demand 2 Projectile damage.
+Benchmark: Supply and Demand is now at 1 HP.
+Hired Gun initiates 2 Projectile damage to K.N.Y.F.E. Rogue Agent.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals K.N.Y.F.E. Rogue Agent 3 Projectile damage.
+K.N.Y.F.E. Rogue Agent is now at -2 HP.
+K.N.Y.F.E. Rogue Agent is no longer a target.
+All of K.N.Y.F.E.'s cards are removed from the game.
+GameController moves 40 cards to the top of K.N.Y.F.E.'s OutOfGame.
+K.N.Y.F.E. Rogue Agent was flipped to its back side.
+Hired Gun initiates 2 Projectile damage to Fugue State Parse.
+The Contract increases the damage dealt by Hired Gun by 1.
+Hired Gun deals Fugue State Parse 3 Projectile damage.
+Fugue State Parse is now at -1 HP.
+Fugue State Parse is no longer a target.
+All of Parse's cards are removed from the game.
+GameController moves 40 cards to the top of Parse's OutOfGame.
+Fugue State Parse was flipped to its back side.
+Benchmark discards Countermeasures.
+Enforcers moved Countermeasures from Benchmark's hand to Benchmark's trash.
+Thief destroys Shunt Energy!
+The Fence tried to increase The Chairman's HP, but they are already at their maximum HP.
+GameController moved Shunt Energy to Benchmark's trash.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase.
+Void Guard Writhe uses the incapacitated ability "Select a hero target. Until the start of your next turn, reduce damage dealt to that target by 1."
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to UseIncapacitatedAbility phase.
+Void Guard The Idealist uses the incapacitated ability "One player may draw a card."
+Benchmark draws Countermeasures.
+Went from Void Guard The Idealist's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 3.
+Benchmark: Supply and Demand's Desperate Measures plays Auto-Targeting Protocol.
+Informant plays Perfect Human Specimens.
+Perfect Human Specimens tried to increase The Chairman's HP, but they are already at their maximum HP.
+GameController moved Perfect Human Specimens to the villain trash.
+***** LOADED UNDO FILE: undo-133-Benchmark-Start *****
+Possible achievement: Base_CumulativeDamage, progress: 74.9090909090909
+Possible achievement: Base_CumulativeHeal, progress: 171.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark uses the power on Auto-Targeting Protocol.
+Benchmark: Supply and Demand initiates 1 Energy damage to Crooked Cop.
+Benchmark: Supply and Demand deals Crooked Cop 1 Energy damage.
+Crooked Cop is now at 0 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Crooked Cop!
+GameController moved Crooked Cop to the villain trash.
+Benchmark: Supply and Demand initiates 1 Energy damage to Informant.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Informant 2 Energy damage.
+Informant is now at 0 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Informant!
+GameController moved Informant to the villain trash.
+Benchmark: Supply and Demand initiates 1 Energy damage to Thief.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Thief 2 Energy damage.
+Thief is now at 0 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Thief!
+GameController moved Thief to the villain trash.
+Benchmark: Supply and Demand initiates 1 Energy damage to Hired Gun.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Hired Gun 2 Energy damage.
+Hired Gun is now at 1 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Fence.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals The Fence 2 Energy damage.
+The Fence is now at 4 HP.
+Load on Initialization plays Countermeasures.
+Went from Benchmark's Start phase to PlayCard phase.
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Fence.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals The Fence 3 Energy damage.
+The Fence is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Contract.
+Benchmark: Supply and Demand deals The Contract 2 Energy damage.
+The Contract is now at 5 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Enforcers.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Enforcers 3 Energy damage.
+Enforcers is now at 3 HP.
+Fly-by was moved to Benchmark's hand.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 3.
+Benchmark: Supply and Demand's Desperate Measures plays Auto-Targeting Protocol.
+Went from Benchmark's UsePower phase to DrawCard phase.
+Benchmark draws Deployment Actuation.
+Went from Benchmark's DrawCard phase to End phase.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 5.
+Flash Installation Drive moved Tactical Communicator from Benchmark's deck to Benchmark's trash.
+Flash Installation Drive puts Multi-Point H.U.D. into play.
+Benchmark draws Intervening Path Calculator.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to UseIncapacitatedAbility phase.
+K.N.Y.F.E. uses the incapacitated ability "Reveal the top card of a deck. Put it into play or discard it."
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+***** LOADED UNDO FILE: undo-139-Knyfe-UseIncapacitatedAbility *****
+Possible achievement: Base_CumulativeDamage, progress: 74.9090909090909
+Possible achievement: Base_CumulativeHeal, progress: 173.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+K.N.Y.F.E. uses the incapacitated ability "One hero may use a power."
+Benchmark uses the power on Auto-Targeting Protocol.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Contract.
+Benchmark: Supply and Demand deals The Contract 1 Energy damage.
+The Contract is now at 4 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to Enforcers.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals Enforcers 2 Energy damage.
+Enforcers is now at 1 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Fence.
+Exploit Vulnerability increases the damage dealt by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand deals The Fence 2 Energy damage.
+The Fence is now at -1 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys The Fence!
+GameController moved The Fence to the villain trash.
+Benchmark: Supply and Demand initiates 1 Energy damage to Enforcers.
+Benchmark: Supply and Demand deals Enforcers 1 Energy damage.
+Enforcers is now at 2 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 1 Energy damage.
+The Broker is now at 4 HP.
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Notice: an ongoing effect just expired: Increase damage dealt to Inner Core Tunneler by 1.
+Notice: an ongoing effect just expired: Increase damage dealt to Hired Gun by 1.
+Notice: an ongoing effect just expired: Increase damage dealt to Enforcers by 1.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController moves 9 cards to the top of Magmaria's Deck.
+Magmaria shuffles their the environment deck.
+GameController plays Fiery Crystallization.
+Went from Magmaria's PlayCard phase to End phase.
+Revealed card: Crystalloid Behemoth
+Revealed card: Crystalloid Behemoth
+Revealed card: Crystalloid Behemoth
+Revealed card: Smoldering Crystal
+Revealed card: Magmarian Throng
+Revealed card: Smoldering Crystal
+Revealed card: Smoldering Crystal
+Revealed card: Fiery Crystallization
+Ran out of cards to reveal.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Magmarian Throng from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Fiery Crystallization from Magmaria's revealed cards to the environment trash.
+Magmarian Throng destroys itself!
+GameController moved Magmarian Throng to the environment trash.
+Went from Magmaria's End phase to The Chairman's Start phase.
+The Muscle initiates 2 Melee damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by The Muscle by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Muscle by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Muscle by 1.
+The Muscle deals Benchmark: Supply and Demand 1 Melee damage.
+Benchmark: Supply and Demand is now at 4 HP.
+Benchmark discards Intervening Path Calculator.
+Subcutaneous Cybernetics moved Intervening Path Calculator from Benchmark's hand to Benchmark's trash.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 6.
+The Broker plays Perfect Human Specimens.
+Perfect Human Specimens tried to increase The Chairman's HP, but they are already at their maximum HP.
+GameController moved Perfect Human Specimens to the villain trash.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays Undivided Attention.
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+The Contract increases the damage dealt by The Chairman by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 3 HP.
+GameController moved Undivided Attention to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+The Contract initiates 2 Projectile damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by The Contract by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Contract by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by The Contract by 1.
+The Contract deals Benchmark: Supply and Demand 1 Projectile damage.
+Benchmark: Supply and Demand is now at 2 HP.
+The Contract puts Hired Gun into play.
+The Broker puts Informant into play.
+Enforcers initiates 5 Melee damage to Benchmark: Supply and Demand.
+Action of Enforcers was cancelled by Countermeasures.
+Countermeasures destroys Enforcers!
+GameController moved Enforcers to the villain trash.
+Hired Gun initiates 2 Projectile damage to Benchmark: Supply and Demand.
+Action of Hired Gun was cancelled by Countermeasures.
+Countermeasures destroys Hired Gun!
+GameController moved Hired Gun to the villain trash.
+Enforcers initiates 5 Melee damage to Benchmark: Supply and Demand.
+Action of Enforcers was cancelled by Countermeasures.
+Countermeasures destroys Enforcers!
+GameController moved Enforcers to the villain trash.
+Hired Gun initiates 2 Projectile damage to Benchmark: Supply and Demand.
+The Contract increases the damage dealt by Hired Gun by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Hired Gun by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Hired Gun by 1.
+Hired Gun deals Benchmark: Supply and Demand 1 Projectile damage.
+Benchmark: Supply and Demand is now at 1 HP.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase.
+Void Guard Writhe uses the incapacitated ability "Select a hero target. Until the start of your next turn, reduce damage dealt to that target by 1."
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to UseIncapacitatedAbility phase.
+Void Guard The Idealist uses the incapacitated ability "One player may draw a card."
+The Idealist moves 25 cards to the top of Benchmark's Deck.
+Benchmark shuffles their Benchmark's deck.
+Benchmark draws Intervening Path Calculator.
+Went from Void Guard The Idealist's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark uses the power on Auto-Targeting Protocol.
+Benchmark: Supply and Demand initiates 1 Energy damage to Informant.
+Benchmark: Supply and Demand deals Informant 1 Energy damage.
+Informant is now at 1 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to Hired Gun.
+Benchmark: Supply and Demand deals Hired Gun 1 Energy damage.
+Hired Gun is now at 2 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 1 Energy damage.
+The Broker is now at 3 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Contract.
+Benchmark: Supply and Demand deals The Contract 1 Energy damage.
+The Contract is now at 3 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Muscle.
+Benchmark: Supply and Demand deals The Muscle 1 Energy damage.
+The Muscle is now at 7 HP.
+Benchmark discards Intervening Path Calculator.
+Secondary Cannon moved Intervening Path Calculator from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Projectile damage to Informant.
+Benchmark: Supply and Demand deals Informant 1 Projectile damage.
+Informant is now at 0 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Informant!
+GameController moved Informant to the villain trash.
+Benchmark draws Overhaul Loadout.
+Ally Matrix will destroy 2 software cards.
+Ally Matrix destroys itself!
+GameController moved Ally Matrix to Benchmark's trash.
+Ally Matrix's remaining actions are cancelled.
+Benchmark draws Tactical Communicator.
+Went from Benchmark's Start phase to DrawCard phase.
+Benchmark draws Deployment Actuation.
+Went from Benchmark's DrawCard phase to PlayCard phase.
+GameController plays Deployment Actuation.
+Revealed card: Intel Analyzer
+Revealed card: Countermeasures
+Revealed card: Tactical Communicator
+Revealed card: Fly-by
+Revealed matching card: Micro Fabricator
+Deployment Actuation puts Micro Fabricator into play.
+Deployment Actuation moved Intel Analyzer from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Countermeasures from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Tactical Communicator from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Fly-by from Benchmark's revealed cards to Benchmark's trash.
+***** LOADED UNDO FILE: undo-158-Benchmark-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 74.9090909090909
+Possible achievement: Base_CumulativeHeal, progress: 174.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 2 Energy damage.
+The Broker is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Contract.
+Benchmark: Supply and Demand deals The Contract 2 Energy damage.
+The Contract is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Muscle.
+Benchmark: Supply and Demand deals The Muscle 2 Energy damage.
+The Muscle is now at 5 HP.
+Fly-by plays Deployment Actuation.
+Revealed card: Intel Analyzer
+Revealed card: Countermeasures
+Revealed card: Tactical Communicator
+Revealed card: Fly-by
+Revealed matching card: Micro Fabricator
+Deployment Actuation puts Micro Fabricator into play.
+Deployment Actuation moved Intel Analyzer from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Countermeasures from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Tactical Communicator from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Fly-by from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Tactical Communicator from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Auto-Targeting Protocol.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Contract.
+Benchmark: Supply and Demand deals The Contract 1 Energy damage.
+The Contract is now at 0 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys The Contract!
+GameController moved The Contract to the villain trash.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 1 Energy damage.
+The Broker is now at 0 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys The Broker!
+GameController moved The Broker to the villain trash.
+Benchmark: Supply and Demand initiates 1 Energy damage to The Muscle.
+Benchmark: Supply and Demand deals The Muscle 1 Energy damage.
+The Muscle is now at 4 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to Inner Core Tunneler.
+Benchmark: Supply and Demand deals Inner Core Tunneler 1 Energy damage.
+Inner Core Tunneler is now at 8 HP.
+Benchmark: Supply and Demand initiates 1 Energy damage to Seismic Defender.
+Benchmark: Supply and Demand deals Seismic Defender 1 Energy damage.
+Seismic Defender is now at 8 HP.
+Benchmark discards Tactical Communicator.
+Secondary Cannon moved Tactical Communicator from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Projectile damage to The Muscle.
+Benchmark: Supply and Demand deals The Muscle 1 Projectile damage.
+The Muscle is now at 3 HP.
+Went from Benchmark's UsePower phase to End phase.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 3.
+Flash Installation Drive moved Deployment Actuation from Benchmark's deck to Benchmark's trash.
+Flash Installation Drive puts Tactical Communicator into play.
+Benchmark draws Intervening Path Calculator.
+Benchmark draws Load on Initialization.
+Benchmark discards Tactical Communicator.
+Micro Fabricator moved Tactical Communicator from Benchmark's hand to Benchmark's trash.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to UseIncapacitatedAbility phase.
+K.N.Y.F.E. uses the incapacitated ability "One hero may use a power."
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 5.
+Benchmark: Supply and Demand's Desperate Measures plays Intel Analyzer.
+Benchmark discards Load on Initialization.
+Secondary Cannon moved Load on Initialization from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Projectile damage to The Muscle.
+Benchmark: Supply and Demand deals The Muscle 1 Projectile damage.
+The Muscle is now at 2 HP.
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Inner Core Tunneler initiates 5 Fire damage to Hired Gun.
+Inner Core Tunneler deals Hired Gun 5 Fire damage.
+Hired Gun is now at -3 HP.
+Inner Core Tunneler destroys Hired Gun!
+GameController moved Hired Gun to the villain trash.
+Inner Core Tunneler initiates 5 Fire damage to The Muscle.
+Inner Core Tunneler deals The Muscle 5 Fire damage.
+The Muscle is now at -3 HP.
+Inner Core Tunneler destroys The Muscle!
+GameController moved The Muscle to the villain trash.
+Inner Core Tunneler initiates 5 Fire damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Inner Core Tunneler initiates 5 Fire damage to Benchmark: Supply and Demand.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Inner Core Tunneler by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Inner Core Tunneler by 1.
+Inner Core Tunneler deals Benchmark: Supply and Demand 3 Fire damage.
+Benchmark: Supply and Demand is now at 2 HP.
+Benchmark discards Intervening Path Calculator.
+Subcutaneous Cybernetics moved Intervening Path Calculator from Benchmark's hand to Benchmark's trash.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 2 HP. HP is now 4.
+Inner Core Tunneler initiates 5 Fire damage to Crystal Collector.
+Crystal Collector made Crystal Collector immune to damage.
+Damage amount was 0, so no damage was dealt.
+Inner Core Tunneler initiates 5 Fire damage to Ember Shaman.
+Ember Shaman made Ember Shaman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Inner Core Tunneler initiates 5 Fire damage to Inner Core Tunneler.
+Inner Core Tunneler made Inner Core Tunneler immune to damage.
+Damage amount was 0, so no damage was dealt.
+Inner Core Tunneler initiates 5 Fire damage to Seismic Defender.
+Seismic Defender made Seismic Defender immune to damage.
+Damage amount was 0, so no damage was dealt.
+Inner Core Tunneler initiates 5 Fire damage to Stone Shaper.
+Stone Shaper made Stone Shaper immune to damage.
+Damage amount was 0, so no damage was dealt.
+Fiery Crystallization will destroy 5 equipment cards.
+Fiery Crystallization destroys Secondary Cannon!
+GameController moved Secondary Cannon to Benchmark's trash.
+Fiery Crystallization destroys Flash Installation Drive!
+GameController moved Flash Installation Drive to Benchmark's trash.
+Fiery Crystallization destroys Legion-core Processor!
+GameController moved Legion-core Processor to Benchmark's trash.
+Fiery Crystallization destroys Upgraded Memory Unit!
+GameController moved Upgraded Memory Unit to Benchmark's trash.
+Fiery Crystallization destroys Micro Fabricator!
+GameController moved Micro Fabricator to Benchmark's trash.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController moves 9 cards to the top of Magmaria's Deck.
+Magmaria shuffles their the environment deck.
+GameController plays Smoldering Crystal.
+Went from Magmaria's PlayCard phase to End phase.
+Smoldering Crystal initiates 3 Fire damage to Benchmark: Supply and Demand.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Smoldering Crystal by 1.
+Reinforced Chassis reduces the damage dealt to Benchmark: Supply and Demand by Smoldering Crystal by 1.
+Smoldering Crystal deals Benchmark: Supply and Demand 1 Fire damage.
+Benchmark: Supply and Demand is now at 3 HP.
+Smoldering Crystal was moved to Benchmark's hand.
+Went from Magmaria's End phase to The Chairman's Start phase.
+The Chairman was flipped to its back side.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays Perfect Human Specimens.
+Perfect Human Specimens tried to increase The Chairman's HP, but they are already at their maximum HP.
+GameController moved Perfect Human Specimens to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase.
+Void Guard Writhe uses the incapacitated ability "Select a hero target. Until the start of your next turn, reduce damage dealt to that target by 1."
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to UseIncapacitatedAbility phase.
+Void Guard The Idealist uses the incapacitated ability "One player may draw a card."
+Benchmark draws Shunt Energy.
+Went from Void Guard The Idealist's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark draws Deployment Actuation.
+Threat Neutralizer will destroy 2 software cards.
+Threat Neutralizer destroys itself!
+GameController moved Threat Neutralizer to Benchmark's trash.
+Threat Neutralizer's remaining actions are cancelled.
+Benchmark draws Shunt Energy.
+Benchmark draws Threat Neutralizer.
+Load on Initialization will destroy 2 software cards.
+Load on Initialization destroys itself!
+GameController moved Load on Initialization to Benchmark's trash.
+Load on Initialization's remaining actions are cancelled.
+Benchmark draws Overhaul Loadout.
+Auto-Targeting Protocol will destroy 2 software cards.
+Auto-Targeting Protocol destroys itself!
+GameController moved Auto-Targeting Protocol to Benchmark's trash.
+Auto-Targeting Protocol's remaining actions are cancelled.
+Benchmark draws "Inferno" Missile Pod.
+Countermeasures will destroy 2 software cards.
+Countermeasures destroys Auto-Targeting Protocol!
+GameController moved Auto-Targeting Protocol to Benchmark's trash.
+Countermeasures destroys Tactical Communicator!
+GameController moved Tactical Communicator to Benchmark's trash.
+Benchmark draws Overhaul Loadout.
+Multi-Point H.U.D. will destroy 2 software cards.
+Multi-Point H.U.D. destroys itself!
+GameController moved Multi-Point H.U.D. to Benchmark's trash.
+Multi-Point H.U.D.'s remaining actions are cancelled.
+Benchmark did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Benchmark's Start phase to DrawCard phase. (Count: 2)
+Benchmark draws Fly-by.
+Benchmark draws Ally Matrix.
+Went from Benchmark's DrawCard phase to PlayCard phase.
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Energy damage.
+The Chairman is now at 33 HP.
+The Chairman reacts!
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+Benchmark discards Smoldering Crystal.
+Inner Core Tunneler moved Smoldering Crystal from Benchmark's hand to the environment trash.
+Inner Core Tunneler redirects the damage dealt from Benchmark: Supply and Demand to Inner Core Tunneler.
+The Operative increases the damage dealt by The Chairman by 1.
+The Chairman deals Inner Core Tunneler 4 Melee damage.
+Inner Core Tunneler is now at 4 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Seismic Defender.
+Benchmark: Supply and Demand deals Seismic Defender 2 Energy damage.
+Seismic Defender is now at 6 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Stone Shaper.
+Benchmark: Supply and Demand deals Stone Shaper 2 Energy damage.
+Stone Shaper is now at 5 HP.
+Fly-by plays Deployment Actuation.
+Revealed card: Multi-Point H.U.D.
+Revealed card: Fly-by
+Revealed matching card: Onboard Cooling Systems
+Deployment Actuation puts Onboard Cooling Systems into play.
+Deployment Actuation moved Multi-Point H.U.D. from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Fly-by from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Micro Fabricator from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 4.
+GameController moves 25 cards to the top of Benchmark's Deck.
+Benchmark shuffles their Benchmark's deck.
+Benchmark: Supply and Demand's Desperate Measures plays Intervening Path Calculator.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Cold damage.
+The Chairman is now at 31 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to Seismic Defender.
+Benchmark: Supply and Demand deals Seismic Defender 2 Cold damage.
+Seismic Defender is now at 4 HP.
+Benchmark uses the power on Intel Analyzer.
+Benchmark draws Auto-Targeting Protocol.
+Benchmark draws Tactical Communicator.
+Benchmark discards Shunt Energy.
+Intel Analyzer moved Shunt Energy from Benchmark's hand to Benchmark's trash.
+Benchmark discards Overhaul Loadout.
+Intel Analyzer moved Overhaul Loadout from Benchmark's hand to Benchmark's trash.
+Intel Analyzer plays Shunt Energy.
+Went from Benchmark's UsePower phase to End phase.
+Subcutaneous Cybernetics caused Benchmark: Supply and Demand to regain 1 HP. HP is now 5.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to UseIncapacitatedAbility phase.
+K.N.Y.F.E. uses the incapacitated ability "Reveal the top card of a deck. Put it into play or discard it."
+Revealed card: Secondary Cannon
+K.N.Y.F.E. Rogue Agent puts Secondary Cannon into play.
+***** LOADED UNDO FILE: undo-185-Knyfe-UseIncapacitatedAbility *****
+Possible achievement: Base_CumulativeDamage, progress: 75.2727272727273
+Possible achievement: Base_CumulativeHeal, progress: 178.5
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+K.N.Y.F.E. uses the incapacitated ability "One hero may use a power."
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 6.
+Benchmark: Supply and Demand's Desperate Measures plays Secondary Cannon.
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Crystal Collector initiates 5 Fire damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystal Collector initiates 5 Fire damage to Benchmark: Supply and Demand.
+Benchmark discards "Inferno" Missile Pod.
+Inner Core Tunneler moved "Inferno" Missile Pod from Benchmark's hand to Benchmark's trash.
+Inner Core Tunneler redirects the damage dealt from Benchmark: Supply and Demand to Inner Core Tunneler.
+Inner Core Tunneler made Inner Core Tunneler immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystal Collector initiates 5 Fire damage to Crystal Collector.
+Crystal Collector made Crystal Collector immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystal Collector initiates 5 Fire damage to Ember Shaman.
+Ember Shaman made Ember Shaman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystal Collector initiates 5 Fire damage to Inner Core Tunneler.
+Inner Core Tunneler made Inner Core Tunneler immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystal Collector initiates 5 Fire damage to Seismic Defender.
+Seismic Defender made Seismic Defender immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystal Collector initiates 5 Fire damage to Stone Shaper.
+Stone Shaper made Stone Shaper immune to damage.
+Damage amount was 0, so no damage was dealt.
+Fiery Crystallization will destroy 4 equipment cards.
+Fiery Crystallization destroys Onboard Cooling Systems!
+GameController moved Onboard Cooling Systems to Benchmark's trash.
+Fiery Crystallization destroys Reinforced Chassis!
+GameController moved Reinforced Chassis to Benchmark's trash.
+Fiery Crystallization destroys Secondary Cannon!
+GameController moved Secondary Cannon to Benchmark's trash.
+Fiery Crystallization destroys Subcutaneous Cybernetics!
+GameController moved Subcutaneous Cybernetics to Benchmark's trash.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Crystalloid Behemoth.
+Crystalloid Behemoth initiates 4 Melee damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystalloid Behemoth initiates 4 Melee damage to Benchmark: Supply and Demand.
+Benchmark discards Micro Fabricator.
+Inner Core Tunneler moved Micro Fabricator from Benchmark's hand to Benchmark's trash.
+Inner Core Tunneler redirects the damage dealt from Benchmark: Supply and Demand to Inner Core Tunneler.
+Crystalloid Behemoth deals Inner Core Tunneler 4 Melee damage.
+Inner Core Tunneler is now at 0 HP.
+Crystalloid Behemoth destroys Inner Core Tunneler!
+GameController moved Inner Core Tunneler to the environment trash.
+Crystalloid Behemoth initiates 4 Melee damage to Crystal Collector.
+Crystalloid Behemoth deals Crystal Collector 4 Melee damage.
+Crystal Collector is now at 1 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Crystalloid Behemoth.
+Crystalloid Behemoth deals Crystalloid Behemoth 4 Melee damage.
+Crystalloid Behemoth is now at 7 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Ember Shaman.
+Crystalloid Behemoth deals Ember Shaman 4 Melee damage.
+Ember Shaman is now at -1 HP.
+Crystalloid Behemoth destroys Ember Shaman!
+GameController moved Ember Shaman to the environment trash.
+Crystalloid Behemoth initiates 4 Melee damage to Seismic Defender.
+Crystalloid Behemoth deals Seismic Defender 4 Melee damage.
+Seismic Defender is now at 0 HP.
+Crystalloid Behemoth destroys Seismic Defender!
+GameController moved Seismic Defender to the environment trash.
+Crystalloid Behemoth initiates 4 Melee damage to Stone Shaper.
+Crystalloid Behemoth deals Stone Shaper 4 Melee damage.
+Stone Shaper is now at 1 HP.
+Went from Magmaria's PlayCard phase to End phase.
+Went from Magmaria's End phase to The Chairman's Start phase.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays Perfect Human Specimens.
+Perfect Human Specimens caused The Chairman to regain 4 HP, up to their maximum HP. HP is now 35.
+GameController moved Perfect Human Specimens to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase.
+Void Guard Writhe uses the incapacitated ability "Select a hero target. Until the start of your next turn, reduce damage dealt to that target by 1."
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to UseIncapacitatedAbility phase.
+Void Guard The Idealist uses the incapacitated ability "One player may draw a card."
+Benchmark draws Deployment Actuation.
+Went from Void Guard The Idealist's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark draws Multi-Point H.U.D..
+Countermeasures will destroy 2 software cards.
+Countermeasures destroys Shunt Energy!
+GameController moved Shunt Energy to Benchmark's trash.
+Countermeasures destroys Intervening Path Calculator!
+GameController moved Intervening Path Calculator to Benchmark's trash.
+Benchmark draws Flash Installation Drive.
+Intel Analyzer will destroy 2 software cards.
+Intel Analyzer destroys itself!
+GameController moved Intel Analyzer to Benchmark's trash.
+Intel Analyzer's remaining actions are cancelled.
+Benchmark did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Benchmark's Start phase to DrawCard phase. (Count: 2)
+Benchmark draws Ally Matrix.
+Benchmark draws Tactical Communicator.
+Went from Benchmark's DrawCard phase to PlayCard phase.
+GameController plays Deployment Actuation.
+Revealed matching card: Legion-core Processor
+Deployment Actuation puts Legion-core Processor into play.
+Deployment Actuation moved Onboard Cooling Systems from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 7.
+Benchmark: Supply and Demand's Desperate Measures plays Countermeasures.
+Crystalloid Behemoth initiates 2 Fire damage to Benchmark: Supply and Demand.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 1 Fire damage.
+Benchmark: Supply and Demand is now at 6 HP.
+Went from Benchmark's UsePower phase to End phase.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to UseIncapacitatedAbility phase.
+K.N.Y.F.E. uses the incapacitated ability "One hero may use a power."
+Benchmark uses the power on Benchmark: Supply and Demand.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 1 HP. HP is now 7.
+Benchmark: Supply and Demand's Desperate Measures plays Intel Analyzer.
+Crystalloid Behemoth initiates 2 Fire damage to Benchmark: Supply and Demand.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 1 Fire damage.
+Benchmark: Supply and Demand is now at 6 HP.
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Crystal Collector initiates 2 Fire damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystal Collector initiates 2 Fire damage to Benchmark: Supply and Demand.
+Action of Fiery Crystallization was cancelled by Countermeasures.
+Countermeasures destroys Crystal Collector!
+GameController moved Crystal Collector to the environment trash.
+Fiery Crystallization will destroy 1 equipment cards.
+Fiery Crystallization destroys Legion-core Processor!
+GameController moved Legion-core Processor to Benchmark's trash.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Magmarian Throng.
+Went from Magmaria's PlayCard phase to End phase.
+Benchmark discards Flash Installation Drive.
+Stone Shaper moved Flash Installation Drive from Benchmark's hand to Benchmark's trash.
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Revealed card: Fiery Crystallization
+Revealed card: Magmarian Throng
+Revealed card: Smoldering Crystal
+Revealed card: Crystalloid Behemoth
+Revealed card: Crystalloid Behemoth
+Revealed card: Smoldering Crystal
+Ran out of cards to reveal.
+Magmarian Throng moved Fiery Crystallization from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Magmarian Throng from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Crystalloid Behemoth from Magmaria's revealed cards to the environment trash.
+Magmarian Throng moved Smoldering Crystal from Magmaria's revealed cards to the environment trash.
+Magmarian Throng destroys itself!
+GameController moved Magmarian Throng to the environment trash.
+Went from Magmaria's End phase to The Chairman's Start phase.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays Undivided Attention.
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+Stone Shaper reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 2 Melee damage.
+Benchmark: Supply and Demand is now at 4 HP.
+GameController moved Undivided Attention to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase.
+Void Guard Writhe uses the incapacitated ability "Select a hero target. Until the start of your next turn, reduce damage dealt to that target by 1."
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to UseIncapacitatedAbility phase.
+Void Guard The Idealist uses the incapacitated ability "One player may draw a card."
+Benchmark draws Auto-Targeting Protocol.
+Went from Void Guard The Idealist's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark draws Upgraded Memory Unit.
+Countermeasures will destroy 2 software cards.
+Countermeasures destroys itself!
+GameController moved Countermeasures to Benchmark's trash.
+Countermeasures's remaining actions are cancelled.
+Benchmark draws Multi-Point H.U.D..
+Countermeasures will destroy 2 software cards.
+***** LOADED UNDO FILE: undo-225-Benchmark-Start *****
+Possible achievement: Base_CumulativeDamage, progress: 75.2727272727273
+Possible achievement: Base_CumulativeHeal, progress: 180
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark draws Upgraded Memory Unit.
+Countermeasures will destroy 2 software cards.
+Countermeasures destroys Intel Analyzer!
+GameController moved Intel Analyzer to Benchmark's trash.
+Countermeasures destroys Countermeasures!
+GameController moved Countermeasures to Benchmark's trash.
+Benchmark did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Benchmark's Start phase to DrawCard phase. (Count: 2)
+Benchmark draws Multi-Point H.U.D..
+Benchmark draws Fly-by.
+Went from Benchmark's DrawCard phase to PlayCard phase.
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Energy damage.
+The Chairman is now at 33 HP.
+The Chairman reacts!
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+Stone Shaper reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 2 Melee damage.
+Benchmark: Supply and Demand is now at 2 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 5 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Stone Shaper.
+Benchmark: Supply and Demand deals Stone Shaper 2 Energy damage.
+Stone Shaper is now at -1 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Stone Shaper!
+GameController moved Stone Shaper to the environment trash.
+Fly-by plays Upgraded Memory Unit.
+GameController moved Fly-by to Benchmark's trash.
+Went from Benchmark's PlayCard phase to UsePower phase.
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 4.
+Benchmark: Supply and Demand's Desperate Measures plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 3 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Energy damage.
+The Chairman is now at 31 HP.
+Fly-by plays Onboard Cooling Systems.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+GameController moved Fly-by to Benchmark's trash.
+Crystalloid Behemoth initiates 2 Fire damage to Benchmark: Supply and Demand.
+Stone Shaper reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Benchmark's UsePower phase to End phase.
+Upgraded Memory Unit plays Multi-Point H.U.D..
+Benchmark: Supply and Demand initiates 2 Cold damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Cold damage.
+Crystalloid Behemoth is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Cold damage.
+The Chairman is now at 29 HP.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to UseIncapacitatedAbility phase.
+K.N.Y.F.E. uses the incapacitated ability "One hero may use a power."
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 6.
+Benchmark: Supply and Demand's Desperate Measures plays Intervening Path Calculator.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Cold damage.
+The Chairman is now at 27 HP.
+The Chairman reacts!
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+Stone Shaper reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 2 Melee damage.
+Benchmark: Supply and Demand is now at 4 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Cold damage.
+Crystalloid Behemoth is now at -1 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys Crystalloid Behemoth!
+GameController moved Crystalloid Behemoth to Benchmark's hand.
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController moves 13 cards to the top of Magmaria's Deck.
+Magmaria shuffles their the environment deck.
+GameController plays Crystalloid Behemoth.
+Crystalloid Behemoth initiates 4 Melee damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystalloid Behemoth initiates 4 Melee damage to Benchmark: Supply and Demand.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 1 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Crystalloid Behemoth.
+Crystalloid Behemoth deals Crystalloid Behemoth 4 Melee damage.
+Crystalloid Behemoth is now at 7 HP.
+Went from Magmaria's PlayCard phase to End phase.
+Went from Magmaria's End phase to The Chairman's Start phase.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController moves 25 cards to the top of The Chairman's Deck.
+The Chairman shuffles their the villain deck.
+GameController plays The Broker.
+Went from The Chairman's PlayCard phase to End phase.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase.
+Void Guard Writhe uses the incapacitated ability "Select a hero target. Until the start of your next turn, reduce damage dealt to that target by 1."
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to UseIncapacitatedAbility phase.
+Void Guard The Idealist uses the incapacitated ability "One player may draw a card."
+Benchmark draws Fly-by.
+Went from Void Guard The Idealist's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark draws Fly-by.
+Countermeasures will destroy 2 software cards.
+Countermeasures destroys Intervening Path Calculator!
+GameController moved Intervening Path Calculator to Benchmark's trash.
+Countermeasures destroys Multi-Point H.U.D.!
+GameController moved Multi-Point H.U.D. to Benchmark's trash.
+Benchmark did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Benchmark's Start phase to DrawCard phase. (Count: 2)
+Benchmark draws Load on Initialization.
+Benchmark draws Threat Neutralizer.
+Went from Benchmark's DrawCard phase to PlayCard phase.
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 2 Energy damage.
+The Broker is now at 3 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 5 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Energy damage.
+The Chairman is now at 25 HP.
+The Chairman reacts!
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at -2 HP.
+Benchmark: Supply and Demand is no longer a target.
+GameController moved Crystalloid Behemoth from Benchmark's hand to the environment trash.
+All of Benchmark's cards are removed from the game.
+GameController moves 40 cards to the top of Benchmark's OutOfGame.
+***** LOADED UNDO FILE: undo-250-Benchmark-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 76
+Possible achievement: Base_CumulativeHeal, progress: 182
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 2 Energy damage.
+The Broker is now at 3 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 5 HP.
+Fly-by plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 2 Energy damage.
+The Broker is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Energy damage.
+Crystalloid Behemoth is now at 3 HP.
+Fly-by plays Tactical Communicator.
+Benchmark: Supply and Demand initiates 2 Cold damage to Crystalloid Behemoth.
+Benchmark: Supply and Demand deals Crystalloid Behemoth 2 Cold damage.
+Crystalloid Behemoth is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 2 Cold damage.
+The Broker is now at -1 HP.
+Benchmark: Supply and Demand's Desperate Measures destroys The Broker!
+GameController moved The Broker to the villain trash.
+GameController moved Fly-by to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 3.
+Benchmark: Supply and Demand's Desperate Measures plays Load on Initialization.
+Crystalloid Behemoth initiates 2 Fire damage to Benchmark: Supply and Demand.
+Action of Crystalloid Behemoth was cancelled by Countermeasures.
+Countermeasures destroys Crystalloid Behemoth!
+GameController moved Crystalloid Behemoth to Benchmark's hand.
+Benchmark uses the power on Tactical Communicator.
+Applying ongoing effect: the next damage dealt to The Chairman is irreducible.
+Applying ongoing effect: Increase the next damage dealt to The Chairman by 2.
+Went from Benchmark's UsePower phase to End phase.
+Upgraded Memory Unit plays Multi-Point H.U.D..
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to UseIncapacitatedAbility phase.
+K.N.Y.F.E. uses the incapacitated ability "One hero may use a power."
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 5.
+Benchmark: Supply and Demand's Desperate Measures plays Deployment Actuation.
+Revealed card: Deployment Actuation
+Ran out of cards to reveal.
+Deployment Actuation moved Deployment Actuation from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Shunt Energy from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Smoldering Crystal.
+Went from Magmaria's PlayCard phase to End phase.
+Went from Magmaria's End phase to The Chairman's Start phase.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays Prison Break.
+Prison Break takes all of the underboss cards from the villain trash and puts it into play!
+Prison Break puts The Broker into play.
+GameController moved Prison Break to the villain trash.
+Went from The Chairman's PlayCard phase to End phase.
+Went from The Chairman's End phase to Void Guard Writhe's Start phase.
+Notice: an ongoing effect just expired: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase.
+Void Guard Writhe uses the incapacitated ability "Select a hero target. Until the start of your next turn, reduce damage dealt to that target by 1."
+Applying ongoing effect: Reduce damage dealt to Benchmark: Supply and Demand by 1.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard Writhe's End phase to Void Guard The Idealist's Start phase.
+Went from Void Guard The Idealist's Start phase to UseIncapacitatedAbility phase.
+Void Guard The Idealist uses the incapacitated ability "One player may draw a card."
+The Idealist moves 22 cards to the top of Benchmark's Deck.
+Benchmark shuffles their Benchmark's deck.
+Benchmark draws Fly-by.
+Went from Void Guard The Idealist's UseIncapacitatedAbility phase to End phase.
+Went from Void Guard The Idealist's End phase to Benchmark's Start phase.
+Benchmark draws Deployment Actuation.
+Countermeasures will destroy 2 software cards.
+Countermeasures destroys Load on Initialization!
+GameController moved Load on Initialization to Benchmark's trash.
+Countermeasures destroys Multi-Point H.U.D.!
+GameController moved Multi-Point H.U.D. to Benchmark's trash.
+Benchmark did not play a card or use a power this turn. Increasing draw count by 1.
+Went from Benchmark's Start phase to DrawCard phase. (Count: 2)
+Benchmark draws "Inferno" Missile Pod.
+Benchmark draws Shunt Energy.
+Went from Benchmark's DrawCard phase to PlayCard phase.
+GameController plays Fly-by.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 2 Energy damage.
+The Broker is now at 3 HP.
+Benchmark: Supply and Demand initiates 2 Energy damage to The Chairman.
+Tactical Communicator makes the damage irreducible.
+Tactical Communicator increases the damage dealt by Benchmark: Supply and Demand by 2.
+Benchmark: Supply and Demand deals The Chairman 4 Energy damage.
+The Chairman is now at 23 HP.
+The Chairman reacts!
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 2 HP.
+Fly-by plays Deployment Actuation.
+Revealed matching card: Secondary Cannon
+Deployment Actuation puts Secondary Cannon into play.
+Deployment Actuation moved Load on Initialization from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+GameController moved Fly-by to Benchmark's trash.
+Onboard Cooling Systems increased the action count of UsePower by 1.
+Went from Benchmark's PlayCard phase to UsePower phase. (Count: 2)
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 4.
+Benchmark: Supply and Demand's Desperate Measures plays Intel Analyzer.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Broker.
+Benchmark: Supply and Demand deals The Broker 2 Cold damage.
+The Broker is now at 1 HP.
+Benchmark: Supply and Demand initiates 2 Cold damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 2 Cold damage.
+The Chairman is now at 21 HP.
+Benchmark discards Load on Initialization.
+Secondary Cannon moved Load on Initialization from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Projectile damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 1 Projectile damage.
+The Chairman is now at 20 HP.
+Benchmark uses the power on Tactical Communicator.
+Applying ongoing effect: the next damage dealt to The Chairman is irreducible.
+Applying ongoing effect: Increase the next damage dealt to The Chairman by 2.
+Benchmark discards Shunt Energy.
+Secondary Cannon moved Shunt Energy from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Projectile damage to The Chairman.
+Tactical Communicator makes the damage irreducible.
+Tactical Communicator increases the damage dealt by Benchmark: Supply and Demand by 2.
+Benchmark: Supply and Demand deals The Chairman 3 Projectile damage.
+The Chairman is now at 17 HP.
+Went from Benchmark's UsePower phase to End phase.
+Upgraded Memory Unit plays Shunt Energy.
+Went from Benchmark's End phase to K.N.Y.F.E.'s Start phase.
+Went from K.N.Y.F.E.'s Start phase to UseIncapacitatedAbility phase.
+K.N.Y.F.E. uses the incapacitated ability "One hero may use a power."
+Benchmark uses the power on Benchmark: Supply and Demand.
+Upgraded Memory Unit increases the HP gained by Benchmark: Supply and Demand by 1.
+Benchmark: Supply and Demand's Desperate Measures caused Benchmark: Supply and Demand to regain 2 HP. HP is now 6.
+Benchmark: Supply and Demand's Desperate Measures plays Deployment Actuation.
+Revealed card: Countermeasures
+Revealed card: Overhaul Loadout
+Revealed card: Fly-by
+Revealed card: Fly-by
+Revealed matching card: Micro Fabricator
+Deployment Actuation puts Micro Fabricator into play.
+Deployment Actuation moved Countermeasures from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Overhaul Loadout from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Fly-by from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Fly-by from Benchmark's revealed cards to Benchmark's trash.
+Deployment Actuation moved Multi-Point H.U.D. from Benchmark's trash to Benchmark's hand.
+GameController moved Deployment Actuation to Benchmark's trash.
+Benchmark discards Threat Neutralizer.
+Secondary Cannon moved Threat Neutralizer from Benchmark's hand to Benchmark's trash.
+Benchmark: Supply and Demand initiates 1 Projectile damage to The Chairman.
+Benchmark: Supply and Demand deals The Chairman 1 Projectile damage.
+The Chairman is now at 16 HP.
+The Chairman reacts!
+The Chairman initiates 3 Melee damage to Benchmark: Supply and Demand.
+The Operative increases the damage dealt by The Chairman by 1.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by The Chairman by 1.
+The Chairman deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 3 HP.
+Went from K.N.Y.F.E.'s UseIncapacitatedAbility phase to End phase.
+Went from K.N.Y.F.E.'s End phase to Parse's Start phase.
+Went from Parse's Start phase to UseIncapacitatedAbility phase.
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Fiery Crystallization.
+Went from Magmaria's PlayCard phase to End phase.
+Went from Magmaria's End phase to The Chairman's Start phase.
+The Broker plays Thief.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays "Rook City is Mine!".
+"Rook City is Mine!" plays Smoldering Crystal.
+"Rook City is Mine!" plays Crystalloid Behemoth.
+Crystalloid Behemoth initiates 4 Melee damage to Thief.
+Crystalloid Behemoth deals Thief 4 Melee damage.
+Thief is now at -2 HP.
+Crystalloid Behemoth destroys Thief!
+GameController moved Thief to the villain trash.
+Crystalloid Behemoth initiates 4 Melee damage to The Broker.
+Crystalloid Behemoth deals The Broker 4 Melee damage.
+The Broker is now at -3 HP.
+Crystalloid Behemoth destroys The Broker!
+GameController moved The Broker to the villain trash.
+***** LOADED UNDO FILE: undo-280-Parse-UseIncapacitatedAbility *****
+Possible achievement: Base_CumulativeDamage, progress: 76.7272727272727
+Possible achievement: Base_CumulativeHeal, progress: 186
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+Parse uses the incapacitated ability "Select a hero. On their next turn, they may take their play, power, and draw phases in any order."
+Applying ongoing effect: Benchmark: Supply and Demand may take their play, power, and draw phases in any order.
+Went from Parse's UseIncapacitatedAbility phase to End phase.
+Went from Parse's End phase to Magmaria's Start phase.
+Went from Magmaria's Start phase to PlayCard phase.
+GameController plays Fiery Crystallization.
+Went from Magmaria's PlayCard phase to End phase.
+Went from Magmaria's End phase to The Chairman's Start phase.
+The Broker plays Thief.
+Went from The Chairman's Start phase to PlayCard phase.
+GameController plays "Rook City is Mine!".
+"Rook City is Mine!" plays Smoldering Crystal.
+"Rook City is Mine!" plays Crystalloid Behemoth.
+Crystalloid Behemoth initiates 4 Melee damage to The Chairman.
+The Chairman made The Chairman immune to damage.
+Damage amount was 0, so no damage was dealt.
+Crystalloid Behemoth initiates 4 Melee damage to Thief.
+Crystalloid Behemoth deals Thief 4 Melee damage.
+Thief is now at -2 HP.
+Crystalloid Behemoth destroys Thief!
+GameController moved Thief to the villain trash.
+Crystalloid Behemoth initiates 4 Melee damage to The Broker.
+Crystalloid Behemoth deals The Broker 4 Melee damage.
+The Broker is now at -3 HP.
+Crystalloid Behemoth destroys The Broker!
+GameController moved The Broker to the villain trash.
+Crystalloid Behemoth initiates 4 Melee damage to Crystalloid Behemoth.
+Crystalloid Behemoth deals Crystalloid Behemoth 4 Melee damage.
+Crystalloid Behemoth is now at 7 HP.
+Crystalloid Behemoth initiates 4 Melee damage to Benchmark: Supply and Demand.
+Writhe reduces the damage dealt to Benchmark: Supply and Demand by Crystalloid Behemoth by 1.
+Crystalloid Behemoth deals Benchmark: Supply and Demand 3 Melee damage.
+Benchmark: Supply and Demand is now at 0 HP.
+Benchmark: Supply and Demand is no longer a target.
+GameController moved Crystalloid Behemoth from Benchmark's hand to the environment trash.
+GameController moved Crystalloid Behemoth from Benchmark's hand to the environment trash.
+All of Benchmark's cards are removed from the game.
+GameController moves 40 cards to the top of Benchmark's OutOfGame.
+Benchmark: Supply and Demand was flipped to its back side.
+All heroes have been defeated.
+You just unlocked the promo card: Writhe: Cosmic Inventor!

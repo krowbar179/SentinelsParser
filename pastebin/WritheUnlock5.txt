@@ -1,0 +1,1383 @@
+GameView Start
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+GameController moves 3 cards to the top of Infinitor's OutOfGame.
+GameController puts Lambent Reaper into play.
+GameController puts Recalescent Hellion into play.
+GameController puts Twisted Miscreation into play.
+GameController puts Ocular Swarm into play.
+Infinitor shuffles their the villain deck.
+Went to Infinitor's Start phase.
+Revealed card: Twisted Miscreation
+Heroic Infinitor puts Twisted Miscreation into play.
+Went from Infinitor's Start phase to PlayCard phase. 
+GameController plays Lambent Reaper.
+Went from Infinitor's PlayCard phase to End phase. 
+Heroic Infinitor initiates 2 Melee damage to Lambent Reaper.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Heroic Infinitor by 1.
+Heroic Infinitor deals Lambent Reaper 2 Melee damage.
+Lambent Reaper is now at 2 HP.
+Lambent Reaper initiates 2 Energy damage to Writhe.
+Lambent Reaper deals Writhe 2 Energy damage.
+Writhe is now at 17 HP.
+Lambent Reaper initiates 2 Psychic damage to Writhe.
+Lambent Reaper deals Writhe 2 Psychic damage.
+Writhe is now at 15 HP.
+Recalescent Hellion initiates 3 Fire damage to Heroic Infinitor.
+Heroic Infinitor increases the damage dealt by Recalescent Hellion by 2.
+Recalescent Hellion deals Heroic Infinitor 5 Fire damage.
+Heroic Infinitor is now at 22 HP.
+Recalescent Hellion initiates 3 Fire damage to The Hunted Naturalist.
+Recalescent Hellion deals The Hunted Naturalist 3 Fire damage.
+The Hunted Naturalist is now at 24 HP.
+Twisted Miscreation initiates 4 Energy damage to Omnitron-X.
+Twisted Miscreation deals Omnitron-X 4 Energy damage.
+Omnitron-X is now at 21 HP.
+Twisted Miscreation initiates 4 Energy damage to The Hunted Naturalist.
+Twisted Miscreation deals The Hunted Naturalist 4 Energy damage.
+The Hunted Naturalist is now at 20 HP.
+Lambent Reaper initiates 2 Energy damage to Writhe.
+Lambent Reaper deals Writhe 2 Energy damage.
+Writhe is now at 13 HP.
+Lambent Reaper initiates 2 Psychic damage to Writhe.
+Lambent Reaper deals Writhe 2 Psychic damage.
+Writhe is now at 11 HP.
+Went from Infinitor's End phase to The Argent Adept's Start phase. 
+Went from The Argent Adept's Start phase to PlayCard phase. 
+GameController plays Inventive Preparation.
+Went from The Argent Adept's PlayCard phase to UsePower phase. 
+The Argent Adept uses the power on Dark Conductor Argent Adept.
+Revealed card: Sarabande of Destruction
+Revealed card: Celestial Adjudicator
+Dark Conductor Argent Adept's Dark Dynamics puts Sarabande of Destruction into play.
+Dark Conductor Argent Adept moved Celestial Adjudicator from The Celestial Tribunal's revealed cards to the environment trash.
+Went from The Argent Adept's UsePower phase to DrawCard phase. 
+The Argent Adept draws Instrumental Conjuration.
+Went from The Argent Adept's DrawCard phase to End phase. 
+Went from The Argent Adept's End phase to The Naturalist's Start phase. 
+Went from The Naturalist's Start phase to PlayCard phase. 
+GameController plays Natural Form's Power.
+Went from The Naturalist's PlayCard phase to UsePower phase. 
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {gazelle} effects.
+The Naturalist draws Cornered Beast.
+Went from The Naturalist's UsePower phase to DrawCard phase. 
+The Naturalist draws Shifter's Strength.
+Went from The Naturalist's DrawCard phase to End phase. 
+Went from The Naturalist's End phase to Omnitron-X's Start phase. 
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Technological Advancement.
+Technological Advancement puts Elemental Exochassis into play.
+Omnitron-X shuffles their Omnitron-X's deck.
+Omnitron-X draws Electro-Deployment Unit.
+GameController moved Technological Advancement to Omnitron-X's trash.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Slip Through Time
+Omnitron-X's Timeshift puts Slip Through Time into play.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Technological Advancement.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Slip Through Time plays Reset.
+Reset moves 1 cards to the top of Omnitron-X's Deck.
+Omnitron-X shuffles their Omnitron-X's deck.
+Omnitron-X draws Singularity.
+Reset plays Technological Advancement.
+Technological Advancement puts Electro-Deployment Unit into play.
+Omnitron-X shuffles their Omnitron-X's deck.
+Omnitron-X draws Bio-Engineering Beam.
+GameController moved Technological Advancement to Omnitron-X's trash.
+GameController moved Reset to Omnitron-X's trash.
+Went from Omnitron-X's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Cloak Projector.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Darkly Dreaming.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Celestial Executioner.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to Infinitor's Start phase. 
+Revealed card: Crazed Artifice
+Heroic Infinitor moved Crazed Artifice from Infinitor's revealed cards to the villain deck.
+Infinitor shuffles their the villain deck.
+Heroic Infinitor caused Lambent Reaper's HP to be set to 4.
+Heroic Infinitor caused Lambent Reaper's HP to be set to 4.
+Heroic Infinitor caused Ocular Swarm's HP to be set to 4.
+Heroic Infinitor caused Recalescent Hellion's HP to be set to 4.
+Heroic Infinitor caused Twisted Miscreation's HP to be set to 4.
+Heroic Infinitor caused Twisted Miscreation's HP to be set to 4.
+Went from Infinitor's Start phase to PlayCard phase. 
+GameController plays Recalescent Hellion.
+Went from Infinitor's PlayCard phase to End phase. 
+Heroic Infinitor initiates 2 Melee damage to Lambent Reaper.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Heroic Infinitor by 1.
+Heroic Infinitor deals Lambent Reaper 2 Melee damage.
+Lambent Reaper is now at 2 HP.
+Lambent Reaper initiates 2 Energy damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Lambent Reaper by 1.
+Lambent Reaper deals Writhe 1 Energy damage.
+Writhe is now at 10 HP.
+Lambent Reaper initiates 2 Psychic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Lambent Reaper by 1.
+Lambent Reaper deals Writhe 1 Psychic damage.
+Writhe is now at 9 HP.
+Recalescent Hellion initiates 3 Fire damage to Heroic Infinitor.
+Heroic Infinitor increases the damage dealt by Recalescent Hellion by 2.
+Recalescent Hellion deals Heroic Infinitor 5 Fire damage.
+Heroic Infinitor is now at 17 HP.
+Recalescent Hellion initiates 3 Fire damage to Dark Conductor Argent Adept.
+Recalescent Hellion deals Dark Conductor Argent Adept 3 Fire damage.
+Dark Conductor Argent Adept is now at 20 HP.
+Twisted Miscreation initiates 4 Energy damage to Omnitron-X.
+Elemental Exochassis reduces the damage dealt to Omnitron-X by Twisted Miscreation by 2.
+Twisted Miscreation deals Omnitron-X 2 Energy damage.
+Omnitron-X is now at 19 HP.
+Twisted Miscreation initiates 4 Energy damage to The Hunted Naturalist.
+Twisted Miscreation deals The Hunted Naturalist 4 Energy damage.
+The Hunted Naturalist is now at 16 HP.
+Lambent Reaper initiates 2 Energy damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Lambent Reaper by 1.
+Lambent Reaper deals Writhe 1 Energy damage.
+Writhe is now at 8 HP.
+Lambent Reaper initiates 2 Psychic damage to Writhe.
+The Shadow Cloak reduces the damage dealt to Writhe by Lambent Reaper by 1.
+Lambent Reaper deals Writhe 1 Psychic damage.
+Writhe is now at 7 HP.
+Recalescent Hellion initiates 3 Fire damage to Dark Conductor Argent Adept.
+Recalescent Hellion deals Dark Conductor Argent Adept 3 Fire damage.
+Dark Conductor Argent Adept is now at 17 HP.
+Recalescent Hellion initiates 3 Fire damage to Omnitron-X.
+Elemental Exochassis reduces the damage dealt to Omnitron-X by Recalescent Hellion by 2.
+Recalescent Hellion deals Omnitron-X 1 Fire damage.
+Omnitron-X is now at 18 HP.
+Went from Infinitor's End phase to The Argent Adept's Start phase. 
+Went from The Argent Adept's Start phase to PlayCard phase. 
+GameController plays Instrumental Conjuration.
+Instrumental Conjuration puts Akpunku's Drum into play.
+The Argent Adept shuffles their The Argent Adept's deck.
+The Argent Adept draws Cedistic Dissonant.
+GameController moved Instrumental Conjuration to The Argent Adept's trash.
+Went from The Argent Adept's PlayCard phase to UsePower phase. 
+The Argent Adept uses the power on Akpunku's Drum.
+The Argent Adept activates the text on Inventive Preparation.
+Inventive Preparation plays Shifter's Strength.
+The Naturalist discards Cornered Beast.
+Shifter's Strength moved Cornered Beast from The Naturalist's hand to The Naturalist's trash.
+The Naturalist discards Natural Form's Power.
+Shifter's Strength moved Natural Form's Power from The Naturalist's hand to The Naturalist's trash.
+The Naturalist discards Crafty Assault.
+Shifter's Strength moved Crafty Assault from The Naturalist's hand to The Naturalist's trash.
+The Naturalist discards Cornered Beast.
+Shifter's Strength moved Cornered Beast from The Naturalist's hand to The Naturalist's trash.
+The Naturalist draws Crafty Assault.
+The Naturalist draws The Predator's Eye.
+The Naturalist draws Hyperactive Senses.
+The Naturalist draws Bestial Shift.
+Shifter's Strength plays Bestial Shift.
+Bestial Shift caused The Hunted Naturalist to regain 3 HP. HP is now 19.
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {crocodile} effects.
+The Hunted Naturalist's Desperate Prey plays Crafty Assault.
+The Hunted Naturalist initiates 2 Melee damage to Recalescent Hellion.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by The Hunted Naturalist by 1.
+The Hunted Naturalist deals Recalescent Hellion 1 Melee damage.
+Recalescent Hellion is now at 3 HP.
+The Hunted Naturalist initiates 2 Melee damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by The Hunted Naturalist by 1.
+The Hunted Naturalist deals Twisted Miscreation 1 Melee damage.
+Twisted Miscreation is now at 3 HP.
+The Hunted Naturalist initiates 2 Melee damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by The Hunted Naturalist by 1.
+The Hunted Naturalist deals Twisted Miscreation 1 Melee damage.
+Twisted Miscreation is now at 3 HP.
+GameController moved Crafty Assault to The Naturalist's trash.
+The Hunted Naturalist initiates 3 Toxic damage to Lambent Reaper.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by The Hunted Naturalist by 1.
+The Hunted Naturalist deals Lambent Reaper 2 Toxic damage.
+Lambent Reaper is now at 2 HP.
+The Naturalist uses the power on Natural Form's Power.
+Void Guard Writhe draws Penultimate Penumbra.
+Void Guard Writhe draws Umbral Siphon.
+The Hunted Naturalist initiates 1 Toxic damage to Celestial Executioner.
+The Hunted Naturalist deals Celestial Executioner 1 Toxic damage.
+Celestial Executioner is now at 5 HP.
+GameController moved Bestial Shift to The Naturalist's trash.
+GameController moved Shifter's Strength to The Naturalist's trash.
+The Argent Adept activates the text on Sarabande of Destruction.
+Sarabande of Destruction destroys Celestial Executioner!
+GameController moved Celestial Executioner to the environment trash.
+Went from The Argent Adept's UsePower phase to DrawCard phase. 
+The Argent Adept draws Polyphoric Flare.
+Went from The Argent Adept's DrawCard phase to End phase. 
+Went from The Argent Adept's End phase to The Naturalist's Start phase. 
+Went from The Naturalist's Start phase to PlayCard phase. 
+GameController plays The Predator's Eye.
+Applying ongoing effect: Increase damage dealt to Recalescent Hellion by 1.
+The Hunted Naturalist initiates 3 Melee damage to Recalescent Hellion.
+The Predator's Eye increases the damage dealt by The Hunted Naturalist by 1.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by The Hunted Naturalist by 1.
+The Hunted Naturalist deals Recalescent Hellion 3 Melee damage.
+Recalescent Hellion is now at 1 HP.
+GameController moved The Predator's Eye to The Naturalist's trash.
+Went from The Naturalist's PlayCard phase to UsePower phase. 
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {gazelle} effects.
+The Naturalist draws Threatening Stomp.
+Went from The Naturalist's UsePower phase to DrawCard phase. 
+The Naturalist draws The Nimble Gazelle.
+Went from The Naturalist's DrawCard phase to End phase. 
+Notice: an ongoing effect just expired: The Naturalist may activate {gazelle} effects.
+Notice: an ongoing effect just expired: The Naturalist may activate {crocodile} effects.
+Went from The Naturalist's End phase to Omnitron-X's Start phase. 
+Slip Through Time destroys itself!
+GameController moved Slip Through Time to Omnitron-X's trash.
+Electro-Deployment Unit plays Electro-Deployment Unit.
+Omnitron-X draws Innervation Ray.
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Innervation Ray.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Disruptive Flechettes
+Omnitron-X's Timeshift puts Disruptive Flechettes into play.
+Disruptive Flechettes will destroy 2 ongoing cards.
+Omnitron-X initiates 2 Projectile damage to Lambent Reaper.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Omnitron-X by 1.
+Omnitron-X deals Lambent Reaper 1 Projectile damage.
+Lambent Reaper is now at 1 HP.
+Omnitron-X initiates 2 Projectile damage to Lambent Reaper.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Omnitron-X by 1.
+Omnitron-X deals Lambent Reaper 1 Projectile damage.
+Lambent Reaper is now at 1 HP.
+Omnitron-X initiates 2 Projectile damage to Ocular Swarm.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Omnitron-X by 1.
+Omnitron-X deals Ocular Swarm 1 Projectile damage.
+Ocular Swarm is now at 3 HP.
+Omnitron-X initiates 2 Projectile damage to Recalescent Hellion.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Omnitron-X by 1.
+Omnitron-X deals Recalescent Hellion 1 Projectile damage.
+Recalescent Hellion is now at 2 HP.
+Omnitron-X initiates 2 Projectile damage to Recalescent Hellion.
+The Predator's Eye increases the damage dealt by Omnitron-X by 1.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Omnitron-X by 1.
+Omnitron-X deals Recalescent Hellion 2 Projectile damage.
+Recalescent Hellion is now at -1 HP.
+Omnitron-X initiates 2 Projectile damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Omnitron-X by 1.
+Omnitron-X deals Twisted Miscreation 1 Projectile damage.
+Twisted Miscreation is now at 2 HP.
+Omnitron-X initiates 2 Projectile damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Omnitron-X by 1.
+Omnitron-X deals Twisted Miscreation 1 Projectile damage.
+Twisted Miscreation is now at 2 HP.
+GameController moved Disruptive Flechettes to Omnitron-X's trash.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Defensive Blast.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Went from Omnitron-X's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Penultimate Penumbra.
+Penultimate Penumbra will destroy 7 equipment cards.
+Penultimate Penumbra destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Penultimate Penumbra destroys Cloak Projector!
+GameController moved Cloak Projector to Void Guard Writhe's trash.
+Writhe initiates 3 Infernal damage to Lambent Reaper.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Writhe by 1.
+Writhe deals Lambent Reaper 2 Infernal damage.
+Lambent Reaper is now at -1 HP.
+Writhe initiates 3 Infernal damage to Recalescent Hellion.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Writhe by 1.
+Writhe deals Recalescent Hellion 2 Infernal damage.
+Recalescent Hellion is now at 0 HP.
+Writhe initiates 3 Infernal damage to Lambent Reaper.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Writhe by 1.
+Writhe deals Lambent Reaper 2 Infernal damage.
+Lambent Reaper is now at -1 HP.
+GameController moved Penultimate Penumbra to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Writhe.
+Writhe's Sink into Shadow puts The Shadow Cloak into play.
+Void Guard Writhe shuffles their Void Guard Writhe's deck.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Fight and Fade.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Paragon of Sentience.
+GameController moved Paragon of Sentience from the environment deck next to Dark Conductor Argent Adept.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to Infinitor's Start phase. 
+Revealed card: Twisted Miscreation
+Heroic Infinitor puts Twisted Miscreation into play.
+Went from Infinitor's Start phase to PlayCard phase. 
+GameController plays Whispers of Oblivion.
+Heroic Infinitor initiates 1 Psychic damage to Lambent Reaper.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Heroic Infinitor by 1.
+Heroic Infinitor deals Lambent Reaper 1 Psychic damage.
+Lambent Reaper is now at -2 HP.
+Heroic Infinitor moved Lambent Reaper under Heroic Infinitor.
+Heroic Infinitor initiates 1 Psychic damage to Lambent Reaper.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Heroic Infinitor by 1.
+Heroic Infinitor deals Lambent Reaper 1 Psychic damage.
+Lambent Reaper is now at -2 HP.
+Heroic Infinitor moved Lambent Reaper under Heroic Infinitor.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Recalescent Hellion.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Heroic Infinitor by 1.
+Heroic Infinitor deals Recalescent Hellion 1 Psychic damage.
+Recalescent Hellion is now at -1 HP.
+Heroic Infinitor moved Recalescent Hellion under Heroic Infinitor.
+Heroic Infinitor initiates 1 Psychic damage to Recalescent Hellion.
+The Predator's Eye increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Heroic Infinitor by 1.
+Heroic Infinitor deals Recalescent Hellion 2 Psychic damage.
+Recalescent Hellion is now at -3 HP.
+Heroic Infinitor moved Recalescent Hellion under Heroic Infinitor.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Heroic Infinitor.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 2.
+Heroic Infinitor deals Heroic Infinitor 4 Psychic damage.
+Heroic Infinitor is now at 13 HP.
+Heroic Infinitor initiates 1 Psychic damage to Dark Conductor Argent Adept.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Dark Conductor Argent Adept 2 Psychic damage.
+Dark Conductor Argent Adept is now at 15 HP.
+Heroic Infinitor initiates 1 Psychic damage to The Hunted Naturalist.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 17 HP.
+Heroic Infinitor initiates 1 Psychic damage to Omnitron-X.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Omnitron-X 2 Psychic damage.
+Omnitron-X is now at 16 HP.
+Heroic Infinitor initiates 1 Psychic damage to Writhe.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Heroic Infinitor by 1.
+Heroic Infinitor deals Writhe 1 Psychic damage.
+Writhe is now at 6 HP.
+Whispers of Oblivion plays Ocular Swarm.
+GameController moved Whispers of Oblivion to the villain trash.
+Went from Infinitor's PlayCard phase to End phase. 
+Heroic Infinitor initiates 2 Melee damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Twisted Miscreation reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Melee damage.
+Twisted Miscreation is now at 0 HP.
+Heroic Infinitor moved Twisted Miscreation under Heroic Infinitor.
+Twisted Miscreation initiates 4 Energy damage to The Hunted Naturalist.
+Twisted Miscreation deals The Hunted Naturalist 4 Energy damage.
+The Hunted Naturalist is now at 13 HP.
+Twisted Miscreation initiates 4 Energy damage to Omnitron-X.
+Elemental Exochassis reduces the damage dealt to Omnitron-X by Twisted Miscreation by 2.
+Twisted Miscreation deals Omnitron-X 2 Energy damage.
+Omnitron-X is now at 14 HP.
+Went from Infinitor's End phase to The Argent Adept's Start phase. 
+Went from The Argent Adept's Start phase to PlayCard phase. 
+GameController plays Polyphoric Flare.
+Dark Conductor Argent Adept initiates 2 Energy damage to Dark Conductor Argent Adept.
+Dark Conductor Argent Adept deals Dark Conductor Argent Adept 2 Energy damage.
+Dark Conductor Argent Adept is now at 13 HP.
+The Argent Adept uses the power on Akpunku's Drum.
+The Argent Adept activates the text on Inventive Preparation.
+Inventive Preparation plays Umbral Siphon.
+The Argent Adept activates the text on Sarabande of Destruction.
+Paragon of Sentience plays Found Wanting.
+GameController moved Found Wanting from the environment deck next to Twisted Miscreation.
+Sarabande of Destruction destroys Paragon of Sentience!
+GameController moved Paragon of Sentience to the environment trash.
+GameController moved Polyphoric Flare to The Argent Adept's trash.
+Went from The Argent Adept's PlayCard phase to UsePower phase. 
+The Argent Adept uses the power on Dark Conductor Argent Adept.
+Revealed card: Ocular Swarm
+Revealed card: Eydisar's Horn
+Dark Conductor Argent Adept's Dark Dynamics puts Eydisar's Horn into play.
+Dark Conductor Argent Adept moved Ocular Swarm from Infinitor's revealed cards to the villain trash.
+Went from The Argent Adept's UsePower phase to DrawCard phase. 
+The Argent Adept draws Rhapsody of Vigor.
+Went from The Argent Adept's DrawCard phase to End phase. 
+Went from The Argent Adept's End phase to The Naturalist's Start phase. 
+Went from The Naturalist's Start phase to PlayCard phase. 
+GameController plays The Nimble Gazelle.
+Went from The Naturalist's PlayCard phase to UsePower phase. 
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {rhinoceros} effects.
+The Hunted Naturalist's Desperate Prey plays Hyperactive Senses.
+Revealed card: Whispers of Oblivion
+Revealed card: Crazed Artifice
+Revealed card: Character Witness
+Revealed card: Representative of Earth
+Hyperactive Senses moved Crazed Artifice from Infinitor's revealed cards to the villain deck.
+Hyperactive Senses moved Whispers of Oblivion from Infinitor's revealed cards to the villain deck.
+Hyperactive Senses moved Character Witness from The Celestial Tribunal's revealed cards to the environment deck.
+Hyperactive Senses moved Representative of Earth from The Celestial Tribunal's revealed cards to the environment deck.
+Hyperactive Senses moved Whispers of Oblivion from the villain deck to the villain trash.
+Hyperactive Senses moved Representative of Earth from the environment deck to the environment trash.
+GameController moved Hyperactive Senses to The Naturalist's trash.
+Went from The Naturalist's UsePower phase to DrawCard phase. 
+The Naturalist draws Natural-Born Vigor.
+Went from The Naturalist's DrawCard phase to End phase. 
+Notice: an ongoing effect just expired: The Naturalist may activate {gazelle} effects.
+Went from The Naturalist's End phase to Omnitron-X's Start phase. 
+Omnitron-X draws Focused Plasma Cannon.
+Electro-Deployment Unit plays Focused Plasma Cannon.
+Innervation Ray caused Writhe to regain 1 HP. HP is now 7.
+Innervation Ray caused Heroic Infinitor to regain 1 HP. HP is now 14.
+Innervation Ray caused Dark Conductor Argent Adept to regain 1 HP. HP is now 14.
+Omnitron-X initiates 2 Fire damage to Twisted Miscreation.
+Heroic Infinitor cannot reduce the damage, because it is irreducible.
+Twisted Miscreation cannot reduce the damage, because it is irreducible.
+Omnitron-X deals Twisted Miscreation 2 Fire damage.
+Twisted Miscreation is now at 1 HP.
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Bio-Engineering Beam.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Omnitron-X.
+Revealed card: Technological Advancement
+Omnitron-X's Timeshift puts Technological Advancement into play.
+Technological Advancement puts Focused Plasma Cannon into play.
+Omnitron-X shuffles their Omnitron-X's deck.
+Omnitron-X draws Reset.
+GameController moved Technological Advancement to Omnitron-X's trash.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Gaussian Coil Blaster.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Went from Omnitron-X's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Darkly Dreaming.
+Writhe initiates 2 Infernal damage to Ocular Swarm.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Writhe by 1.
+Writhe deals Ocular Swarm 2 Infernal damage.
+Ocular Swarm is now at 2 HP.
+Writhe initiates 2 Infernal damage to Ocular Swarm.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Writhe by 1.
+Writhe deals Ocular Swarm 2 Infernal damage.
+Ocular Swarm is now at 0 HP.
+Writhe initiates 2 Infernal damage to Twisted Miscreation.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Twisted Miscreation reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Writhe deals Twisted Miscreation 1 Infernal damage.
+Twisted Miscreation is now at 0 HP.
+Writhe initiates 2 Infernal damage to Twisted Miscreation.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Twisted Miscreation reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Writhe deals Twisted Miscreation 1 Infernal damage.
+Twisted Miscreation is now at 0 HP.
+Darkly Dreaming destroys The Shadow Cloak!
+GameController moved The Shadow Cloak to Void Guard Writhe's trash.
+Ocular Swarm initiates 2 Psychic damage to Ocular Swarm.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Ocular Swarm by 1.
+Ocular Swarm deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 1 HP.
+Ocular Swarm initiates 2 Psychic damage to Ocular Swarm.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Ocular Swarm by 1.
+Ocular Swarm deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at -1 HP.
+Twisted Miscreation initiates 2 Psychic damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Twisted Miscreation by 1.
+Twisted Miscreation deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at -1 HP.
+Twisted Miscreation initiates 2 Psychic damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Twisted Miscreation by 1.
+Twisted Miscreation deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at -1 HP.
+GameController moved Darkly Dreaming to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Damage amount was 0, so no damage was dealt.
+Writhe initiates 1 Infernal damage to Twisted Miscreation.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Damage amount was 0, so no damage was dealt.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Concealed Assailant.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Character Witness.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+***** LOADED UNDO FILE: undo-72-VoidGuardWrithe-PlayCard *****
+Possible achievement: Base_CumulativeDamage, progress: 100
+Possible achievement: Base_CumulativeHeal, progress: 1198
+Possible achievement: Base_LargeAttack
+Possible achievement: Base_LastHeroStanding
+WARNING: Could not find achievement controller class for Base_MultiplayerInfection
+Possible achievement: Base_NoCards
+Possible achievement: Base_NoPowers
+Possible achievement: Base_RedirectMany
+Possible achievement: Base_WinFullHP
+Possible achievement: Base_WinGame
+GameController plays Darkly Dreaming.
+Writhe initiates 2 Infernal damage to Ocular Swarm.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Writhe by 1.
+Writhe deals Ocular Swarm 2 Infernal damage.
+Ocular Swarm is now at 2 HP.
+Writhe initiates 2 Infernal damage to Ocular Swarm.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Writhe by 1.
+Writhe deals Ocular Swarm 2 Infernal damage.
+Ocular Swarm is now at 0 HP.
+Writhe initiates 2 Infernal damage to Twisted Miscreation.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Twisted Miscreation reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Writhe deals Twisted Miscreation 1 Infernal damage.
+Twisted Miscreation is now at 0 HP.
+Writhe initiates 2 Infernal damage to Twisted Miscreation.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Twisted Miscreation reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Writhe deals Twisted Miscreation 1 Infernal damage.
+Twisted Miscreation is now at 0 HP.
+GameController moved Darkly Dreaming to Void Guard Writhe's trash.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Twisted Miscreation.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Writhe deals Twisted Miscreation 1 Melee damage.
+Twisted Miscreation is now at -1 HP.
+Applying ongoing effect: Twisted Miscreation cannot gain HP.
+Writhe initiates 1 Infernal damage to Twisted Miscreation.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Writhe by 1.
+Writhe deals Twisted Miscreation 1 Infernal damage.
+Twisted Miscreation is now at -2 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Concealed Assailant.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Character Witness.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to Infinitor's Start phase. 
+Revealed card: Crazed Artifice
+Heroic Infinitor moved Crazed Artifice from Infinitor's revealed cards to the villain deck.
+Infinitor shuffles their the villain deck.
+Heroic Infinitor caused Ocular Swarm's HP to be set to 4.
+Heroic Infinitor caused Ocular Swarm's HP to be set to 4.
+Heroic Infinitor caused Twisted Miscreation's HP to be set to 4.
+Heroic Infinitor caused Twisted Miscreation's HP to be set to 4.
+Went from Infinitor's Start phase to PlayCard phase. 
+GameController plays Machinations of a Madman.
+Revealed card: Whispers of Oblivion
+Machinations of a Madman moved Whispers of Oblivion from Infinitor's revealed cards to the villain trash.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Heroic Infinitor.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 2.
+Heroic Infinitor deals Heroic Infinitor 4 Psychic damage.
+Heroic Infinitor is now at 10 HP.
+Heroic Infinitor initiates 1 Psychic damage to Dark Conductor Argent Adept.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Dark Conductor Argent Adept 2 Psychic damage.
+Dark Conductor Argent Adept is now at 12 HP.
+Heroic Infinitor initiates 1 Psychic damage to The Hunted Naturalist.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 11 HP.
+Heroic Infinitor initiates 1 Psychic damage to Omnitron-X.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Omnitron-X 2 Psychic damage.
+Omnitron-X is now at 12 HP.
+Heroic Infinitor initiates 1 Psychic damage to Writhe.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Heroic Infinitor by 1.
+Heroic Infinitor deals Writhe 1 Psychic damage.
+Writhe is now at 6 HP.
+Machinations of a Madman plays Insanity.
+Insanity plays Recalescent Hellion.
+Insanity plays Lambent Reaper.
+Insanity plays Insanity.
+Insanity plays Crazed Artifice.
+Revealed card: Crazed Artifice
+Revealed card: Crazed Artifice
+Revealed card: Machinations of a Madman
+Ran out of cards to reveal.
+Crazed Artifice moved Crazed Artifice from Infinitor's revealed cards to the villain trash.
+Crazed Artifice moved Crazed Artifice from Infinitor's revealed cards to the villain trash.
+Crazed Artifice moved Machinations of a Madman from Infinitor's revealed cards to the villain trash.
+GameController moves 7 cards to the top of Infinitor's Deck.
+Infinitor shuffles their the villain deck.
+Crazed Artifice plays Machinations of a Madman.
+Revealed card: Ocular Swarm
+Machinations of a Madman puts Ocular Swarm into play.
+Machinations of a Madman plays Crazed Artifice.
+Revealed card: Whispers of Oblivion
+Revealed card: Whispers of Oblivion
+Revealed card: Whispers of Oblivion
+Revealed card: Crazed Artifice
+Crazed Artifice moved Whispers of Oblivion from Infinitor's revealed cards to the villain trash.
+Crazed Artifice moved Whispers of Oblivion from Infinitor's revealed cards to the villain trash.
+Crazed Artifice moved Whispers of Oblivion from Infinitor's revealed cards to the villain trash.
+Crazed Artifice moved Crazed Artifice from Infinitor's revealed cards to the villain trash.
+GameController moves 4 cards to the top of Infinitor's Deck.
+Infinitor shuffles their the villain deck.
+Crazed Artifice plays Whispers of Oblivion.
+Heroic Infinitor initiates 1 Psychic damage to Lambent Reaper.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Heroic Infinitor by 1.
+Heroic Infinitor deals Lambent Reaper 1 Psychic damage.
+Lambent Reaper is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Recalescent Hellion.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Heroic Infinitor by 1.
+Heroic Infinitor deals Recalescent Hellion 1 Psychic damage.
+Recalescent Hellion is now at 3 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Heroic Infinitor.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 2.
+Heroic Infinitor deals Heroic Infinitor 4 Psychic damage.
+Heroic Infinitor is now at 6 HP.
+Heroic Infinitor initiates 1 Psychic damage to Dark Conductor Argent Adept.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Dark Conductor Argent Adept 2 Psychic damage.
+Dark Conductor Argent Adept is now at 10 HP.
+Heroic Infinitor initiates 1 Psychic damage to The Hunted Naturalist.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 9 HP.
+Heroic Infinitor initiates 1 Psychic damage to Omnitron-X.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Omnitron-X 2 Psychic damage.
+Omnitron-X is now at 10 HP.
+Heroic Infinitor initiates 1 Psychic damage to Writhe.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Heroic Infinitor by 1.
+Heroic Infinitor deals Writhe 1 Psychic damage.
+Writhe is now at 5 HP.
+Whispers of Oblivion plays Whispers of Oblivion.
+Heroic Infinitor initiates 1 Psychic damage to Lambent Reaper.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Heroic Infinitor by 1.
+Heroic Infinitor deals Lambent Reaper 1 Psychic damage.
+Lambent Reaper is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Recalescent Hellion.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Heroic Infinitor by 1.
+Heroic Infinitor deals Recalescent Hellion 1 Psychic damage.
+Recalescent Hellion is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Heroic Infinitor.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 2.
+Heroic Infinitor deals Heroic Infinitor 4 Psychic damage.
+Heroic Infinitor is now at 2 HP.
+Heroic Infinitor initiates 1 Psychic damage to Dark Conductor Argent Adept.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Dark Conductor Argent Adept 2 Psychic damage.
+Dark Conductor Argent Adept is now at 8 HP.
+Heroic Infinitor initiates 1 Psychic damage to The Hunted Naturalist.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 7 HP.
+Heroic Infinitor initiates 1 Psychic damage to Omnitron-X.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor deals Omnitron-X 2 Psychic damage.
+Omnitron-X is now at 8 HP.
+Electro-Deployment Unit destroys itself!
+GameController moved Electro-Deployment Unit to Omnitron-X's trash.
+Electro-Deployment Unit destroys itself!
+GameController moved Electro-Deployment Unit to Omnitron-X's trash.
+Innervation Ray destroys itself!
+GameController moved Innervation Ray to Omnitron-X's trash.
+Focused Plasma Cannon destroys itself!
+GameController moved Focused Plasma Cannon to Omnitron-X's trash.
+Focused Plasma Cannon destroys itself!
+GameController moved Focused Plasma Cannon to Omnitron-X's trash.
+Heroic Infinitor initiates 1 Psychic damage to Writhe.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+The Shadow Cloak reduces the damage dealt to Writhe by Heroic Infinitor by 1.
+Heroic Infinitor deals Writhe 1 Psychic damage.
+Writhe is now at 4 HP.
+Whispers of Oblivion plays Whispers of Oblivion.
+Heroic Infinitor initiates 1 Psychic damage to Lambent Reaper.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Lambent Reaper by Heroic Infinitor by 1.
+Heroic Infinitor deals Lambent Reaper 1 Psychic damage.
+Lambent Reaper is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 0 HP.
+Heroic Infinitor moved Ocular Swarm under Heroic Infinitor.
+Heroic Infinitor initiates 1 Psychic damage to Ocular Swarm.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Ocular Swarm by Heroic Infinitor by 1.
+Heroic Infinitor deals Ocular Swarm 1 Psychic damage.
+Ocular Swarm is now at 0 HP.
+Heroic Infinitor moved Ocular Swarm under Heroic Infinitor.
+Heroic Infinitor initiates 1 Psychic damage to Recalescent Hellion.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Recalescent Hellion by Heroic Infinitor by 1.
+Heroic Infinitor deals Recalescent Hellion 1 Psychic damage.
+Recalescent Hellion is now at 1 HP.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 0 HP.
+Heroic Infinitor moved Twisted Miscreation under Heroic Infinitor.
+Found Wanting plays Celestial Executioner.
+Found Wanting destroys itself!
+GameController moved Found Wanting to the environment trash.
+Heroic Infinitor initiates 1 Psychic damage to Twisted Miscreation.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor reduces the damage dealt to Twisted Miscreation by Heroic Infinitor by 1.
+Heroic Infinitor deals Twisted Miscreation 1 Psychic damage.
+Twisted Miscreation is now at 0 HP.
+Heroic Infinitor moved Twisted Miscreation under Heroic Infinitor.
+Heroic Infinitor initiates 1 Psychic damage to Heroic Infinitor.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 1.
+Heroic Infinitor increases the damage dealt by Heroic Infinitor by 2.
+Heroic Infinitor deals Heroic Infinitor 4 Psychic damage.
+Heroic Infinitor is now at -2 HP.
+Heroic Infinitor was flipped to its back side.
+Heroic Infinitor restored the HP of Heroic Infinitor to 90 HP.
+GameController moved Lambent Reaper from under Heroic Infinitor to the villain trash.
+GameController moved Lambent Reaper from under Heroic Infinitor to the villain trash.
+GameController moved Ocular Swarm from under Heroic Infinitor to the villain trash.
+GameController moved Ocular Swarm from under Heroic Infinitor to the villain trash.
+GameController moved Recalescent Hellion from under Heroic Infinitor to the villain trash.
+GameController moved Recalescent Hellion from under Heroic Infinitor to the villain trash.
+GameController moved Twisted Miscreation from under Heroic Infinitor to the villain trash.
+GameController moved Twisted Miscreation from under Heroic Infinitor to the villain trash.
+GameController moved Twisted Miscreation from under Heroic Infinitor to the villain trash.
+Heroic Infinitor initiates 9 Energy damage to Lambent Reaper.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Lambent Reaper 9 Energy damage.
+Lambent Reaper is now at -8 HP.
+Heroic Infinitor initiates 9 Energy damage to Ocular Swarm.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Ocular Swarm 9 Energy damage.
+Ocular Swarm is now at -8 HP.
+Heroic Infinitor initiates 9 Energy damage to Recalescent Hellion.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Recalescent Hellion 9 Energy damage.
+Recalescent Hellion is now at -8 HP.
+Heroic Infinitor initiates 9 Energy damage to Heroic Infinitor.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Heroic Infinitor 9 Energy damage.
+Heroic Infinitor is now at 81 HP.
+Heroic Infinitor initiates 9 Energy damage to Celestial Executioner.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Celestial Executioner 9 Energy damage.
+Celestial Executioner is now at -3 HP.
+Heroic Infinitor destroys Celestial Executioner!
+GameController moved Celestial Executioner to the environment trash.
+Heroic Infinitor caused Dark Conductor Argent Adept to regain 9 HP. HP is now 17.
+Heroic Infinitor caused The Hunted Naturalist to regain 9 HP. HP is now 16.
+Heroic Infinitor caused Omnitron-X to regain 9 HP. HP is now 17.
+Heroic Infinitor caused Writhe to regain 9 HP. HP is now 13.
+Heroic Infinitor initiates 1 Psychic damage to Dark Conductor Argent Adept.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Dark Conductor Argent Adept 1 Psychic damage.
+Dark Conductor Argent Adept is now at 16 HP.
+Heroic Infinitor initiates 1 Psychic damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals The Hunted Naturalist 1 Psychic damage.
+The Hunted Naturalist is now at 15 HP.
+Heroic Infinitor initiates 1 Psychic damage to Omnitron-X.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Omnitron-X 1 Psychic damage.
+Omnitron-X is now at 16 HP.
+Heroic Infinitor initiates 1 Psychic damage to Writhe.
+Heroic Infinitor makes the damage irreducible.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Writhe 1 Psychic damage.
+Writhe is now at 12 HP.
+Whispers of Oblivion plays Crazed Artifice.
+GameController moves 9 cards to the top of Infinitor's Deck.
+Infinitor shuffles their the villain deck.
+Crazed Artifice plays Ocular Swarm.
+Heroic Infinitor caused Heroic Infinitor to regain 4 HP. HP is now 85.
+GameController moved Crazed Artifice to the villain trash.
+GameController moved Whispers of Oblivion to the villain trash.
+GameController moved Whispers of Oblivion to the villain trash.
+GameController moved Whispers of Oblivion to the villain trash.
+GameController moved Crazed Artifice to the villain trash.
+GameController moved Machinations of a Madman to the villain trash.
+GameController moved Crazed Artifice to the villain trash.
+GameController moved Insanity to the villain trash.
+GameController moved Insanity to the villain trash.
+GameController moved Machinations of a Madman to the villain trash.
+Went from Infinitor's PlayCard phase to End phase. 
+Heroic Infinitor initiates 2 Energy damage to Dark Conductor Argent Adept.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Dark Conductor Argent Adept 2 Energy damage.
+Dark Conductor Argent Adept is now at 14 HP.
+Heroic Infinitor initiates 2 Energy damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals The Hunted Naturalist 2 Energy damage.
+The Hunted Naturalist is now at 13 HP.
+Heroic Infinitor initiates 2 Energy damage to Omnitron-X.
+Heroic Infinitor makes the damage irreducible.
+Elemental Exochassis cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Omnitron-X 2 Energy damage.
+Omnitron-X is now at 14 HP.
+Heroic Infinitor initiates 2 Energy damage to Writhe.
+Heroic Infinitor makes the damage irreducible.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Writhe 2 Energy damage.
+Writhe is now at 10 HP.
+Dark Conductor Argent Adept initiates 2 Psychic damage to Dark Conductor Argent Adept.
+Dark Conductor Argent Adept deals Dark Conductor Argent Adept 2 Psychic damage.
+Dark Conductor Argent Adept is now at 12 HP.
+The Hunted Naturalist initiates 2 Psychic damage to The Hunted Naturalist.
+The Hunted Naturalist deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 11 HP.
+Omnitron-X initiates 2 Psychic damage to Omnitron-X.
+Omnitron-X deals Omnitron-X 2 Psychic damage.
+Omnitron-X is now at 12 HP.
+Writhe initiates 2 Psychic damage to Writhe.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Writhe deals Writhe 3 Psychic damage.
+Writhe is now at 7 HP.
+Recalescent Hellion initiates 3 Fire damage to Dark Conductor Argent Adept.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Recalescent Hellion deals Dark Conductor Argent Adept 3 Fire damage.
+Dark Conductor Argent Adept is now at 9 HP.
+Recalescent Hellion initiates 3 Fire damage to Omnitron-X.
+Heroic Infinitor makes the damage irreducible.
+Elemental Exochassis cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Recalescent Hellion deals Omnitron-X 3 Fire damage.
+Omnitron-X is now at 9 HP.
+Lambent Reaper initiates 2 Energy damage to Writhe.
+Heroic Infinitor makes the damage irreducible.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals Writhe 2 Energy damage.
+Writhe is now at 5 HP.
+Lambent Reaper initiates 2 Psychic damage to Writhe.
+Heroic Infinitor makes the damage irreducible.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals Writhe 2 Psychic damage.
+Writhe is now at 3 HP.
+Went from Infinitor's End phase to The Argent Adept's Start phase. 
+Went from The Argent Adept's Start phase to PlayCard phase. 
+GameController plays Alacritous Subdominant.
+Went from The Argent Adept's PlayCard phase to UsePower phase. 
+The Argent Adept uses the power on Eydisar's Horn.
+The Argent Adept activates the text on Sarabande of Destruction.
+Sarabande of Destruction destroys Character Witness!
+GameController moved Character Witness to the environment trash.
+The Argent Adept activates the text on Alacritous Subdominant.
+The Argent Adept uses the power on Akpunku's Drum.
+The Argent Adept activates the text on Inventive Preparation.
+Inventive Preparation plays Reset.
+Reset moves 10 cards to the top of Omnitron-X's Deck.
+Omnitron-X shuffles their Omnitron-X's deck.
+Omnitron-X draws Focused Plasma Cannon.
+Reset plays Focused Plasma Cannon.
+GameController moved Reset to Omnitron-X's trash.
+The Argent Adept activates the text on Sarabande of Destruction.
+Sarabande of Destruction destroys Alacritous Subdominant!
+GameController moved Alacritous Subdominant to The Argent Adept's trash.
+Went from The Argent Adept's UsePower phase to DrawCard phase. 
+The Argent Adept draws Musaragni's Harp.
+Went from The Argent Adept's DrawCard phase to End phase. 
+Went from The Argent Adept's End phase to The Naturalist's Start phase. 
+Went from The Naturalist's Start phase to PlayCard phase. 
+GameController plays Natural-Born Vigor.
+Natural-Born Vigor increased the action count of UsePower by 1.
+Went from The Naturalist's PlayCard phase to UsePower phase. (Count: 2)
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {crocodile} effects.
+The Hunted Naturalist's Desperate Prey plays Threatening Stomp.
+The Hunted Naturalist initiates 4 Melee damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 4 Melee damage.
+Heroic Infinitor is now at 81 HP.
+Applying ongoing effect: Redirect damage dealt by Heroic Infinitor to The Hunted Naturalist.
+GameController moved Threatening Stomp to The Naturalist's trash.
+The Naturalist uses the power on Natural Form's Power.
+The Naturalist draws The Deadly Crocodile.
+The Naturalist draws Natural-Born Vigor.
+Natural Form's Power caused The Hunted Naturalist to regain 2 HP. HP is now 13.
+The Hunted Naturalist initiates 1 Toxic damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 1 Toxic damage.
+Heroic Infinitor is now at 80 HP.
+The Hunted Naturalist initiates 1 Toxic damage to Recalescent Hellion.
+The Hunted Naturalist deals Recalescent Hellion 1 Toxic damage.
+Recalescent Hellion is now at -9 HP.
+Went from The Naturalist's UsePower phase to DrawCard phase. 
+The Naturalist draws Feral Fury.
+Went from The Naturalist's DrawCard phase to End phase. 
+Notice: an ongoing effect just expired: The Naturalist may activate {rhinoceros} effects.
+Went from The Naturalist's End phase to Omnitron-X's Start phase. 
+Omnitron-X initiates 2 Fire damage to Heroic Infinitor.
+Omnitron-X deals Heroic Infinitor 2 Fire damage.
+Heroic Infinitor is now at 78 HP.
+Went from Omnitron-X's Start phase to PlayCard phase. 
+GameController plays Defensive Blast.
+Went from Omnitron-X's PlayCard phase to UsePower phase. 
+Omnitron-X uses the power on Defensive Blast.
+Omnitron-X discards Temporal Shielding.
+Defensive Blast moved Temporal Shielding from Omnitron-X's hand to Omnitron-X's trash.
+Omnitron-X initiates 1 Cold damage to Lambent Reaper.
+Omnitron-X deals Lambent Reaper 1 Cold damage.
+Lambent Reaper is now at -9 HP.
+Omnitron-X initiates 1 Fire damage to Lambent Reaper.
+Omnitron-X deals Lambent Reaper 1 Fire damage.
+Lambent Reaper is now at -10 HP.
+Omnitron-X initiates 1 Lightning damage to Lambent Reaper.
+Omnitron-X deals Lambent Reaper 1 Lightning damage.
+Lambent Reaper is now at -11 HP.
+Omnitron-X initiates 1 Energy damage to Lambent Reaper.
+Omnitron-X deals Lambent Reaper 1 Energy damage.
+Lambent Reaper is now at -12 HP.
+Omnitron-X initiates 1 Cold damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Cold damage.
+Ocular Swarm is now at -9 HP.
+Omnitron-X initiates 1 Fire damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Fire damage.
+Ocular Swarm is now at -10 HP.
+Omnitron-X initiates 1 Lightning damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Lightning damage.
+Ocular Swarm is now at -11 HP.
+Omnitron-X initiates 1 Energy damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Energy damage.
+Ocular Swarm is now at -12 HP.
+Omnitron-X initiates 1 Cold damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Cold damage.
+Ocular Swarm is now at 3 HP.
+Omnitron-X initiates 1 Fire damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Fire damage.
+Ocular Swarm is now at 2 HP.
+Omnitron-X initiates 1 Lightning damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Lightning damage.
+Ocular Swarm is now at 1 HP.
+Omnitron-X initiates 1 Energy damage to Ocular Swarm.
+Omnitron-X deals Ocular Swarm 1 Energy damage.
+Ocular Swarm is now at 0 HP.
+Omnitron-X initiates 1 Cold damage to Recalescent Hellion.
+Omnitron-X deals Recalescent Hellion 1 Cold damage.
+Recalescent Hellion is now at -10 HP.
+Omnitron-X initiates 1 Fire damage to Recalescent Hellion.
+Omnitron-X deals Recalescent Hellion 1 Fire damage.
+Recalescent Hellion is now at -11 HP.
+Omnitron-X initiates 1 Lightning damage to Recalescent Hellion.
+Omnitron-X deals Recalescent Hellion 1 Lightning damage.
+Recalescent Hellion is now at -12 HP.
+Omnitron-X initiates 1 Energy damage to Recalescent Hellion.
+Omnitron-X deals Recalescent Hellion 1 Energy damage.
+Recalescent Hellion is now at -13 HP.
+Omnitron-X initiates 1 Cold damage to Heroic Infinitor.
+Omnitron-X deals Heroic Infinitor 1 Cold damage.
+Heroic Infinitor is now at 77 HP.
+Omnitron-X initiates 1 Fire damage to Heroic Infinitor.
+Omnitron-X deals Heroic Infinitor 1 Fire damage.
+Heroic Infinitor is now at 76 HP.
+Omnitron-X initiates 1 Lightning damage to Heroic Infinitor.
+Omnitron-X deals Heroic Infinitor 1 Lightning damage.
+Heroic Infinitor is now at 75 HP.
+Omnitron-X initiates 1 Energy damage to Heroic Infinitor.
+Omnitron-X deals Heroic Infinitor 1 Energy damage.
+Heroic Infinitor is now at 74 HP.
+Went from Omnitron-X's UsePower phase to DrawCard phase. 
+Omnitron-X draws Rocket Punch.
+Went from Omnitron-X's DrawCard phase to End phase. 
+Went from Omnitron-X's End phase to Void Guard Writhe's Start phase. 
+Went from Void Guard Writhe's Start phase to PlayCard phase. 
+GameController plays Concealed Assailant.
+Went from Void Guard Writhe's PlayCard phase to UsePower phase. 
+Void Guard Writhe uses the power on Umbral Siphon.
+Writhe initiates 1 Melee damage to Heroic Infinitor.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Heroic Infinitor 2 Melee damage.
+Heroic Infinitor is now at 72 HP.
+Applying ongoing effect: Heroic Infinitor cannot gain HP.
+Writhe initiates 1 Infernal damage to Heroic Infinitor.
+The Shadow Cloak increases the damage dealt by Writhe by 1.
+Writhe deals Heroic Infinitor 2 Infernal damage.
+Heroic Infinitor is now at 70 HP.
+Went from Void Guard Writhe's UsePower phase to DrawCard phase. 
+Void Guard Writhe draws Concealed Assailant.
+Went from Void Guard Writhe's DrawCard phase to End phase. 
+Went from Void Guard Writhe's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays Paragon of Sentience.
+GameController moved Paragon of Sentience from the environment deck next to Dark Conductor Argent Adept.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to Infinitor's Start phase. 
+Went from Infinitor's Start phase to PlayCard phase. 
+GameController plays Lambent Reaper.
+Umbral Siphon prevented Heroic Infinitor from regaining HP.
+Went from Infinitor's PlayCard phase to End phase. 
+Heroic Infinitor initiates 2 Energy damage to Dark Conductor Argent Adept.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Dark Conductor Argent Adept 2 Energy damage.
+Dark Conductor Argent Adept is now at 7 HP.
+Heroic Infinitor initiates 2 Energy damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals The Hunted Naturalist 2 Energy damage.
+The Hunted Naturalist is now at 11 HP.
+Heroic Infinitor initiates 2 Energy damage to Omnitron-X.
+Heroic Infinitor makes the damage irreducible.
+Elemental Exochassis cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Omnitron-X 2 Energy damage.
+Omnitron-X is now at 7 HP.
+Heroic Infinitor initiates 2 Energy damage to Writhe.
+Heroic Infinitor makes the damage irreducible.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Void Guard Writhe discards Concealed Assailant.
+The Shadow Cloak moved Concealed Assailant from Void Guard Writhe's hand to Void Guard Writhe's trash.
+Action of Heroic Infinitor was prevented by The Shadow Cloak.
+Dark Conductor Argent Adept initiates 2 Psychic damage to Dark Conductor Argent Adept.
+Dark Conductor Argent Adept deals Dark Conductor Argent Adept 2 Psychic damage.
+Dark Conductor Argent Adept is now at 5 HP.
+The Hunted Naturalist initiates 2 Psychic damage to The Hunted Naturalist.
+The Hunted Naturalist deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 9 HP.
+Omnitron-X initiates 2 Psychic damage to Omnitron-X.
+Omnitron-X deals Omnitron-X 2 Psychic damage.
+Omnitron-X is now at 5 HP.
+Recalescent Hellion initiates 3 Fire damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Recalescent Hellion deals The Hunted Naturalist 3 Fire damage.
+The Hunted Naturalist is now at 6 HP.
+Recalescent Hellion initiates 3 Fire damage to Omnitron-X.
+Heroic Infinitor makes the damage irreducible.
+Elemental Exochassis cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Recalescent Hellion deals Omnitron-X 3 Fire damage.
+Omnitron-X is now at 2 HP.
+Focused Plasma Cannon destroys itself!
+GameController moved Focused Plasma Cannon to Omnitron-X's trash.
+Lambent Reaper initiates 2 Energy damage to Omnitron-X.
+Heroic Infinitor makes the damage irreducible.
+Elemental Exochassis cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals Omnitron-X 2 Energy damage.
+Omnitron-X is now at 0 HP.
+Omnitron-X is no longer a target.
+All of Omnitron-X's cards are removed from the game.
+GameController moves 40 cards to the top of Omnitron-X's OutOfGame.
+Omnitron-X was flipped to its back side.
+Lambent Reaper initiates 2 Energy damage to Writhe.
+Heroic Infinitor makes the damage irreducible.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals Writhe 2 Energy damage.
+Writhe is now at 1 HP.
+Lambent Reaper initiates 2 Psychic damage to Writhe.
+Heroic Infinitor makes the damage irreducible.
+The Shadow Cloak cannot reduce the damage, because it is irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals Writhe 2 Psychic damage.
+Writhe is now at -1 HP.
+Writhe is no longer a target.
+All of Void Guard Writhe's cards are removed from the game.
+GameController moves 40 cards to the top of Void Guard Writhe's OutOfGame.
+Writhe was flipped to its back side.
+Went from Infinitor's End phase to The Argent Adept's Start phase. 
+Went from The Argent Adept's Start phase to PlayCard phase. 
+GameController plays Vernal Sonata.
+Vernal Sonata caused Dark Conductor Argent Adept to regain 1 HP. HP is now 6.
+Vernal Sonata caused The Hunted Naturalist to regain 1 HP. HP is now 7.
+Vernal Sonata moved Alacritous Subdominant from The Argent Adept's trash to The Argent Adept's deck.
+Vernal Sonata moved Bestial Shift from The Naturalist's trash to The Naturalist's deck.
+GameController moved Vernal Sonata to The Argent Adept's trash.
+Went from The Argent Adept's PlayCard phase to UsePower phase. 
+The Argent Adept uses the power on Dark Conductor Argent Adept.
+Revealed card: Ocular Swarm
+Revealed card: Bestial Shift
+Dark Conductor Argent Adept's Dark Dynamics puts Bestial Shift into play.
+Bestial Shift caused The Hunted Naturalist to regain 3 HP. HP is now 10.
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {rhinoceros} effects.
+The Hunted Naturalist's Desperate Prey plays Feral Fury.
+The Hunted Naturalist initiates 2 Melee damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 2 Melee damage.
+Heroic Infinitor is now at 68 HP.
+The Hunted Naturalist initiates 2 Toxic damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 2 Toxic damage.
+Heroic Infinitor is now at 66 HP.
+GameController moved Feral Fury to The Naturalist's trash.
+Applying ongoing effect: Reduce damage dealt to The Hunted Naturalist by 1.
+The Hunted Naturalist initiates 3 Toxic damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 3 Toxic damage.
+Heroic Infinitor is now at 63 HP.
+The Naturalist uses the power on Natural Form's Power.
+The Naturalist draws Hyperactive Senses.
+The Naturalist draws Primal Charge.
+Natural Form's Power caused The Hunted Naturalist to regain 2 HP. HP is now 12.
+The Hunted Naturalist initiates 1 Toxic damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 1 Toxic damage.
+Heroic Infinitor is now at 62 HP.
+The Hunted Naturalist initiates 1 Toxic damage to Recalescent Hellion.
+The Hunted Naturalist deals Recalescent Hellion 1 Toxic damage.
+Recalescent Hellion is now at -14 HP.
+GameController moved Bestial Shift to The Naturalist's trash.
+Dark Conductor Argent Adept moved Ocular Swarm from Infinitor's revealed cards to the villain trash.
+Went from The Argent Adept's UsePower phase to DrawCard phase. 
+The Argent Adept draws Alacritous Subdominant.
+Went from The Argent Adept's DrawCard phase to End phase. 
+Went from The Argent Adept's End phase to The Naturalist's Start phase. 
+Notice: an ongoing effect just expired: Redirect damage dealt by Heroic Infinitor to The Hunted Naturalist.
+Notice: an ongoing effect just expired: Reduce damage dealt to The Hunted Naturalist by 1.
+Natural-Born Vigor caused The Hunted Naturalist to regain 4 HP. HP is now 16.
+Natural-Born Vigor destroys itself!
+GameController moved Natural-Born Vigor to The Naturalist's trash.
+Went from The Naturalist's Start phase to PlayCard phase. 
+GameController plays Natural-Born Vigor.
+Natural-Born Vigor increased the action count of UsePower by 1.
+Went from The Naturalist's PlayCard phase to UsePower phase. (Count: 2)
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {crocodile} effects.
+The Hunted Naturalist's Desperate Prey plays Primal Charge.
+The Naturalist draws Threatening Stomp.
+The Naturalist draws Resilient Hide.
+The Naturalist draws Feral Fury.
+The Naturalist draws Indomitable Force.
+The Hunted Naturalist initiates 2 Melee damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 2 Melee damage.
+Heroic Infinitor is now at 60 HP.
+The Hunted Naturalist initiates 3 Melee damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 3 Melee damage.
+Heroic Infinitor is now at 57 HP.
+GameController moved Primal Charge to The Naturalist's trash.
+The Naturalist uses the power on Natural Form's Power.
+The Argent Adept draws Telamon's Lyra.
+The Argent Adept draws Scherzo of Frost and Flame.
+Natural Form's Power caused The Hunted Naturalist to regain 2 HP. HP is now 18.
+The Hunted Naturalist initiates 1 Toxic damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 1 Toxic damage.
+Heroic Infinitor is now at 56 HP.
+The Hunted Naturalist initiates 1 Toxic damage to Recalescent Hellion.
+The Hunted Naturalist deals Recalescent Hellion 1 Toxic damage.
+Recalescent Hellion is now at -15 HP.
+Went from The Naturalist's UsePower phase to DrawCard phase. 
+The Naturalist draws Feral Fury.
+Went from The Naturalist's DrawCard phase to End phase. 
+Notice: an ongoing effect just expired: The Naturalist may activate {crocodile} effects.
+Notice: an ongoing effect just expired: The Naturalist may activate {rhinoceros} effects.
+Went from The Naturalist's End phase to Omnitron-X's Start phase. 
+Went from Omnitron-X's Start phase to UseIncapacitatedAbility phase. 
+Omnitron-X uses the incapacitated ability "One player may play a card."
+Omnitron-X plays Feral Fury.
+The Hunted Naturalist initiates 2 Melee damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 2 Melee damage.
+Heroic Infinitor is now at 54 HP.
+The Hunted Naturalist initiates 2 Toxic damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 2 Toxic damage.
+Heroic Infinitor is now at 52 HP.
+GameController moved Feral Fury to The Naturalist's trash.
+Went from Omnitron-X's UseIncapacitatedAbility phase to End phase. 
+Went from Omnitron-X's End phase to Void Guard Writhe's Start phase. 
+Notice: an ongoing effect just expired: Heroic Infinitor cannot gain HP.
+Went from Void Guard Writhe's Start phase to UseIncapacitatedAbility phase. 
+Void Guard Writhe uses the incapacitated ability "One hero may use a power."
+The Naturalist uses the power on The Hunted Naturalist.
+Applying ongoing effect: The Naturalist may activate {rhinoceros} effects.
+The Hunted Naturalist's Desperate Prey plays Threatening Stomp.
+The Hunted Naturalist initiates 4 Melee damage to Heroic Infinitor.
+The Hunted Naturalist deals Heroic Infinitor 4 Melee damage.
+Heroic Infinitor is now at 48 HP.
+Applying ongoing effect: Redirect damage dealt by Heroic Infinitor to The Hunted Naturalist.
+GameController moved Threatening Stomp to The Naturalist's trash.
+Went from Void Guard Writhe's UseIncapacitatedAbility phase to End phase. 
+Went from Void Guard Writhe's End phase to The Celestial Tribunal's Start phase. 
+Went from The Celestial Tribunal's Start phase to PlayCard phase. 
+GameController plays The Celestial Chamber.
+Went from The Celestial Tribunal's PlayCard phase to End phase. 
+Went from The Celestial Tribunal's End phase to Infinitor's Start phase. 
+Went from Infinitor's Start phase to PlayCard phase. 
+GameController plays Twisted Miscreation.
+Heroic Infinitor caused Heroic Infinitor to regain 4 HP. HP is now 52.
+Went from Infinitor's PlayCard phase to End phase. 
+Heroic Infinitor initiates 2 Energy damage to Dark Conductor Argent Adept.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals Dark Conductor Argent Adept 2 Energy damage.
+Dark Conductor Argent Adept is now at 4 HP.
+Heroic Infinitor initiates 2 Energy damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Heroic Infinitor deals The Hunted Naturalist 2 Energy damage.
+The Hunted Naturalist is now at 16 HP.
+Dark Conductor Argent Adept initiates 2 Psychic damage to Dark Conductor Argent Adept.
+Dark Conductor Argent Adept deals Dark Conductor Argent Adept 2 Psychic damage.
+Dark Conductor Argent Adept is now at 2 HP.
+The Hunted Naturalist initiates 2 Psychic damage to The Hunted Naturalist.
+The Hunted Naturalist deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 14 HP.
+Recalescent Hellion initiates 3 Fire damage to Dark Conductor Argent Adept.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Recalescent Hellion deals Dark Conductor Argent Adept 3 Fire damage.
+Dark Conductor Argent Adept is now at -1 HP.
+Dark Conductor Argent Adept is no longer a target.
+Paragon of Sentience plays Paragon of Sentience.
+GameController moved Paragon of Sentience from the environment deck next to The Hunted Naturalist.
+Paragon of Sentience destroys itself!
+GameController moved Paragon of Sentience to the environment trash.
+All of The Argent Adept's cards are removed from the game.
+GameController moves 40 cards to the top of The Argent Adept's OutOfGame.
+Dark Conductor Argent Adept was flipped to its back side.
+Recalescent Hellion initiates 3 Fire damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Recalescent Hellion deals The Hunted Naturalist 3 Fire damage.
+The Hunted Naturalist is now at 11 HP.
+Lambent Reaper initiates 2 Energy damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals The Hunted Naturalist 2 Energy damage.
+The Hunted Naturalist is now at 9 HP.
+Lambent Reaper initiates 2 Psychic damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 7 HP.
+Lambent Reaper initiates 2 Energy damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals The Hunted Naturalist 2 Energy damage.
+The Hunted Naturalist is now at 5 HP.
+Lambent Reaper initiates 2 Psychic damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Lambent Reaper deals The Hunted Naturalist 2 Psychic damage.
+The Hunted Naturalist is now at 3 HP.
+Twisted Miscreation initiates 4 Energy damage to The Hunted Naturalist.
+Heroic Infinitor makes the damage irreducible.
+Heroic Infinitor makes the damage not redirectable.
+Twisted Miscreation deals The Hunted Naturalist 4 Energy damage.
+The Hunted Naturalist is now at -1 HP.
+The Hunted Naturalist is no longer a target.
+All heroes have been defeated.
+You just unlocked the promo card: Writhe: Cosmic Inventor!
